@@ -205,32 +205,29 @@ dag2gausspardag <- function(dag, normalize = FALSE, lbe = 0.1,
 # addd comments about plugin weighting function
 
 ########################################################
-# converter: R dataframe into Tetrad dataset
+# converter: R dataframe into Tetrad DataSet
 # requires dataframe with named columns
-# this doesn't work yet :(
+# requires rJava, assumes the JVM is running from the
+# latest Tetrad jar.
 dataFrame2TetradDataset <- function(df){
-	mt = matrix(df, ncol = ncol(df))
 	node_names = colnames(df)
 	node_list <- .jnew("java/util/ArrayList")
 	for (i in 1:length(node_names)){
 		nodname <- .jnew("java/lang/String", node_names[i])
 		nodi <- .jnew("edu/cmu/tetrad/graph/GraphNode", nodname)
 		nodi <- .jcast(nodi, "edu/cmu/tetrad/graph/Node")
-		node_list$add(i-1, nodi)
-		#node_list <- .jcall(node_list, nodi, "edu/cmu/tetrad/graph/Node")
+		node_list$add(nodi)
 	}
-	node_list <- .jcast(node_list, "Ljava/lang/Object;")
-	node_list <- .jcast(node_list, "Ljava/util/List<edu/cmu/tetrad/graph/Node>;")
+	node_list <- .jcast(node_list, "java.util.List")
+	mt = matrix(df, ncol = ncol(df))
 	mat <- .jarray(mt, dispatch=TRUE)
-	tetradData <- .jnew("edu/cmu/tetrad/data/ColtDataSet", 100, node_list)
+	tetradData <- .jnew("edu/cmu/tetrad/data/ColtDataSet", as.integer(nrow(df)), node_list)
+	tetradData <- tetradData$makeContinuousData(node_list, mat)
+	tetradData <- .jcast(tetradData, "edu/cmu/tetrad/data/DataSet")
+	return(tetradData)
 }
-# public ColtDataSet(int rows, List<Node> variables)
-tetradData <- .jnew("edu/cmu/tetrad/data/ColtDataSet", 0, node_list)
 
-bob <- .jnew("java/lang/Double", 0)
-joe <- .jcast(bob, "java/lang/Integer")
-joe <- .jcast(bob, "java/lang/int")
-joe <- .jcast(bob, "java/lang/Integer")
+
 ########################################################
 # converter: Tetrad edge type into graphNEL edge list
 # requires list of nodes and a set of edges
