@@ -6,9 +6,6 @@ library(graph)
 library(RBGL)
 library(rJava)
 
-# check you're running the right Java version. This should say 1.8.something:
-.jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
-
 # set the paths to whatever they should be for your machine:
 path_to_tetrad_jar = "/Users/lizzie/Dissertation_code/Tetrad-jars/tetrad-5.2.1-3.jar"
 path_to_data = "/Users/lizzie/Dissertation_code/Simulation/R-scripts/charity.txt"
@@ -22,6 +19,9 @@ mydata = read.table(path_to_data, sep="\t", header=TRUE)
 
 # start the Java Virtual Machine with the Tetrad jar:
 .jinit(path_to_tetrad_jar) 
+
+# check you're running the right Java version. This should say 1.8.something:
+.jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
 
 # convert dataframe to tetrad dataset:
 # (see function in other R file)
