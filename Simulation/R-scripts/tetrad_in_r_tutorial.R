@@ -2,6 +2,7 @@
 # Interfacing Tetrad with R: a tutorial
 
 # load required libraries
+library(stringr)
 library(graph)
 library(RBGL)
 library(rJava)
@@ -41,4 +42,7 @@ tetrad_graph = .jcall(ges_instance, "Ledu/cmu/tetrad/graph/Graph;", "search")
 # convert output of GES into an R object (graphNEL)
 ges_graph = tetradPattern2graphNEL(tetrad_graph)
 
-# And you're done!
+# you can now plot the graph in R:
+plot(ges_graph)
+
+# And you're done! 

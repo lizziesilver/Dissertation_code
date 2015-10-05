@@ -14,7 +14,7 @@ dataFrame2TetradDataset <- function(df){
 		node_list$add(nodi)
 	}
 	node_list <- .jcast(node_list, "java.util.List")
-	mt = matrix(df, ncol = ncol(df))
+	mt = as.matrix(df)
 	mat <- .jarray(mt, dispatch=TRUE)
 	tetradData <- .jnew("edu/cmu/tetrad/data/ColtDataSet", as.integer(nrow(df)), node_list)
 	tetradData <- tetradData$makeContinuousData(node_list, mat)
