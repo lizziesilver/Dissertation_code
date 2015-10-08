@@ -25,9 +25,9 @@ rJava has frustrated me a lot. Here are the important things I've learned:
 5. By default, `.jcast` doesn't check whether the casting worked. You have to use `.jcast(..., check=TRUE)` if you want R to complain when the casting fails.
 
 6. I still don't know how to determine the actual class of an object, as far as rJava is concerned. The options seem to be:
-(a) `dput(object)`, which prints the classname as far as R knows it (if `.jcast` fails silently, then R will _think_ it knows the class, but it will be wrong),
-(b) `objectName$getClass()` or `.jcall(objectName, "Ljava/lang/Class;", "getClass")`, which seem to report the instantiated class even after I have cast the object to the interface class (e.g. they say "ColtDataSet" even after I have up-cast to "DataSet"), or 
-(c) `objectName %instanceof% "className"`, which returns true for both the interface class and the instantiated class, regardless of whether or not I have up-cast to the interface class.
+    (a) `dput(object)`, which prints the classname as far as R knows it (if `.jcast` fails silently, then R will _think_ it knows the class, but it will be wrong),
+    (b) `objectName$getClass()` or `.jcall(objectName, "Ljava/lang/Class;", "getClass")`, which seem to report the instantiated class even after I have cast the object to the interface class (e.g. they say "ColtDataSet" even after I have up-cast to "DataSet"), or 
+    (c) `objectName %instanceof% "className"`, which returns true for both the interface class and the instantiated class, regardless of whether or not I have up-cast to the interface class.
 
 7. Basic data types dont need to be turned into Java objects, they just need to be the right types in R. So for example if your method requires an `int`, you just need to write `as.integer(2)` in R, rather than calling `.jnew("I", 2)` or anything like that. (Maybe this is obvious to people who know more CS than me.)
 
