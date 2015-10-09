@@ -71,7 +71,8 @@ for (i in 1:num_evolved){
 
 target_graph = evolved_list[[1]][[1]]
 
-log_evolved(evolved_list, new_run_ids, pgid, num_evolved, evolved_graph_log_file)
+evolved_graph_ids = log_evolved(evolved_list, new_run_ids, pgid, num_evolved, 
+                                evolved_graph_log_file)
 
 sim_run_log$evolved_graph_ids = paste(evolved_graph_ids, collapse=";")
 
@@ -222,7 +223,6 @@ write.table(search_log, search_log_file, sep=",", row.names=FALSE,
 
 ###########################
 # Second search: Starting point + target data
-rgid = rgid + 1
 ges_phase_2 = .jnew("edu/cmu/tetrad/search/FastGes", tetrad_target_small_data)
 ges_phase_2$setInitialGraph(.jcast(tetrad_graph_pooled, "edu.cmu.tetrad.graph.Graph"))
 # search using GES
@@ -241,7 +241,7 @@ save(tetrad_graph_phase_2, file=rjava_object_file)
 search_log = data.frame(recovered_graph_id = rgids[2],
 						type="phase_2",
 						dataset_id=min(dataset_ids),
-						prior_graph=rgid-1,
+						prior_graph=rgids[1],
 						path_to_ASCII=ascii_file,
 						path_to_R=r_object_file,
 						path_to_rJava=rjava_object_file)
@@ -252,7 +252,6 @@ write.table(search_log, search_log_file, sep=",", row.names=FALSE,
 
 ###########################
 # Third search: Target data alone
-rgid = rgid + 1
 ges_solo = .jnew("edu/cmu/tetrad/search/FastGes", tetrad_target_small_data)
 # search using GES
 tetrad_graph_solo = .jcall(ges_solo, "Ledu/cmu/tetrad/graph/Graph;", "search")
@@ -299,7 +298,8 @@ sim_run_log$evaluation_ids <- paste(eval$eval_ids, collapse=";")
 # 	(1) using just the rows that went into the pooled data
 # 		Save recovered graph object, and keep in memory for evaluation stage
 # 		Log: unique id for recovered graph, id of dataset, id of algorithm and all parameters
-# 	(2) using a superset, including the pooled data but also additional rows, so that the sample size is equal to the sample size of the pooled data.
+# 	(2) using a superset, including the pooled data but also additional rows, so that the 
+#     sample size is equal to the sample size of the pooled data.
 # 		Save recovered graph object, and keep in memory for evaluation stage
 # 		Log: unique id for recovered graph, id of dataset, id of algorithm and all parameters
 

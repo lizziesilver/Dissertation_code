@@ -71,7 +71,7 @@ log_evolved <- function(evolved_list, new_run_ids, pgid, num_evolved,
 				row.names=FALSE, 
 				append=file.exists(evolved_graph_log_file), 
 				col.names = "!"(file.exists(evolved_graph_log_file)))
-	return(NULL)
+	return(evolved_graph_ids)
 }
 
 ################################################################################
