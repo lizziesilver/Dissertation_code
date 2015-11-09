@@ -1,7 +1,7 @@
 \name{tetrad2graph}
 \alias{tetrad2graph}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{tetrad2graph
 %%  ~~function to do ... ~~
 }
 \description{

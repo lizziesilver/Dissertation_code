@@ -1,25 +1,25 @@
-\name{anRpackage-package}
-\alias{anRpackage-package}
-\alias{anRpackage}
+\name{cstl-package}
+\alias{cstl-package}
+\alias{cstl}
 \docType{package}
 \title{
-\packageTitle{anRpackage}
+\packageTitle{cstl}
 }
 \description{
-\packageDescription{anRpackage}
+\packageDescription{cstl}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{anRpackage}
-\packageIndices{anRpackage}
+\packageDESCRIPTION{cstl}
+\packageIndices{cstl}
 ~~ An overview of how to use the package, including the most ~~
 ~~ important functions ~~
 }
 \author{
-\packageAuthor{anRpackage}
+\packageAuthor{cstl}
 
-Maintainer: \packageMaintainer{anRpackage}
+Maintainer: \packageMaintainer{cstl}
 }
 \references{
 ~~ Literature or other references for background information ~~

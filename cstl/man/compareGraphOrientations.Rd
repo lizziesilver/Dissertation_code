@@ -1,7 +1,7 @@
 \name{compareGraphOrientations}
 \alias{compareGraphOrientations}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{compareGraphOrientations
 %%  ~~function to do ... ~~
 }
 \description{

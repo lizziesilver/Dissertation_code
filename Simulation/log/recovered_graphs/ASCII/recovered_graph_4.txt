@@ -1,11 +1,39 @@
 new("graphNEL"
-    , nodes = c("2", "3", "4", "5", "2_dup")
-    , edgeL = structure(list(`2` = structure(list(edges = integer(0)), .Names = "edges"), 
-    `3` = structure(list(edges = c(1L, 5L)), .Names = "edges"), 
-    `4` = structure(list(edges = c(1L, 5L, 4L)), .Names = "edges"), 
-    `5` = structure(list(edges = 3L), .Names = "edges"), `2_dup` = structure(list(
-        edges = integer(0)), .Names = "edges")), .Names = c("2", 
-"3", "4", "5", "2_dup"))
+    , nodes = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "13", 
+"14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", 
+"25", "26", "27", "28", "29", "30")
+    , edgeL = structure(list(`1` = structure(list(edges = 7L), .Names = "edges"), 
+    `2` = structure(list(edges = 20L), .Names = "edges"), `3` = structure(list(
+        edges = 19L), .Names = "edges"), `4` = structure(list(
+        edges = c(10L, 2L)), .Names = "edges"), `5` = structure(list(
+        edges = integer(0)), .Names = "edges"), `6` = structure(list(
+        edges = integer(0)), .Names = "edges"), `7` = structure(list(
+        edges = c(10L, 1L, 4L)), .Names = "edges"), `8` = structure(list(
+        edges = 11L), .Names = "edges"), `9` = structure(list(
+        edges = 26L), .Names = "edges"), `10` = structure(list(
+        edges = integer(0)), .Names = "edges"), `11` = structure(list(
+        edges = c(13L, 9L)), .Names = "edges"), `13` = structure(list(
+        edges = integer(0)), .Names = "edges"), `14` = structure(list(
+        edges = 5L), .Names = "edges"), `15` = structure(list(
+        edges = integer(0)), .Names = "edges"), `16` = structure(list(
+        edges = c(17L, 25L, 27L)), .Names = "edges"), `17` = structure(list(
+        edges = c(29L, 14L, 6L, 28L)), .Names = "edges"), `18` = structure(list(
+        edges = c(3L, 8L, 20L)), .Names = "edges"), `19` = structure(list(
+        edges = 10L), .Names = "edges"), `20` = structure(list(
+        edges = 26L), .Names = "edges"), `21` = structure(list(
+        edges = c(25L, 11L, 14L)), .Names = "edges"), `22` = structure(list(
+        edges = c(22L, 24L, 10L, 11L, 12L, 4L, 19L)), .Names = "edges"), 
+    `23` = structure(list(edges = 26:28), .Names = "edges"), 
+    `24` = structure(list(edges = c(24L, 25L, 29L, 10L, 12L, 
+    13L)), .Names = "edges"), `25` = structure(list(edges = c(22L, 
+    15L, 8L)), .Names = "edges"), `26` = structure(list(edges = integer(0)), .Names = "edges"), 
+    `27` = structure(list(edges = 5L), .Names = "edges"), `28` = structure(list(
+        edges = c(12L, 16L, 8L)), .Names = "edges"), `29` = structure(list(
+        edges = 29L), .Names = "edges"), `30` = structure(list(
+        edges = 8L), .Names = "edges")), .Names = c("1", "2", 
+"3", "4", "5", "6", "7", "8", "9", "10", "11", "13", "14", "15", 
+"16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", 
+"27", "28", "29", "30"))
     , edgeData = new("attrData"
     , data = list()
     , defaults = list()

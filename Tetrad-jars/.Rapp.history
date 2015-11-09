@@ -1,0 +1,873 @@
+seq_along(nummods)
+gR <- randomDAG(10, prob=.4)#
+nummods <- 5#
+graphlist <- list(gR)#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(2,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+?layout.neato
+?layout
+??layout
+library(igraph)
+igR <- igraph.from.graphNEL(gR)
+l1 <- layout(igR)
+plot(igR)
+l1 <- layout.fruchterman.rheingold(igR)
+l1 <- layout.fruchterman.reingold(igR)
+plot(igR, layout=l1)
+plot(igraph.from.graphNEL(graphlist[[i+1]], layout=l1))
+plot(graphlist[[1]])
+plot(igraph.from.graphNEL(graphlist[[i+1]]), layout=l1)
+plot(graphlist[[2]])
+i=1
+plot(igraph.from.graphNEL(graphlist[[i+1]]), layout=l1)
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+#		plot(igraph.from.graphNEL(graphlist[[i+1]]), layout=l1)#
+	} else if (whichmod==2){#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(9,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+i
+length(graphlist)
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}
+length(graphlist)
+plot(graphlist[[2]])
+whichmod
+modRemoveEdge(graphlist[[2]])
+par(mfrow=c(1,1))
+plot(graphlist[[2]])
+graphobject <- graphlist[[2]]
+nodelist <- nodes(graphobject)
+edgelist <- edges(graphobject)
+str(edgelist)
+str(edgelist@edgeL)
+edgelist@edgeL
+edgelist$edgeL
+edgelist[[2]]
+head(edgelist)
+edges(graphobject)
+?edges
+edgelist <- edgeL(graphobject)
+str(edgelist)
+nodelist <- nodes(graphobject)
+nodelist
+modRemoveEdge <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	edgelist <- edgeL(graphobject)#
+	from <- c()#
+	to <- c()#
+	for (i in 1:length(edgelist)){#
+		if (length(edgelist[[i]]) > 0){ #
+			for (j in 1:length(edgelist[[i]])){#
+				fromnode <- names(edgelist[i])#
+				from <- c(from, fromnode)#
+				tonode <- edgelist[[i]][j]#
+				to <- c(to, tonode)#
+			}#
+		}#
+	}#
+	edgeframe <- data.frame(from, to)#
+	normedgeweightlist <- probRemoveEdge(graphobject, #
+									   edgeframe)#
+	chosenedge <- sample(length(from), size=1, #
+						prob=normedgeweightlist)#
+	newgraph <- removeEdge(from=from[chosenedge], #
+						  to=to[chosenedge], #
+						  graph=graphobject)#
+	return(newgraph)#
+}
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(9,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+undirect
+undirect <- ugraph(graphobject)
+degree(undirect)
+plot(undirect)
+?ugraph
+#########################################################
+# Plugin distribution for removing a node#
+probRemoveNode <- function(graphobject){#
+	undirect <- ugraph(graphobject)#
+	weightlist <- 1/(degree(undirect)+1)#
+	normweights <- weightlist/sum(weightlist)#
+	return(normweights)#
+}#
+#
+# Modification: remove one node#
+modRemoveNode <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	normweights <- probRemoveNode(graphobject)#
+	chosennode <- sample(nodelist, size=1, #
+						 prob=normweights)#
+	newgraph <- removeNode(chosennode, graphobject)#
+	return(newgraph)#
+}#
+#
+#########################################################
+# Plugin distribution for removing an edge#
+probRemoveEdge <- function(graphobject, edgeframe){#
+	# edgeframe must have a "from" and a "to" column#
+	nodelist <- nodes(graphobject)#
+	undirect <- ugraph(graphobject)#
+	nodeweightlist <- 1/(degree(undirect)+1)#
+	edgeweightlist <- c()#
+	for (i in 1:nrow(edgeframe)){#
+		inds <- c(which(nodelist==edgeframe$from[i]),#
+				  which(nodelist==edgeframe$to[i]))#
+		newweight <- sum(nodeweightlist[inds]) #
+		edgeweightlist <- c(edgeweightlist, newweight)#
+	}#
+	normedgeweightlist <- edgeweightlist/#
+						 sum(edgeweightlist)#
+	return(normedgeweightlist)#
+}#
+#
+# Modification: remove one edge#
+modRemoveEdge <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	edgelist <- edgeL(graphobject)#
+	from <- c()#
+	to <- c()#
+	# can get rid of this loop by using the edgeMatrix function#
+	for (i in 1:length(edgelist)){#
+		if (length(edgelist[[i]]) > 0){ #
+			for (j in 1:length(edgelist[[i]])){#
+				fromnode <- names(edgelist[i])#
+				from <- c(from, fromnode)#
+				tonode <- edgelist[[i]][j]#
+				to <- c(to, tonode)#
+			}#
+		}#
+	}#
+	edgeframe <- data.frame(from, to)#
+	normedgeweightlist <- probRemoveEdge(graphobject, #
+									   edgeframe)#
+	chosenedge <- sample(length(from), size=1, #
+						prob=normedgeweightlist)#
+	newgraph <- removeEdge(from=from[chosenedge], #
+						  to=to[chosenedge], #
+						  graph=graphobject)#
+	return(newgraph)#
+}#
+#########################################################
+# Plugin distribution for adding an edge#
+# Uniform over pairs of non-adjacent nodes#
+# Assumes graph is not complete!#
+probAddEdge <- function(graphobject, newedgeframe){#
+	n <- nrow(newedgeframe)#
+	probs <- rep(1/n, times=n)#
+	return(probs)#
+}#
+#
+# Modification: add an edge#
+# Now does check that acyclicity is maintained#
+modAddEdge <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	undirect <- ugraph(graphobject)#
+	nonadjacent <- 1-(as(undirect, "graphAM")@adjMat)#
+	diag(nonadjacent) <- 0#
+	newedgeframe <- which(nonadjacent!=0, arr.ind=T)#
+	probs <- probAddEdge(graphobject, newedgeframe)#
+  topo1 <- c()#
+  while (length(topo1)==0) {#
+    chosen.new.edge <- newedgeframe[sample(nrow(newedgeframe#
+    ), size=1, prob=probs), ]#
+    from <- nodelist[chosen.new.edge[1]]#
+    to <- nodelist[chosen.new.edge[2]]#
+    newgraph <- addEdge(from, to, graphobject)#
+    topo1 <- tsort(newgraph)#
+  }#
+	return(newgraph)#
+}#
+#########################################################
+# Plugin distribution for duplicating a node#
+probDupNode <- function(graphobject){#
+	n <- length(nodes(graphobject))#
+	probs <- rep(1/n, times=n)#
+	return(probs)#
+}#
+#
+# Modification: add a node#
+modDupNode <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	probs <- probDupNode(graphobject)#
+	node.to.duplicate <- sample(nodelist, size=1, prob=probs)#
+	pa <- unlist(inEdges(node.to.duplicate, graphobject))#
+	ch <- unlist(adj(graphobject, node.to.duplicate))#
+	newname <- paste(node.to.duplicate, "_dup", sep="")#
+	newgraph <- addNode(newname, graphobject)#
+	for (i in seq_along(pa)){#
+		newgraph <- addEdge(from=pa[i], to=newname,#
+							newgraph)#
+	}#
+	for (i in seq_along(ch)){#
+		newgraph <- addEdge(from=newname, to=ch[i],#
+							newgraph)#
+	}#
+	return(newgraph)#
+}
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(9,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+whichmod
+edgeMatrix(graphobject)
+t(edgeMatrix(graphobject))
+t(edgeMatrix(graphobject))$from
+as.data.frame(t(edgeMatrix(graphobject)))$from
+degree(undirect)
+length(graphlist)
+undirect <- ugraph(graphlist[[4]])
+degree(undirect)
+modRemoveEdge <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	# edgelist <- edgeL(graphobject)#
+	# from <- c()#
+	# to <- c()#
+	# # can get rid of this loop by using the edgeMatrix function#
+	# for (i in 1:length(edgelist)){#
+		# if (length(edgelist[[i]]) > 0){ #
+			# for (j in 1:length(edgelist[[i]])){#
+				# fromnode <- names(edgelist[i])#
+				# from <- c(from, fromnode)#
+				# tonode <- edgelist[[i]][j]#
+				# to <- c(to, tonode)#
+			# }#
+		# }#
+	# }#
+	edgeframe <- as.data.frame(t(edgeMatrix(graphobject)))#
+	normedgeweightlist <- probRemoveEdge(graphobject, #
+									   edgeframe)#
+	chosenedge <- sample(length(from), size=1, #
+						prob=normedgeweightlist)#
+	newgraph <- removeEdge(from=from[chosenedge], #
+						  to=to[chosenedge], #
+						  graph=graphobject)#
+	return(newgraph)#
+}
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		cat("removing a node\n")#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		cat("removing an edge\n")#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		cat("duplicating a node\n")#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		cat("adding an edge\n")#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		cat("removing a node\n")#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		cat("removing an edge\n")#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		cat("duplicating a node\n")#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		cat("adding an edge\n")#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+nodeweightlist <- 1/(degree(undirect)+1)
+nodeweightlist
+length(graphlist)
+graphobject <- graphlist[[3]]
+nodelist <- nodes(graphobject)
+undirect <- ugraph(graphobject)
+nodeweightlist <- 1/(degree(undirect)+1)
+nodelist
+nodeweightlist
+edgeweightlist <- c()
+edgeframe
+edgeframe <- as.data.frame(t(edgeMatrix(graphobject)))
+edgeframe
+i=1
+inds <- c(which(nodelist==edgeframe$from[i]),#
+				  which(nodelist==edgeframe$to[i]))
+inds
+nodelist
+newweight <- sum(nodeweightlist[inds])
+newweight
+edgeweightlist <- c(edgeweightlist, newweight)
+edgeweightlist
+which(nodelist==edgeframe[i,])
+edgeframe[i,]
+nodeweightlist
+edgeframe$fromweight <- nodeweightlist[which(nodelist==edgeframe$from)]
+nodeweightlist[which(nodelist==edgeframe$from)]
+nodeweightlist[edgeframe$from)]
+nodeweightlist[edgeframe$from]
+nodeweightlist[edgeframe$to]
+edgeframe$to
+edgeframe$fromweight <- nodeweightlist[edgeframe$from]
+edgeframe$toweight <- nodeweightlist[edgeframe$to]
+edgeframe
+probRemoveEdge <- function(graphobject, edgeframe){#
+	# edgeframe must have a "from" and a "to" column#
+	nodelist <- nodes(graphobject)#
+	undirect <- ugraph(graphobject)#
+	nodeweightlist <- 1/(degree(undirect)+1)#
+	edgeframe$fromweight <- nodeweightlist[edgeframe$from]#
+	edgeframe$toweight <- nodeweightlist[edgeframe$to]#
+	edgeframe$edgeweight <- edgeframe$fromweight + edgeframe$toweight#
+	edgeframe$normedgeweightlist <- edgeframe$edgeweight/sum(edgeframe$edgeweight)#
+	# for (i in 1:nrow(edgeframe)){#
+		# inds <- c(which(nodelist==edgeframe$from[i]),#
+				  # which(nodelist==edgeframe$to[i]))#
+		# newweight <- sum(nodeweightlist[inds]) #
+		# edgeweightlist <- c(edgeweightlist, newweight)#
+	# }#
+	# normedgeweightlist <- edgeweightlist/#
+						 # sum(edgeweightlist)#
+	return(edgeframe$normedgeweightlist)#
+}#
+#
+# Modification: remove one edge#
+modRemoveEdge <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	# edgelist <- edgeL(graphobject)#
+	# from <- c()#
+	# to <- c()#
+	# # can get rid of this loop by using the edgeMatrix function#
+	# for (i in 1:length(edgelist)){#
+		# if (length(edgelist[[i]]) > 0){ #
+			# for (j in 1:length(edgelist[[i]])){#
+				# fromnode <- names(edgelist[i])#
+				# from <- c(from, fromnode)#
+				# tonode <- edgelist[[i]][j]#
+				# to <- c(to, tonode)#
+			# }#
+		# }#
+	# }#
+	edgeframe <- as.data.frame(t(edgeMatrix(graphobject)))#
+	normedgeweightlist <- probRemoveEdge(graphobject, #
+									   edgeframe)#
+	chosenedge <- sample(nrow(edgeframe), size=1, #
+						prob=normedgeweightlist)#
+	newgraph <- removeEdge(from=from[chosenedge], #
+						  to=to[chosenedge], #
+						  graph=graphobject)#
+	return(newgraph)#
+}
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		cat("removing a node\n")#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		cat("removing an edge\n")#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		cat("duplicating a node\n")#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		cat("adding an edge\n")#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+modRemoveEdge <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	# edgelist <- edgeL(graphobject)#
+	# from <- c()#
+	# to <- c()#
+	# # can get rid of this loop by using the edgeMatrix function#
+	# for (i in 1:length(edgelist)){#
+		# if (length(edgelist[[i]]) > 0){ #
+			# for (j in 1:length(edgelist[[i]])){#
+				# fromnode <- names(edgelist[i])#
+				# from <- c(from, fromnode)#
+				# tonode <- edgelist[[i]][j]#
+				# to <- c(to, tonode)#
+			# }#
+		# }#
+	# }#
+	edgeframe <- as.data.frame(t(edgeMatrix(graphobject)))#
+	normedgeweightlist <- probRemoveEdge(graphobject, #
+									   edgeframe)#
+	chosenedge <- sample(nrow(edgeframe), size=1, #
+						prob=normedgeweightlist)#
+	newgraph <- removeEdge(from=edgeframe$from[chosenedge], #
+						  to=edgeframe$to[chosenedge], #
+						  graph=graphobject)#
+	return(newgraph)#
+}
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		cat("removing a node\n")#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		cat("removing an edge\n")#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		cat("duplicating a node\n")#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		cat("adding an edge\n")#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+?removeEdge
+modRemoveEdge <- function(graphobject){#
+	nodelist <- nodes(graphobject)#
+	# edgelist <- edgeL(graphobject)#
+	# from <- c()#
+	# to <- c()#
+	# # can get rid of this loop by using the edgeMatrix function#
+	# for (i in 1:length(edgelist)){#
+		# if (length(edgelist[[i]]) > 0){ #
+			# for (j in 1:length(edgelist[[i]])){#
+				# fromnode <- names(edgelist[i])#
+				# from <- c(from, fromnode)#
+				# tonode <- edgelist[[i]][j]#
+				# to <- c(to, tonode)#
+			# }#
+		# }#
+	# }#
+	edgeframe <- as.data.frame(t(edgeMatrix(graphobject)))#
+	normedgeweightlist <- probRemoveEdge(graphobject, #
+									   edgeframe)#
+	chosenedge <- sample(nrow(edgeframe), size=1, #
+						prob=normedgeweightlist)#
+	newgraph <- removeEdge(from=nodelist[edgeframe$from[chosenedge]], #
+						  to=nodelist[edgeframe$to[chosenedge]], #
+						  graph=graphobject)#
+	return(newgraph)#
+}
+?removeEdge
+gR <- randomDAG(20, prob=.25)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		cat("removing a node\n")#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		cat("removing an edge\n")#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		cat("duplicating a node\n")#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		cat("adding an edge\n")#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+gR <- randomDAG(20, prob=.15)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		cat("removing a node\n")#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		cat("removing an edge\n")#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		cat("duplicating a node\n")#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		cat("adding an edge\n")#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+gR <- randomDAG(100, prob=.03)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		cat("removing a node\n")#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		cat("removing an edge\n")#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		cat("duplicating a node\n")#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		cat("adding an edge\n")#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+warnings()
+gR <- randomDAG(10, prob=.2)#
+nummods <- 8#
+graphlist <- list(gR)#
+#igR <- igraph.from.graphNEL(gR)#
+#l1 <- layout.fruchterman.reingold(igR)#
+#
+for (i in 1:nummods){#
+	whichmod <- sample(4, size=1)#
+	if (whichmod==1){#
+		cat("removing a node\n")#
+		graphlist[[i+1]] <- modRemoveNode(graphlist[[i]])#
+	} else if (whichmod==2){#
+		cat("removing an edge\n")#
+		graphlist[[i+1]] <- modRemoveEdge(graphlist[[i]])#
+	} else if (whichmod==3){#
+		cat("duplicating a node\n")#
+		graphlist[[i+1]] <- modDupNode(graphlist[[i]])#
+	} else if (whichmod==4){#
+		cat("adding an edge\n")#
+		graphlist[[i+1]] <- modAddEdge(graphlist[[i]])#
+	}#
+}#
+par(mfrow=c(3,3))#
+for (i in 1:(nummods+1)) plot(graphlist[[i]])
+ls()
+setwd("/Users/lizzie/Box Sync/Probabilistic-Graphical-Models/Homework/hw3/wiki_datsets")#
+#
+###############################################
+# pre-process dat#
+docs <- readLines("wiki_docs.txt")#
+docs <- strsplit(docs, split=" ")#
+for(i in 1:length(docs)) docs[[i]] <- as.numeric(docs[[i]])#
+#
+dat <- docs#
+#
+vocab <- read.table("wiki_vocab.txt", sep="\t")#
+names(vocab) <- c("word", "id")#
+vocab[,1] <- as.character(vocab[,1])#
+vocab[,2] <- as.numeric(as.character(vocab[,2]))#
+#
+###############################################
+# initialize beta using the dat#
+initbeta <- function(dat, vocab, smooth=1){#
+	dat <- unlist(dat)#
+	dat <- table(dat)#
+	tab <- rep(0, nrow(vocab))#
+	names(tab) <- vocab$id#
+	tab[names(dat)] <- dat#
+	tab <- tab + smooth#
+	beta <- matrix(rep(tab/sum(tab), k), ncol=k)#
+	return(beta)#
+}
+setwd("/Users/lizzie/Box Sync/Probabilistic-Graphical-Models/Homework/hw3/wiki_datsets")
+pc
+library(pcalg)
+pc
+?match.call
+?match.arg
+skeleton
+?rfci
+showClass("fciAlgo")
+7776^5
+7776^5/100000000000
+(7776^5/100000000000)/(60*60)
+(7776^5/100000000000)/(60*60*24)
+(7776^5/100000000000)/(60*60*24*365)
+(26^23/100000000000)/(60*60*24*365)
+209 / 209 + (50000 - 1934)
+209 / (209 + (50000 - 1934))
+*100
+209 *100 / (209 + (50000 - 1934))
+209 *100 / (209 + (50000*49999 - 1934))
+ls()
+learnnetworkPC
+learnnetworkPC <-function(genes,paths,data,defaultalpha) {#
+	genes<-setdiff(genes,setdiff(genes,colnames(data)))#
+	if(is.null(paths)){#
+		paths<-matrix(0,nrow=length(genes),ncol=length(genes))#
+		colnames(paths)<-genes#
+		rownames(paths)<-genes#
+	}#
+	levels<-data[,genes]#
+	cSums<-colSums(levels)#
+	levels<-levels[,-which(cSums==0)]#
+	genes<-genes[-which(cSums==0)]#
+	S=cor(levels)#
+	n<-length(genes)#
+	N<-dim(levels)[1]#
+	b<-(.5-defaultalpha)#
+	util<-paths>0#
+	class(util)<-"numeric"#
+	util<-(paths+1)-util#
+	alpha<-.5 - (b/util)	#
+	G.PC=pc(suffStat=list(C=S,n=dim(data)[1]),indepTest=gaussCItest, alpha=alpha,labels=genes,conservative=TRUE,m.max=3,verbose=FALSE)#
+	G.PC<-make.moral(G.PC@graph)#
+	return(G.PC)#
+}
+startTime<-system.Time()#
+G.PC <- learnnetworkPC(allgenes[,1],allsharepaths, controldata, .05)#
+endTime<-system.Time()
+system.time()
+library(pcalg)
+time.now()
+now()
+library(pcalg)
+.libPaths()
+library(pcalg)
+install.packages('devtools')
+devtools::install_github('rstudio/shinyapps')
+shinyapps::setAccountInfo(name='lizziesilver', token='4718CA3F9CF3972D29E0D005677698DF', secret='sjJqU9Ydx3Jp3dsVYyZ/gfE5XYwSmdcNe+8rFW0N')
+library(shinyapps)#
+shinyapps::deployApp('path/to/your/app')
+?update.packages
+install.packages('RODBC')
+609.92*2 + 549.08*2 + 492.31 - 3295
+library(pcal)
+library(pcalg)
+library(graph)
+source("http://bioconductor.org/biocLite.R")#
+biocLite("graph")
+library(pcalg)
+?pc
+?ges
+install.packages(pcalg)
+install.packages('pcalg')
+install.packages('CAM')
+bob = 1:412
+bob
+412/3
+createFolds(bob, k = 3, list = TRUE, returnTrain = FALSE)
+library(caret)
+createFolds(bob, k = 3, list = TRUE, returnTrain = FALSE)
+joe = createFolds(bob, k = 3, list = TRUE, returnTrain = FALSE)
+joe[[1]]
+write.table(joe[[1]], file="~/dssg/lizziesjob.txt", sep="\n")
+write.table(joe[[1]], file="~/dssg/lizziesjob.txt", sep="")
+write.table(joe[[1]], file="~/dssg/lizziesjob.txt", sep="", header=FALSE, rownums=FALSE)
+?write.table
+write.table(joe[[1]], file="~/dssg/lizziesjob.txt", sep="", header=FALSE, row.names=FALSE)
+write.table(joe[[1]], file="~/dssg/lizziesjob.txt", sep="", col.names=FALSE, row.names=FALSE)
+sam = vector(length=length(bob))
+sam[joe[[1]]] = "Lizzie"
+sam[joe[[2]]] = "Tom"
+sam[joe[[3]]] = "Amy"
+sam
+write.table(sam, file="~/dssg/emailpartition.txt", sep="", col.names=FALSE, row.names=FALSE, quote=FALSE)
+sam = vector(length= 412)#
+#
+bob = 1:252#
+createFolds(bob, k = 3, list = TRUE, returnTrain = FALSE)#
+sam[joe[[1]]] = "Lizzie"#
+sam[joe[[2]]] = "Tom"#
+sam[joe[[3]]] = "Amy"#
+#
+bob = 253:412#
+createFolds(bob, k = 3, list = TRUE, returnTrain = FALSE)#
+sam[joe[[1]]] = "Lizzie"#
+sam[joe[[2]]] = "Tom"#
+sam[joe[[3]]] = "Amy"#
+#
+write.table(sam, file="~/dssg/emailpartition.txt", sep="", col.names=FALSE, row.names=FALSE, quote=FALSE)
+2551.82-505.43
+2551.82-505.43 - 600
+2551.82-505.43 - 600 - 3295
+650 + 515 + 515 + 625
+650 + 515 + 515 + 625 + 2150
+3295 - (519.08 +579.92)
+519.08 + 579.92
+3295 - 1099
+?solve.qr
+?match.call
+library(rJava)
+find.packages(rJava)
+find.package(rJava)
+library(rJava)
+detach("package:rJava", unload=TRUE)
+Sys.getenv('LD_LIBRARY_PATH')
+install.packages('rJava', type='source')
+library(rJava)
+install.packages(rJava)
+install.packages("rJava")
+library(rJava)
+remove.packages("rJava")
+install.packages("rJava")
+library(rJava)
+remove.packages("rJava")
+find.package("rJava")
+library(rJava)
+.jinit)
+.jinit())
+.jinit()
+.jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
+library(rJava)
+.jinit()
+.jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
+Sys.getenv("DYLD_FALLBACK_LIBRARY_PATH")
+detach("package:rJava", unload=TRUE)
+Sys.setenv(DYLD_FALLBACK_LIBRARY_PATH="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/server/")
+library(rJava)#
+.jinit()#
+.jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
+.jinit("/Users/lizzie/Dissertation/Tetrad-jars/tetrad-5.2.1-3.jar") # this starts the JVM
+Sys.setenv(DYLD_FALLBACK_LIBRARY_PATH="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/server/")
+library(rJava)
+.jinit()
+.jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
+system("java -version")
+Sys.getenv("LD_LIBRARY_PATH")
+Sys.getenv("R_HOME")
+Sys.setenv(JAVA_HOME='/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk')
+detach("package:rJava", unload=TRUE)
+Sys.setenv(JAVA_HOME='/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk')
+Sys.setenv(DYLD_FALLBACK_LIBRARY_PATH="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/server/")
+library(rJava)
+.jinit()
+DYLD_PRINT_LIBRARIES=1
+DYLD_PRINT_LIBRARIES
+library(rJava)
+detach("package:rJava", unload=TRUE)
+library(rJava, DYLD_PRINT_LIBRARIES=1)
+?library
+getOption("verbose")
+library(rJava, verbose=TRUE)
+detach("package:rJava", unload=TRUE)
+install.packages("rJava",,"http://rforge.net/",type="source")
+library(rJava)
+find.package("rJava")
+library(rJava)
+.jinit()
+setwd("/Users/lizzie/Dissertation/Tetrad-jars/")
+.jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
+jobject <- .jnew("edu/cmu/tetrad/graph/Dag")  ## call the constructor

@@ -5,7 +5,7 @@ last_id_log_file = "../log/last_id_log.txt"
 sim_run_log_file = "../log/simulation_run_log.txt"
 
 # Progenitor graph config: 
-num_nodes = 6
+num_nodes = 30
 prob_edges = 0.4
 progenitor_graph_log_file = "../log/progenitor_graph_log.txt"
 progenitor_graph_log_dir = "../log/progenitor_graphs/"
@@ -18,12 +18,12 @@ evolved_graph_log_dir = "../log/evolved_graphs/"
 
 # Data gen config:
 parameterization = "linear_gaussian"
-sample_size = 100
+sample_size = 400
 dataset_log_file = "../log/dataset_log.txt"
 dataset_log_dir = "../log/datasets/"
 
 # Data pooling config:
-pooled_sample_sizes = c(80, 80, 80)
+pooled_sample_sizes = c(400, 200, 200)
 pooled_data_log_file = "../log/pooled_data_log.txt"
 pooled_data_log_dir = "../log/pooled_datasets/"
 
