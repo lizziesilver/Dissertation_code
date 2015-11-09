@@ -106,12 +106,11 @@ for (i in 1:num_evolved){
 # log features of dataset
 # todo: add params of data generation
 # todo: log parameterized graph!!!
-
 dataset_log = data.frame("dataset_id" = dataset_ids,
 						 "evolved_graph_id"=evolved_graph_ids,
 						 "parameterization" = parameterization,
 						 "num_rows"=rep(sample_size, num_evolved),
-						 "num_columns"= sapply(data_list, "ncol"))
+						 "num_columns"= num_nodes)
 
 write.table(dataset_log, dataset_log_file, sep=",", row.names=FALSE, 
     		append=file.exists(dataset_log_file), 
@@ -279,8 +278,8 @@ write.table(search_log, search_log_file, sep=",", row.names=FALSE,
     		col.names = "!"(file.exists(search_log_file)))
 
 
-eval <- rbind(compareGraphOrientations(ges_graph_solo, target_graph),
-              compareGraphOrientations(ges_graph_phase_2, target_graph))
+eval <- rbind(compareGraphs(ges_graph_solo, target_graph),
+			  compareGraphs(ges_graph_phase_2, target_graph))
 eval <- data.frame(eval)
 eval$eval_ids <- seq(new_run_ids$eval_id, new_run_ids$eval_id + nrow(eval) -1)
 eval$true_graph_id <- rep(min(evolved_graph_ids), nrow(eval))
@@ -321,6 +320,7 @@ new_run_ids$recovered_graph_id = max(rgids)
 new_run_ids$eval_id = max(eval$eval_ids)
 write.table(new_run_ids, last_id_log_file, sep=",", row.names=FALSE, 
     			append=FALSE, col.names = TRUE)
+
 
 # log the simulation run
 sim_run_log$end_time <- Sys.time()

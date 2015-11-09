@@ -26,7 +26,7 @@ dataFrame2TetradDataset <- function(df){
 # converter: Tetrad edge type into graphNEL edge list
 # requires list of nodes and a set of edges
 
-# extract nodes: 
+# extract nodes: DONE
 tetradPattern2graphNEL <- function(resultGraph){
 	nods = resultGraph$getNodes()
 	V = sapply(as.list(nods), with, toString())

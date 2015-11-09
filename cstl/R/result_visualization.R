@@ -1,8 +1,0 @@
-setwd("/Users/lizzie/Dissertation_code/Simulation/log")
-sim_runs <- read.csv("simulation_run_log.txt")
-searches <- read.csv("search_log.txt")
-prog_graphs <- read.csv("progenitor_graph_log.txt")
-pooled_datasets <- read.csv("pooled_data_log.txt")
-ev_graphs <- read.csv("evolved_graph_log.txt")
-evaluation <- read.csv("eval_log.txt")
-dataset_table <- read.csv("dataset_log.txt")

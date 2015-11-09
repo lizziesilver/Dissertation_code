@@ -1,13 +1,9 @@
 new("graphNEL"
-    , nodes = c("1", "2", "3", "4", "5", "6", "2_dup")
-    , edgeL = structure(list(`1` = structure(list(edges = 4L), .Names = "edges"), 
-    `2` = structure(list(edges = 6L), .Names = "edges"), `3` = structure(list(
-        edges = 5L), .Names = "edges"), `4` = structure(list(
-        edges = c(1L, 6L)), .Names = "edges"), `5` = structure(list(
-        edges = 3L), .Names = "edges"), `6` = structure(list(
-        edges = integer(0)), .Names = "edges"), `2_dup` = structure(list(
-        edges = 6L), .Names = "edges")), .Names = c("1", "2", 
-"3", "4", "5", "6", "2_dup"))
+    , nodes = c("4", "5", "6")
+    , edgeL = structure(list(`4` = structure(list(edges = 2:3), .Names = "edges"), 
+    `5` = structure(list(edges = 1L), .Names = "edges"), `6` = structure(list(
+        edges = 1L), .Names = "edges")), .Names = c("4", "5", 
+"6"))
     , edgeData = new("attrData"
     , data = list()
     , defaults = list()

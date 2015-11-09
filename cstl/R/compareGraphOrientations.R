@@ -1,4 +1,9 @@
-compareGraphOrientations <- function (gl, gt) {
+compareGraphOrientations <-
+function (gl, gt) {
+	
+	# gl <- tet.out
+	# gt <- target2 
+		
     # extract undirected adjacency matrices
     ml <- wgtMatrix(ugraph(gl))
     mt <- wgtMatrix(ugraph(gt))
@@ -74,7 +79,7 @@ compareGraphOrientations <- function (gl, gt) {
     		otnr <- 1
     }
 	
-	  # true positive rate
+	# true positive rate
     numOrientable <- (sum(orientable == 1))
     otp <- sum((oriented==orientable)[orientable==1])
     if (numOrientable > 0){

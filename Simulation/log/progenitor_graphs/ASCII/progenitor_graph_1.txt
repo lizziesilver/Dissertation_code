@@ -1,21 +1,20 @@
 new("graphNEL"
     , nodes = c("1", "2", "3", "4", "5", "6")
-    , edgeL = structure(list(`1` = structure(list(edges = c(3L, 4L, 6L)), .Names = "edges"), 
-    `2` = structure(list(edges = 6L), .Names = "edges"), `3` = structure(list(
-        edges = c(5L, 4L)), .Names = "edges"), `4` = structure(list(
-        edges = 6L), .Names = "edges"), `5` = structure(list(
-        edges = integer(0)), .Names = "edges"), `6` = structure(list(
-        edges = integer(0)), .Names = "edges")), .Names = c("1", 
+    , edgeL = structure(list(`1` = structure(list(edges = c(3L, 6L, 2L)), .Names = "edges"), 
+    `2` = structure(list(edges = 5L), .Names = "edges"), `3` = structure(list(
+        edges = integer(0)), .Names = "edges"), `4` = structure(list(
+        edges = c(6L, 5L)), .Names = "edges"), `5` = structure(list(
+        edges = 6), .Names = "edges"), `6` = structure(list(edges = integer(0)), .Names = "edges")), .Names = c("1", 
 "2", "3", "4", "5", "6"))
     , edgeData = new("attrData"
-    , data = structure(list(`1|3` = structure(list(weight = 0.31416636123322), .Names = "weight"), 
-    `1|4` = structure(list(weight = 0.920161731704138), .Names = "weight"), 
-    `1|6` = structure(list(weight = 0.519517193268985), .Names = "weight"), 
-    `2|6` = structure(list(weight = 0.400866295816377), .Names = "weight"), 
-    `3|5` = structure(list(weight = 0.699051112262532), .Names = "weight"), 
-    `3|4` = structure(list(weight = 0.707754135155119), .Names = "weight"), 
-    `4|6` = structure(list(weight = 0.182737071346492), .Names = "weight")), .Names = c("1|3", 
-"1|4", "1|6", "2|6", "3|5", "3|4", "4|6"))
+    , data = structure(list(`1|3` = structure(list(weight = 0.906283427169546), .Names = "weight"), 
+    `1|6` = structure(list(weight = 0.681212237779982), .Names = "weight"), 
+    `1|2` = structure(list(weight = 0.199980556825176), .Names = "weight"), 
+    `2|5` = structure(list(weight = 0.856349069881253), .Names = "weight"), 
+    `4|6` = structure(list(weight = 0.942169477744028), .Names = "weight"), 
+    `4|5` = structure(list(weight = 0.792115631280467), .Names = "weight"), 
+    `5|6` = structure(list(weight = 0.811791331740096), .Names = "weight")), .Names = c("1|3", 
+"1|6", "1|2", "2|5", "4|6", "4|5", "5|6"))
     , defaults = structure(list(weight = 1), .Names = "weight")
 )
     , nodeData = new("attrData"
