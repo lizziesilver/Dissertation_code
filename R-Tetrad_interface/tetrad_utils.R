@@ -1,3 +1,37 @@
+################################################################################
+ugraphToTetradGraph <- function(ugmat){
+  numNodes <- ncol(ugmat)
+  varnames <- paste("X", 1:numNodes, sep="")
+  edgelist <- c()
+  for (i in 2:numNodes){
+    for (j in 1:(i-1)){
+      if (ugmat[j,i]==1) edgelist <- c(edgelist, paste(varnames[j], "---", 
+                                                       varnames[i]))
+    }
+  }
+  
+  varstring <- paste(varnames, collapse=" ")
+  edgestring <- paste(1:length(edgelist),". ", edgelist, "\n",sep="", collapse="")
+  graphstring <- paste("\nGraph Nodes:\n", varstring, " \n\nGraph Edges: \n", 
+                       edgestring, "\n", sep="")
+  
+  graphfilename <- "impossibly_long_graph_file_name_temporary.txt"
+  if ("!"(file.exists(graphfilename))){
+    write(graphstring, graphfilename)
+    graphfile <- .jnew("java/io/File", graphfilename)
+    newug_tetrad <- .jcall("edu/cmu/tetrad/graph/GraphUtils", 
+                           "Ledu/cmu/tetrad/graph/Graph;", 
+                           "loadGraphTxt", graphfile)
+    newug_tetrad <- .jcast(newug_tetrad, "edu/cmu/tetrad/graph/Graph", check=TRUE)
+    rm(graphfile)
+    file.remove(graphfilename)
+    return(newug_tetrad)
+  } else {
+    print("Whoops, don't want to overwrite existing file!")
+    stop()
+  }
+}
+
 ########################################################
 # converter: R dataframe into Tetrad DataSet
 # requires dataframe with named columns
