@@ -6,6 +6,7 @@ library(graph)
 library(RBGL)
 library(rJava)
 library(huge)
+library(clime)
 
 # source config file
 source("/Users/lizzie/Dissertation_code/DAP/config.R")
@@ -71,6 +72,7 @@ for (i in 1:length(numNodesVec)){
                                node_list, 
                                as.integer(numLatentConfounders), 
                                as.integer(maxNumEdges), 
+                               as.integer(maxDegree),
                                as.integer(maxIndegree), 
                                as.integer(maxOutdegree), 
                                connected)
@@ -104,21 +106,6 @@ for (i in 1:length(numNodesVec)){
           newdata <- .jcall(newsem, "Ledu/cmu/tetrad/data/DataSet;", 
                             "simulateDataAcyclic", as.integer(sample_size))
           
-          # In Tetrad, create covariance matrix from data:
-          newcovmat <- .jnew("edu/cmu/tetrad/data/CovarianceMatrixOnTheFly", newdata)
-          newcovmat <- .jcast(newcovmat, "edu/cmu/tetrad/data/ICovarianceMatrix", 
-                              check=TRUE)
-          
-          # Use covariance matrix to create independence test:
-          # todo: choose alpha programmatically using sampleSize
-          newindtest_fisherz <- .jnew("edu/cmu/tetrad/search/IndTestFisherZ", newcovmat, 
-                                      0.05)
-          newindtest_fisherz <- .jcast(newindtest_fisherz, 
-                                       "edu/cmu/tetrad/search/IndependenceTest", 
-                                       check=TRUE)
-          
-          # todo URGENT: pass skeptic cov mat back into Tetrad, for use with independence test
-          
           ################################################################################
           # load data into R
           rdata <- read.table(text=newdata$toString(), header=TRUE)
@@ -127,8 +114,13 @@ for (i in 1:length(numNodesVec)){
           if (numLatentConfounders > 0){
             latent_nodes <- .jcall("edu/cmu/tetrad/graph/GraphUtils","Ljava/util/List;", 
                                    "getLatents", newgraph)
-            latent_node_names <- strsplit(gsub("\\[|\\]", "", latent_nodes$toString()), 
-                                          split=", ")[[1]]
+            latent_node_numbers <- as.numeric(strsplit(gsub("\\[|\\]|X", "", latent_nodes$toString()), 
+                                          split=", ")[[1]])
+            all_node_numbers <- as.numeric(strsplit(gsub("\\[|\\]|X", "", node_list$toString()), 
+                                            split=", ")[[1]])
+            # subtract 1 because java indexing starts at zero
+            latent_node_indices <- as.integer(which(all_node_numbers %in% latent_node_numbers) - 1)
+            for (lat in 1:length(latent_node_indices)){node_list$remove(latent_node_indices[lat])}
             rdata <- rdata[,setdiff(names(rdata), latent_node_names)]
           }
           
@@ -143,9 +135,67 @@ for (i in 1:length(numNodesVec)){
           # todo: comparison, evaluation measure of skeptic
           true_cor <- cor(rdata)
           
+          # pass skeptic cov mat back into Tetrad, for use with independence test
+          newcovmat <- rCovMatrix2TetradCovMatrix(skeptic_cor, node_list, sample_size)
+          
+#           # In Tetrad, create covariance matrix from raw data:
+#           truecovmat <- .jnew("edu/cmu/tetrad/data/CovarianceMatrixOnTheFly", newdata)
+#           truecovmat <- .jcast(newcovmat, "edu/cmu/tetrad/data/ICovarianceMatrix", 
+#                               check=TRUE)
+          
+          # Use covariance matrix to create independence test:
+          # todo: choose alpha programmatically using sampleSize
+          newindtest_fisherz <- .jnew("edu/cmu/tetrad/search/IndTestFisherZ", newcovmat, 
+                                      0.05)
+          newindtest_fisherz <- .jcast(newindtest_fisherz, 
+                                       "edu/cmu/tetrad/search/IndependenceTest", 
+                                       check=TRUE)
+          
+          ################################################################################
+          # get true PAG, Pattern and UG for evaluation phase
+          # todo: go through all this in detail and make sure that the
+          # various graph manipulations aren't changing the structure. 
+          
+          if (numLatentConfounders == 0){
+            # get true CPDAG in Tetrad
+            truegraph <- .jcall("edu/cmu/tetrad/search/SearchGraphUtils",
+                                "Ledu/cmu/tetrad/graph/Graph;", "patternForDag", newgraph)
+            truegraph <- .jcast(truegraph, "edu/cmu/tetrad/graph/Graph", check=TRUE)
+            
+            # get true UG (moralize the true DAG)
+            trueug <- .jcall("edu/cmu/tetrad/graph/GraphUtils", "Ledu/cmu/tetrad/graph/Graph;", "undirectedGraph", newgraph)
+            colliders <- .jcall("edu/cmu/tetrad/graph/GraphUtils", "Ljava/util/LinkedList;", "listColliderTriples", newgraph)
+
+          } else if (numLatentConfounders > 0){
+            # get PAG of true generating DAG with latents in Tetrad
+            dagtopag <- .jnew("edu/cmu/tetrad/search/DagToPag", newgraph)
+            truegraph <- dagtopag$convert()
+            truegraph <- .jcast(truegraph, "edu/cmu/tetrad/graph/Graph", check = TRUE)
+            # get true UG (moralize the true PAG)
+            trueug <- .jcall("edu/cmu/tetrad/graph/GraphUtils", "Ledu/cmu/tetrad/graph/Graph;", "undirectedGraph", truegraph)
+            colliders <- .jcall("edu/cmu/tetrad/graph/GraphUtils", "Ljava/util/LinkedList;", "listColliderTriples", truegraph)
+          }
+          
+          # now do the moralizing
+          colliders <- as.list(colliders)
+          for (colli in 1:length(colliders)){
+            X <- colliders[[colli]]$getX()
+            Z <- colliders[[colli]]$getZ()
+            if ("!"(newgraph$isAdjacentTo(X, Z))){
+              newedge <- .jnew("edu/cmu/tetrad/graph/Edge", .jcast(X, "edu/cmu/tetrad/graph/Node"), 
+                               .jcast(Z, "edu/cmu/tetrad/graph/Node"), .jnew("edu/cmu/tetrad/graph/Endpoint", "Tail")$TAIL,
+                               .jnew("edu/cmu/tetrad/graph/Endpoint", "Tail")$TAIL)
+              trueug$addEdge(newedge)
+            }
+          }
+          
+          trueug <- .jcast(trueug, "edu/cmu/tetrad/graph/Graph", check=TRUE)
+          
           ################################################################################
           # finish timing data generation & processing
           endTimeData <- Sys.time()
+          
+          dataTime <- endTimeData - startTimeData
           
           ################################################################################
           # Set/loop over learning methods
@@ -177,25 +227,40 @@ for (i in 1:length(numNodesVec)){
                   ugmat <- newug$path[[5]]
                   
                 } else if (specificAlgorithms %in% c("clime", "clime_ges", "clime_fci")){
-                  # todo: use clime to generate UG, make sure it translates to Tetrad
+                  newug <- clime(x=skeptic_cor, lambda=lambda,
+                                 sigma=TRUE, perturb=FALSE, standardize=FALSE,
+                                 linsolver=c("primaldual"), pdtol=1e-3, pdmaxiter=50)
+                  # todo: find principled way of getting ugmat
+                  ugmat <- 1*(round(newug$Omegalist[[5]],4)!=0)
+                  
                 } else if (specificAlgorithms %in% c("mb", "mb_ges", "mb_fci")){
-                  # todo: use MB estimator to generate UG, make sure it translates to Tetrad
+                  newug <- huge(x=skeptic_cor, lambda = NULL, nlambda = NULL, lambda.min.ratio = NULL, 
+                                method = "mb", scr = NULL, scr.num = NULL, cov.output = FALSE, 
+                                sym = "or", verbose = TRUE)
+                  # todo: pick lambda according to convergence proof
+                  # for now, pick an arbitrary graph in the path
+                  ugmat <- newug$path[[5]]
+                  
                 }
                 
                 # translate adjacency matrix in R into edge list graph in Tetrad
-                newug_tetrad <- ugraphToTetradGraph(ugmat)
+                newug_tetrad <- ugraphToTetradGraph(ugmat, node_list)
                 newug_tetrad <- .jcall("edu/cmu/tetrad/graph/GraphUtils", 
                                        "Ledu/cmu/tetrad/graph/Graph;", 
-                                       "replaceNodes", newug_tetrad, node_list)
+                                       "replaceNodes", newug_tetrad, 
+                                       .jcast(newindtest_fisherz$getVariables(), "java/util/List", check = TRUE))
+                learnedgraph <- .jcast(newug_tetrad, "edu/cmu/tetrad/graph/Graph", check=TRUE)
+                
               }
               
               # UG to GES
-              if (learningMethod %in% c("glasso_ges", "clime_ges", "mb_ges")){
+              if (specificAlgorithms %in% c("glasso_ges", "clime_ges", "mb_ges")){
                 # feed UG to GES
+                # todo: ask Peter about this
               }
               
               # UG to FCI
-              if (learningMethod %in% c("glasso_fci", "clime_fci", "mb_fci")){
+              if (specificAlgorithms %in% c("glasso_fci", "clime_fci", "mb_fci")){
                 # start FCI from given UG
                 newfci_tetrad <- .jnew("edu/cmu/tetrad/graph/EdgeListGraphSingleConnections", 
                                        newug_tetrad)
@@ -204,6 +269,7 @@ for (i in 1:length(numNodesVec)){
                 
                 # sepsets is created with newug_tetrad (analogous to gesGraph, as is 
                 # done in line 240 of GFci), rather than newfci_tetrad.
+                
                 sepsets <- .jnew("edu/cmu/tetrad/search/SepsetsMaxPValue",newug_tetrad, 
                                  newindtest_fisherz, nullsepsets, as.integer(3))
                 
@@ -230,78 +296,85 @@ for (i in 1:length(numNodesVec)){
                 
                 fciOrient <- .jnew("edu/cmu/tetrad/search/FciOrient", sepsets)
                 fciOrient$doFinalOrientation(newfci_tetrad)
-                newfci_tetrad <- .jcast(newfci_tetrad, "edu/cmu/tetrad/graph/Graph")
+                learnedgraph <- .jcast(newfci_tetrad, "edu/cmu/tetrad/graph/Graph")
               }
               
               ################################################################################
               # Learn graph: non-UG methods (PC, GES, FCI, GFCI)
               
               # PC
-              if (learningMethod == "pc"){
+              if (specificAlgorithms == "pc"){
                 # run PC
+                pcstable <- .jnew("edu/cmu/tetrad/search/PcStable", newindtest_fisherz)
+                learnedgraph <- pcstable$search()
               }
               
               # GES
-              if (learningMethod == "ges"){
+              if (specificAlgorithms == "ges"){
                 # run GES
+                newges <- .jnew("edu/cmu/tetrad/search/Ges", newcovmat)
+                learnedgraph <- newges$search()
               }
               
               # FCI
-              if (learningMethod == "fci"){
+              if (specificAlgorithms == "fci"){
                 # run FCI
+                newfci <- .jnew("edu/cmu/tetrad/search/Fci", newindtest_fisherz)
+                learnedgraph <- newfci$search()
               }
               
               # GFCI
-              if (learningMethod == "gfci"){
+              if (specificAlgorithms == "gfci"){
                 # run GFCI
+                newgfci <- .jnew("edu/cmu/tetrad/search/GFci", newindtest_fisherz)
+                learnedgraph <- newgfci$search()
               }
               
               
               ################################################################################
               # evaluation
-              # todo: go through all this in detail and make sure that the
-              # various graph manipulations aren't changing the structure. 
-              
-              if (numLatentConfounders == 0){
-                # get true CPDAG in Tetrad
-              } else if (numLatentConfounders > 0){
-                # get PAG of true generating DAG with latents in Tetrad
-                dagtopag <- .jnew("edu/cmu/tetrad/search/DagToPag", newgraph)
-                truepag <- dagtopag$convert()
-                truepag <- .jcast(truepag, "edu/cmu/tetrad/graph/Graph")
-              }
-              
-              # eval UG methods
-              if (learningMethod == "ug"){
-                if (numLatentConfounders == 0) {
-                  # eval causally sufficient UG and write out
-                } else if (numLatentConfounders > 0) {
-                  # eval causally insufficient UG and write out
-                }
-              }
-              
-              
-              
               
               # edge confusion matrix:
               newgraphutils <- .jnew("edu/cmu/tetrad/graph/GraphUtils")
               nulloutput <- .jnull("java/io/PrintStream")
-              result_counts <- newgraphutils$edgeMisclassificationCounts(truepag, newfci_tetrad, nulloutput)
+              if (learningMethod=="ug"){
+                result_counts <- newgraphutils$edgeMisclassificationCounts(trueug, newug_tetrad, nulloutput)
+                # adjacency errors:
+                newGraphComparison <- .jcall("edu/cmu/tetrad/search/SearchGraphUtils", 
+                                             "Ledu/cmu/tetrad/graph/GraphUtils$GraphComparison;", 
+                                             "getGraphComparison", 
+                                             .jcast(learnedgraph, "edu/cmu/tetrad/graph/Graph", check=TRUE), trueug)
+                
+              } else {
+                result_counts <- newgraphutils$edgeMisclassificationCounts(truegraph, learnedgraph, nulloutput)
+                # adjacency errors:
+                newGraphComparison <- .jcall("edu/cmu/tetrad/search/SearchGraphUtils", 
+                                             "Ledu/cmu/tetrad/graph/GraphUtils$GraphComparison;", 
+                                             "getGraphComparison", 
+                                             .jcast(learnedgraph, "edu/cmu/tetrad/graph/Graph", check=TRUE) , truegraph)
+                
+              }
               result_string <- newgraphutils$edgeMisclassifications(result_counts)
               cat(result_string)
               
-              # adjacency errors:
-              newGraphComparison <- .jcall("edu/cmu/tetrad/search/SearchGraphUtils", 
-                                           "Ledu/cmu/tetrad/graph/GraphUtils$GraphComparison;", 
-                                           "getGraphComparison", newfci_tetrad, truepag)
-              
+                     
               # not sure what these do:
               #newGraphComparison$getArrowptCorrect()
               #newGraphComparison$getArrowptFp()
               #newGraphComparison$getArrowptFn()
               
+              endTimeAlg <- Sys.time()
+              algTime <- endTimeAlg - startTimeAlg
+              
               ################################################################################
               # results into R, save to file
+              
+              searchparams <- c(graphGenMethod, learningMethod, specificAlgorithms, 
+                                numNodes, numLatentConfounders, sample_size, 
+                                maxNumEdges, dataTime, algTime)
+              names(searchparams) <- c("graphGenMethod", "learningMethod", "specificAlgorithms",
+                                       "numNodes", "numLatentConfounders", 
+                                       "sample_size", "maxNumEdges", "dataTime", "algTime")
               
               #edges
               edge_result_counts_r <- .jevalArray(result_counts, simplify=TRUE)
@@ -319,14 +392,14 @@ for (i in 1:length(numNodesVec)){
               adjacency_result <- c(newGraphComparison$getAdjFp(), 
                                     newGraphComparison$getAdjFn(), 
                                     newGraphComparison$getAdjCorrect(), 
-                                    newfci_tetrad$getNumEdges(),
-                                    truepag$getNumEdges())
+                                    learnedgraph$getNumEdges(),
+                                    truegraph$getNumEdges())
               names(adjacency_result) <- c("AdjFp", "AdjFn", "AdjCorrect", "EstEdges", "TrueEdges")
               
               #write out
-              allresults <- c(adjacency_result, edge_results_vector)
+              allresults <- c(searchparams, adjacency_result, edge_results_vector)
               if ("!"(file.exists(output_filename))){
-                write(names(allresults), output_filename, ncolumns = length(allresults), sep="\t")
+                write(names(allresults), file=output_filename, ncolumns = length(allresults), sep="\t")
               }
               write(allresults, file=output_filename, ncolumns=length(allresults), sep="\t", append=TRUE)
             }

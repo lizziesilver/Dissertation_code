@@ -1,7 +1,8 @@
 ################################################################################
-ugraphToTetradGraph <- function(ugmat){
+ugraphToTetradGraph <- function(ugmat, node_list){
   numNodes <- ncol(ugmat)
-  varnames <- paste("X", 1:numNodes, sep="")
+  varnames <- strsplit(gsub("\\[|\\]", "", node_list$toString()), 
+                                split=", ")[[1]]
   edgelist <- c()
   for (i in 2:numNodes){
     for (j in 1:(i-1)){
@@ -54,6 +55,17 @@ dataFrame2TetradDataset <- function(df){
 	tetradData <- tetradData$makeContinuousData(node_list, mat)
 	tetradData <- .jcast(tetradData, "edu/cmu/tetrad/data/DataSet")
 	return(tetradData)
+}
+
+########################################################
+# converter: R covariance matrix into Tetrad covariance matrix
+rCovMatrix2TetradCovMatrix <- function(covmat, node_list, sample_size){
+  mat <- .jarray(covmat, dispatch=TRUE)
+  tetmat <- .jnew("edu/cmu/tetrad/util/TetradMatrix", mat)
+  tetcovmat <- .jnew("edu/cmu/tetrad/data/CovarianceMatrix", node_list, tetmat, as.integer(sample_size))
+  tetcovmat <- .jcast(tetcovmat, "edu/cmu/tetrad/data/ICovarianceMatrix", 
+                      check=TRUE)
+  return(tetcovmat)
 }
 
 ########################################################
