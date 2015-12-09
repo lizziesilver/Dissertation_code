@@ -114,8 +114,10 @@ for (i in 1:length(numNodesVec)){
           if (numLatentConfounders > 0){
             latent_nodes <- .jcall("edu/cmu/tetrad/graph/GraphUtils","Ljava/util/List;", 
                                    "getLatents", newgraph)
+            latent_node_names <- strsplit(gsub("\\[|\\]", "", latent_nodes$toString()), 
+                                          split=", ")[[1]]
             latent_node_numbers <- as.numeric(strsplit(gsub("\\[|\\]|X", "", latent_nodes$toString()), 
-                                          split=", ")[[1]])
+                                                       split=", ")[[1]])
             all_node_numbers <- as.numeric(strsplit(gsub("\\[|\\]|X", "", node_list$toString()), 
                                             split=", ")[[1]])
             # subtract 1 because java indexing starts at zero
@@ -169,6 +171,7 @@ for (i in 1:length(numNodesVec)){
           } else if (numLatentConfounders > 0){
             # get PAG of true generating DAG with latents in Tetrad
             dagtopag <- .jnew("edu/cmu/tetrad/search/DagToPag", newgraph)
+            dagtopag$setMaxPathLength(as.integer(maxPathLength))
             truegraph <- dagtopag$convert()
             truegraph <- .jcast(truegraph, "edu/cmu/tetrad/graph/Graph", check = TRUE)
             # get true UG (moralize the true PAG)
@@ -271,7 +274,7 @@ for (i in 1:length(numNodesVec)){
                 # done in line 240 of GFci), rather than newfci_tetrad.
                 
                 sepsets <- .jnew("edu/cmu/tetrad/search/SepsetsMaxPValue",newug_tetrad, 
-                                 newindtest_fisherz, nullsepsets, as.integer(3))
+                                 newindtest_fisherz, nullsepsets, as.integer(maxPathLength))
                 
                 ug_edges <- as.list(newfci_tetrad$getEdges())
                 for (m in 1:length(ug_edges)){
@@ -320,6 +323,7 @@ for (i in 1:length(numNodesVec)){
               if (specificAlgorithms == "fci"){
                 # run FCI
                 newfci <- .jnew("edu/cmu/tetrad/search/Fci", newindtest_fisherz)
+                newfci$setMaxPathLength(as.integer(maxPathLength))
                 learnedgraph <- newfci$search()
               }
               
@@ -327,6 +331,7 @@ for (i in 1:length(numNodesVec)){
               if (specificAlgorithms == "gfci"){
                 # run GFCI
                 newgfci <- .jnew("edu/cmu/tetrad/search/GFci", newindtest_fisherz)
+                newgfci$setMaxPathLength(as.integer(maxPathLength))
                 learnedgraph <- newgfci$search()
               }
               
