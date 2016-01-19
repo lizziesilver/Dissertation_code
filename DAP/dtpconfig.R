@@ -1,17 +1,19 @@
 # configuration file for simulation  study 
 
 # input and output files
-path_to_tetrad_jar = "/Users/lizzie/Dissertation_code/R-Tetrad_interface/tetrad-lib-5.3.0-SNAPSHOT-tetradcmd.jar"
+path_to_tetrad_jar = "/Users/lizzie/Dissertation_code/DAP/tetrad-lib-5.3.0-SNAPSHOT-tetradcmd.jar"
 path_to_utils = "/Users/lizzie/Dissertation_code/R-Tetrad_interface/tetrad_utils.R"
-other_tetrad_paths = c("/Users/lizzie/Dissertation_code/R-Tetrad_interface/tetrad-gui-5.3.0-SNAPSHOT.jar")
-output_filename = "/Users/lizzie/Dissertation_code/DAP/DAP_sim_results.txt"
+other_tetrad_paths = c("/Users/lizzie/Dissertation_code/DAP/tetrad-gui-5.3.0-SNAPSHOT.jar")
+output_filename = "/Users/lizzie/Dissertation_code/DAP/dagToPag_timing_results.txt"
 
 # the methods for setting parameters return vectors of options, which we iterate over
 
 # graph generation method will vary independently of the other things
-graphGenMethodVec = c("forwardedges", "scalefree")
-numNodesVec = c(50, 500, 5000)
-#numNodesVec = c(50)
+graphGenMethodVec = c("uniform")
+#numNodesVec = c(50, 500, 5000)
+#numNodesVec = c(4,5,6,7,8,9,10,11,12,13,14,15)
+#numNodesVec = c(16, 20, 30, 40, 50, 75)
+numNodesVec = 75
 
 # learning method depends on whether there are latents or not
 setLearningMethod = function(numLatentConfounders){
@@ -41,27 +43,21 @@ setSpecificAlgorithms = function(learningMethod){
 
 # All other features are functions of the number of nodes
 setNumLatentConfounders = function(numNodes){
-  return(c(0, ceiling(0.01*numNodes)))#, ceiling(0.11*numNodes)))
+  numlats <- unique(ceiling(seq(from=1, to=0.3*numNodes, length.out=5)))
+  return(numlats)#, ceiling(0.11*numNodes)))
 }
 setMaxNumEdges = function(numNodes){
-  return(c(1*numNodes, 2*numNodes, 3*numNodes))
-}
-setSampleSize = function(numNodes){
-  if (numNodes==50){
-    return(c(100, 1000)) # 2, 20 
-  } else if (numNodes==500) {
-    return(c(100, 1000)) # .2, 2
-  } else if (numNodes==5000) {
-    return(c(100, 1000, 10000)) # .02, .2, 2
-  }
+  upperlimit <- min(0.5*numNodes*(numNodes - 1), numNodes*2)
+  length_out <- min(upperlimit - numNodes + 1, 4)
+  return(floor(seq(from=numNodes, to=upperlimit, length.out=length_out)))
 }
 
 # these features return only a single value
 setMaxDegree = function(numNodes){
   return(unique(c(#min(numNodes - 1, 3), 
-    min(numNodes - 1, 3), 
-    min(numNodes - 1, 5), 
-    numNodes - 1)))
+                  min(numNodes - 1, 4), 
+                  min(numNodes - 1, 6), 
+                  numNodes - 1)))
 }
 setMaxIndegree = function(numNodes, maxDegree){
   return(min(numNodes - 1, maxDegree))
