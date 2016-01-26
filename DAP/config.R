@@ -9,9 +9,9 @@ output_filename = "/Users/lizzie/Dissertation_code/DAP/DAP_sim_results.txt"
 # the methods for setting parameters return vectors of options, which we iterate over
 
 # graph generation method will vary independently of the other things
-graphGenMethodVec = c("forwardedges", "scalefree")
-numNodesVec = c(50, 500, 5000)
-#numNodesVec = c(50)
+graphGenMethodVec = c("forwardedges", "uniform")
+#numNodesVec = c(50, 500, 5000)
+numNodesVec = c(50, 500)
 
 # learning method depends on whether there are latents or not
 setLearningMethod = function(numLatentConfounders){
@@ -41,10 +41,11 @@ setSpecificAlgorithms = function(learningMethod){
 
 # All other features are functions of the number of nodes
 setNumLatentConfounders = function(numNodes){
-  return(c(0, ceiling(0.01*numNodes)))#, ceiling(0.11*numNodes)))
+  #return(c(0, ceiling(0.01*numNodes)))#, ceiling(0.11*numNodes)))
+  return(c(0, ceiling(0.01*numNodes), ceiling(0.11*numNodes)))
 }
 setMaxNumEdges = function(numNodes){
-  return(c(1*numNodes, 2*numNodes, 3*numNodes))
+  return(c(1*numNodes, 2*numNodes))
 }
 setSampleSize = function(numNodes){
   if (numNodes==50){
@@ -60,8 +61,7 @@ setSampleSize = function(numNodes){
 setMaxDegree = function(numNodes){
   return(unique(c(#min(numNodes - 1, 3), 
     min(numNodes - 1, 3), 
-    min(numNodes - 1, 5), 
-    numNodes - 1)))
+    min(numNodes - 1, 5))))
 }
 setMaxIndegree = function(numNodes, maxDegree){
   return(min(numNodes - 1, maxDegree))
