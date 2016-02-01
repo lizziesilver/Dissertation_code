@@ -1,5 +1,9 @@
 ################################################################################
 # set up 
+
+# allocate 4 gigs of memory to java
+options( java.parameters = "-Xmx2g" )
+
 # load packages
 library(stringr)
 library(graph)
@@ -113,6 +117,43 @@ for (i in 1:length(numNodesVec)){
                     }
                     endTimeGraphGen <- Sys.time()
                     graphGenTime <- difftime(endTimeGraphGen, startTimeGraphGen, units="secs")
+                    
+                    degreemat <- matrix(nrow=numNodes, ncol=4)
+                    colnames(degreemat) <- c("degree", "indegree", "outdegree", "latent")
+                    for (node_i in 1:numNodes){
+                      degreemat[node_i, "degree"] = newgraph$getNumEdges(as.list(node_list)[[node_i]])
+                      degreemat[node_i, "indegree"] = newgraph$getIndegree(as.list(node_list)[[node_i]])
+                      degreemat[node_i, "outdegree"] = newgraph$getOutdegree(as.list(node_list)[[node_i]])
+                      degreemat[node_i, "latent"] = as.list(node_list)[[node_i]]$getNodeType()$toString()=="Latent"
+                    }
+                    
+                    mean_degrees <- colMeans(degreemat[,1:3])
+                    names(mean_degrees) <- paste("mean_", names(mean_degrees), sep="")
+                    median_degrees <- apply(degreemat[,1:3], 2, "median")
+                    names(median_degrees) <- paste("median_", names(median_degrees), sep="")
+                    max_degrees <- apply(degreemat[,1:3], 2, "max")
+                    names(max_degrees) <- paste("max_", names(max_degrees), sep="")
+                    if (numLatentConfounders > 0){
+                      latent_mean_degrees <- colMeans(degreemat[degreemat[,"latent"]==TRUE,1:3, 
+                                                                drop=FALSE])
+                      names(latent_mean_degrees) <- paste("latent_mean_", names(latent_mean_degrees), 
+                                                          sep="")
+                      latent_median_degrees <- apply(degreemat[degreemat[,"latent"]==TRUE,1:3, 
+                                                               drop=FALSE], 2, "median")
+                      names(latent_median_degrees) <- paste("latent_median_", 
+                                                            names(latent_median_degrees), sep="")
+                      latent_max_degrees <- apply(degreemat[degreemat[,"latent"]==TRUE,1:3, 
+                                                            drop=FALSE], 2, "max")
+                      names(latent_max_degrees) <- paste("latent_max_", 
+                                                         names(latent_max_degrees), sep="")
+                    } else {
+                      latent_mean_degrees <- c(0,0,0)
+                      names(latent_mean_degrees) <- paste("latent_", names(mean_degrees), sep="")
+                      latent_median_degrees <- c(0,0,0)
+                      names(latent_median_degrees) <- paste("latent_", names(median_degrees), sep="")
+                      latent_max_degrees <- c(0,0,0)
+                      names(latent_max_degrees) <- paste("latent_", names(max_degrees), sep="")
+                    }
                     
                     realNumEdges <- newgraph$getNumEdges()
                     realMaxDegree <- .jcall("edu/cmu/tetrad/graph/GraphUtils", 
@@ -417,12 +458,14 @@ for (i in 1:length(numNodesVec)){
                     
                     searchparams <- c(timeComplete, graphGenMethod, learningMethod, specificAlgorithms, 
                                       numNodes, numLatentConfounders, 
-                                      realMaxDegree, maxDegree, maxIndegree, maxOutdegree,
+                                      mean_degrees, median_degrees, max_degrees, 
+                                      latent_mean_degrees, latent_median_degrees, latent_max_degrees,
                                       realNumEdges, maxNumEdges, sample_size, 
                                       algTime, dataTime, graphGenTime, moralizeTime, dagToCpdagOrPagTime)
                     names(searchparams) <- c("timeComplete", "graphGenMethod", "learningMethod", "specificAlgorithms",
                                              "numNodes", "numLatentConfounders", 
-                                             "realMaxDegree", "maxDegree", "maxIndegree", "maxOutdegree",
+                                             "mean_degrees", "median_degrees", "max_degrees", 
+                                             "latent_mean_degrees", "latent_median_degrees", "latent_max_degrees",
                                              "realNumEdges", "maxNumEdges", "sample_size", 
                                              "algTime", "dataTime", "graphGenTime", "moralizeTime", "dagToCpdagOrPagTime")
                     
