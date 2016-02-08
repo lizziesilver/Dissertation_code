@@ -1,8 +1,18 @@
 ################################################################################
+checkJavaVersion <- function(version="1.8"){
+  java_version <- .jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
+  if (substr(java_version, 1, 3) != version){
+    stop("R is not using Java 8.")
+  } else {
+    return(TRUE)
+  }
+}
+
+################################################################################
 ugraphToTetradGraph <- function(ugmat, node_list){
   numNodes <- ncol(ugmat)
   varnames <- strsplit(gsub("\\[|\\]", "", node_list$toString()), 
-                                split=", ")[[1]]
+                       split=", ")[[1]]
   edgelist <- c()
   for (i in 2:numNodes){
     for (j in 1:(i-1)){
@@ -40,21 +50,21 @@ ugraphToTetradGraph <- function(ugmat, node_list){
 # requires rJava, assumes the JVM is running from the
 # latest Tetrad jar.
 dataFrame2TetradDataset <- function(df){
-	node_names = colnames(df)
-	node_list <- .jnew("java/util/ArrayList")
-	for (i in 1:length(node_names)){
-		nodname <- .jnew("java/lang/String", node_names[i])
-		nodi <- .jnew("edu/cmu/tetrad/graph/GraphNode", nodname)
-		nodi <- .jcast(nodi, "edu/cmu/tetrad/graph/Node")
-		node_list$add(nodi)
-	}
-	node_list <- .jcast(node_list, "java.util.List")
-	mt = as.matrix(df)
-	mat <- .jarray(mt, dispatch=TRUE)
-	tetradData <- .jnew("edu/cmu/tetrad/data/ColtDataSet", as.integer(nrow(df)), node_list)
-	tetradData <- tetradData$makeContinuousData(node_list, mat)
-	tetradData <- .jcast(tetradData, "edu/cmu/tetrad/data/DataSet")
-	return(tetradData)
+  node_names = colnames(df)
+  node_list <- .jnew("java/util/ArrayList")
+  for (i in 1:length(node_names)){
+    nodname <- .jnew("java/lang/String", node_names[i])
+    nodi <- .jnew("edu/cmu/tetrad/graph/GraphNode", nodname)
+    nodi <- .jcast(nodi, "edu/cmu/tetrad/graph/Node")
+    node_list$add(nodi)
+  }
+  node_list <- .jcast(node_list, "java.util.List")
+  mt = as.matrix(df)
+  mat <- .jarray(mt, dispatch=TRUE)
+  tetradData <- .jnew("edu/cmu/tetrad/data/ColtDataSet", as.integer(nrow(df)), node_list)
+  tetradData <- tetradData$makeContinuousData(node_list, mat)
+  tetradData <- .jcast(tetradData, "edu/cmu/tetrad/data/DataSet")
+  return(tetradData)
 }
 
 ########################################################
@@ -74,30 +84,30 @@ rCovMatrix2TetradCovMatrix <- function(covmat, node_list, sample_size){
 
 # extract nodes: 
 tetradPattern2graphNEL <- function(resultGraph){
-	nods = resultGraph$getNodes()
-	V = sapply(as.list(nods), with, toString())
-	
-	# extract edges
-	eds = resultGraph$getEdges()
-	ges_edges = sapply(as.list(eds), .jrcall, "toString")
-	edgemat <- str_split_fixed(ges_edges,  pattern=" ", n=3)
-
-	# find undirected edge indices
-	undir <- which(edgemat[,2]=="---")
-	
-	# for each undirected edge, create a new edge with the two variables 
-	# in reversed order. Also, remove the edge column, but name the columns
-	edgemat <- rbind(edgemat[,c(1,3)], edgemat[undir,c(3,1)])
-	colnames(edgemat) <- c("Parent", "Child")
-	
-	# create edge list for graphNEL format
-	edgel <- list()
-	for (i in 1:length(V)){
-		edgel[[i]] <- edgemat[which(edgemat[,1]==V[i]),2]
-	}
-	names(edgel) <- V
-	
-	outputgraph <- graphNEL(nodes=V, edgeL=edgel, edgemode="directed")
-	return(outputgraph)
+  nods = resultGraph$getNodes()
+  V = sapply(as.list(nods), with, toString())
+  
+  # extract edges
+  eds = resultGraph$getEdges()
+  ges_edges = sapply(as.list(eds), .jrcall, "toString")
+  edgemat <- str_split_fixed(ges_edges,  pattern=" ", n=3)
+  
+  # find undirected edge indices
+  undir <- which(edgemat[,2]=="---")
+  
+  # for each undirected edge, create a new edge with the two variables 
+  # in reversed order. Also, remove the edge column, but name the columns
+  edgemat <- rbind(edgemat[,c(1,3)], edgemat[undir,c(3,1)])
+  colnames(edgemat) <- c("Parent", "Child")
+  
+  # create edge list for graphNEL format
+  edgel <- list()
+  for (i in 1:length(V)){
+    edgel[[i]] <- edgemat[which(edgemat[,1]==V[i]),2]
+  }
+  names(edgel) <- V
+  
+  outputgraph <- graphNEL(nodes=V, edgeL=edgel, edgemode="directed")
+  return(outputgraph)
 }
 
