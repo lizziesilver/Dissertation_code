@@ -1,0 +1,570 @@
+Sirt7	sirtuin 7	MGI:MGI:2385849	
+Dnmt3a	DNA methyltransferase 3A	MGI:MGI:1261827	
+Dnmt3b	DNA methyltransferase 3B	MGI:MGI:1261819	
+Gfi1b	growth factor independent 1B	MGI:MGI:1276578	Gfi-1B
+Tspyl2	TSPY-like 2	MGI:MGI:106244	CINAP|DENTT|DXBwg1396e|DXHXS1008E|E130307F10Rik
+Hnrnpc	heterogeneous nuclear ribonucleoprotein C	MGI:MGI:107795	D14Wsu171e|hnRNPC1|hnRNP C1|hnRNPC2|hnRNP C2|Hnrpc|Hnrpc1|Hnrpc2
+Apbb1	amyloid beta (A4) precursor protein-binding, family B, member 1	MGI:MGI:107765	Fe65|Rir
+Supt6	suppressor of Ty 6	MGI:MGI:107726	5131400N11Rik|SPT6|Supt6h
+Phf13	PHD finger protein 13	MGI:MGI:2446217	SPOC1
+Tnrc18	trinucleotide repeat containing 18	MGI:MGI:3648294	EG381742|Zfp469
+Auts2	autism susceptibility candidate 2	MGI:MGI:1919847	2700063G02Rik|A730011F23Rik|D830032G16Rik
+Cul4b	cullin 4B	MGI:MGI:1919834	2700050M05Rik
+Wdr5	WD repeat domain 5	MGI:MGI:2155884	2410008O07Rik|Big-3|Bmp2-induced gene
+Tbl1xr1	transducin (beta)-like 1X-linked receptor 1	MGI:MGI:2441730	8030499H02Rik|A630076E03Rik|C21|C230089I12Rik|DC42|Ira1|TBLR1
+Bre	brain and reproductive organ-expressed protein	MGI:MGI:1333875	6030405P19Rik|B830038C02Rik
+Chrac1	chromatin accessibility complex 1	MGI:MGI:2135796	2410152E03Rik|2810406L04Rik|YCL1
+Mbd3	methyl-CpG binding domain protein 3	MGI:MGI:1333812	
+Mbd1	methyl-CpG binding domain protein 1	MGI:MGI:1333811	Cxxc3|PCM1
+Nr1h4	nuclear receptor subfamily 1, group H, member 4	MGI:MGI:1352464	Fxr|HRR1|RIP14|Rxrip14
+Kdm4c	lysine (K)-specific demethylase 4C	MGI:MGI:1924054	2410141F18Rik|Jmjd2c
+Naa50	N(alpha)-acetyltransferase 50, NatE catalytic subunit	MGI:MGI:1919367	2600005K24Rik|2810441M03Rik|Mak3p|Nat13|Nat5|San
+Chd9	chromodomain helicase DNA binding protein 9	MGI:MGI:1924001	1810014J18Rik|9030205D12Rik|A330063D19Rik|AD013
+Bcl6	B cell leukemia/lymphoma 6	MGI:MGI:107187	Bcl5
+Psme4	proteasome (prosome, macropain) activator subunit 4	MGI:MGI:2143994	
+Aurkb	aurora kinase B	MGI:MGI:107168	Aik2|AIRK2|aurora B|IPL1|STK-1|Stk12|Stk5
+Sin3b	transcriptional regulator, SIN3B (yeast)	MGI:MGI:107158	2810430C10Rik
+Sin3a	transcriptional regulator, SIN3A (yeast)	MGI:MGI:107157	mSin3A|Sin3
+Mbtd1	mbt domain containing 1	MGI:MGI:2143977	hemp
+Mettl8	methyltransferase like 8	MGI:MGI:2385142	TIP
+Kdm5b	lysine (K)-specific demethylase 5B	MGI:MGI:1922855	2010009J12Rik|2210016I17Rik|D1Ertd202e|Jarid1b|Plu1|PLU-1|Rb-Bp2
+Supt7l	suppressor of Ty 7-like	MGI:MGI:1919445	2610524B01Rik|6030455L14Rik
+Setdb1	SET domain, bifurcated 1	MGI:MGI:1934229	ESET|KMT1E
+Ing5	inhibitor of growth family, member 5	MGI:MGI:1922816	1700027H23Rik|1810018M11Rik
+Hdac5	histone deacetylase 5	MGI:MGI:1333784	mHDA1
+Hdac6	histone deacetylase 6	MGI:MGI:1333752	mHDA2|Sfc6
+Hcfc1	host cell factor C1	MGI:MGI:105942	HCF1|HCF-1|VP16 accessory protein
+Prmt6	protein arginine N-methyltransferase 6	MGI:MGI:2139971	Hrmt1l6
+Brd2	bromodomain containing 2	MGI:MGI:99495	D17H6S113E|Frg-1|Fsrg1|Ring3|Rnf3
+Eny2	enhancer of yellow 2 homolog (Drosophila)	MGI:MGI:1919286	1810057B09Rik
+Arrb1	arrestin, beta 1	MGI:MGI:99473	1200006I17Rik|beta-arrestin1
+Dnajc2	DnaJ heat shock protein family (Hsp40) member C2	MGI:MGI:99470	Mida1|Zrf1|Zrf2
+H2afy2	H2A histone family, member Y2	MGI:MGI:3037658	macroH2A2
+Hira	histone cell cycle regulator	MGI:MGI:99430	D16Ertd95e|Gm15797|Tuple1
+Utp3	UTP3 small subunit processome component	MGI:MGI:1919230	2400011K09Rik|Crlz1
+Msl3	male-specific lethal 3 homolog (Drosophila)	MGI:MGI:1341851	Msl31|Msl3l1
+Jdp2	Jun dimerization protein 2	MGI:MGI:1932093	Jundm2|TIF
+Kat5	K(lysine) acetyltransferase 5	MGI:MGI:1932051	Htatip|mHTATIP/CPLA2|PLIP|Tip60
+Prmt2	protein arginine N-methyltransferase 2	MGI:MGI:1316652	Hrmt1l1
+Smarce1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	MGI:MGI:1927347	2810417B20Rik|5830412H02Rik|9030408N19Rik|BAF57
+Ring1	ring finger protein 1	MGI:MGI:1101770	Ring1A
+H3f3b	H3 histone, family 3B	MGI:MGI:1101768	9430068D06Rik|H3.3B
+Rnf2	ring finger protein 2	MGI:MGI:1101759	dinG|Ring1B
+Ubr5	ubiquitin protein ligase E3 component n-recognin 5	MGI:MGI:1918040	4432411E13Rik|Edd|Edd1
+Pcgf1	polycomb group ring finger 1	MGI:MGI:1917087	2010002K04Rik|Nspc1
+Myod1	myogenic differentiation 1	MGI:MGI:97275	bHLHc1|MYF3|MyoD|Myod-1
+Myc	myelocytomatosis oncogene	MGI:MGI:97250	bHLHe39|c-myc|Myc2|Niard|Nird
+Myb	myeloblastosis oncogene	MGI:MGI:97249	c-myb
+Trim37	tripartite motif-containing 37	MGI:MGI:2153072	1110032A10Rik|2810004E07Rik|MUL|TEF3
+Smyd1	SET and MYND domain containing 1	MGI:MGI:104790	4632404M21Rik|Bop
+Vprbp	Vpr (HIV-1) binding protein	MGI:MGI:2445220	B930007L02Rik
+Kdm5a	lysine (K)-specific demethylase 5A	MGI:MGI:2136980	Jarid1a|Rbbp2|RBP2
+Taf5	TATA-box binding protein associated factor 5	MGI:MGI:2442144	6330528C20Rik
+Hmgn3	high mobility group nucleosomal binding domain 3	MGI:MGI:2138069	1110002A15Rik|6330514M13Rik|HMGN3a|HMGN3b|TRIP7
+Trim16	tripartite motif-containing 16	MGI:MGI:2137356	9130006M08Rik|EBBP
+Mrgbp	MRG/MORF4L binding protein	MGI:MGI:1920497	1600027N09Rik
+Aurkc	aurora kinase C	MGI:MGI:1321119	AIE1|AIK3|IAK3|Stk13
+Zfp451	zinc finger protein 451	MGI:MGI:2137896	4930515K21Rik|4933435G09Rik|Kiaa0576-hp
+Dydc1	DPY30 domain containing 1	MGI:MGI:1916746	1700029M23Rik
+Kmt2c	lysine (K)-specific methyltransferase 2C	MGI:MGI:2444959	E330008K23Rik|HALR|Mll3
+Brca1	breast cancer 1, early onset	MGI:MGI:104537	
+Prdm6	PR domain containing 6	MGI:MGI:2684938	LOC225518|PRISM
+Wdr82	WD repeat domain containing 82	MGI:MGI:1924555	9430077D24Rik
+Usp16	ubiquitin specific peptidase 16	MGI:MGI:1921362	1200004E02Rik|2810483I07Rik|6330514E22Rik|UBP-M
+Sycp3	synaptonemal complex protein 3	MGI:MGI:109542	Cor1|Scp3
+Scmh1	sex comb on midleg homolog 1	MGI:MGI:1352762	Scml3
+L3mbtl4	l(3)mbt-like 4 (Drosophila)	MGI:MGI:2444889	A730037L19Rik|D930040M24Rik
+Prdm14	PR domain containing 14	MGI:MGI:3588194	
+Huwe1	HECT, UBA and WWE domain containing 1	MGI:MGI:1926884	5430439H10Rik|Arf-bp1|C430014N20Rik|Ib772|LOC382250|Mule|Ureb1
+Hist1h1e	histone cluster 1, H1e	MGI:MGI:1931527	H1-4|H1e|H1f4|H1s-4|H1var2
+Hist1h1c	histone cluster 1, H1c	MGI:MGI:1931526	0610008C09Rik|H1.2|H1c|H1f2|H1var1
+Prdm13	PR domain containing 13	MGI:MGI:2448528	
+Suv420h1	suppressor of variegation 4-20 homolog 1 (Drosophila)	MGI:MGI:2444557	C630029K18Rik|KMT5B|Suv4-20h1
+Msl1	male-specific lethal 1 homolog (Drosophila)	MGI:MGI:1921276	2810017F12Rik|4121402D02Rik|4930463F05Rik
+Phf19	PHD finger protein 19	MGI:MGI:1921266	3110009G19Rik|3321402G02Rik
+Ube2n	ubiquitin-conjugating enzyme E2N	MGI:MGI:1934835	UBC13
+Lif	leukemia inhibitory factor	MGI:MGI:96787	
+Atad2b	ATPase family, AAA domain containing 2B	MGI:MGI:2444798	1110014E10Rik|D530031C13Rik
+Taf1	TATA-box binding protein associated factor 1	MGI:MGI:1336878	B430306D02Rik|Ccg1|Ccg-1|KAT4|Taf2a
+Ing2	inhibitor of growth family, member 2	MGI:MGI:1916510	2810011M06Rik|Ing1l|P33ING2
+Chd7	chromodomain helicase DNA binding protein 7	MGI:MGI:2444748	A730019I05Rik|Cycn|Cyn|Dz|Edy|Flo|GENA 47|Gena 52|GENA 60|Lda|Mt|Obt|Todo|WBE1|Whi
+Arid5a	AT rich interactive domain 5A (MRF1-like)	MGI:MGI:2443039	D430024K22Rik|Mrf1
+Airn	antisense Igf2r RNA	MGI:MGI:1353471	2810051F02Rik|2810434M15Rik|Air|B930018I07Rik|D17Ertd663e
+Naa60	N(alpha)-acetyltransferase 60, NatF catalytic subunit	MGI:MGI:1922013	1200013P24Rik|Nat15
+Meaf6	MYST/Esa1-associated factor 6	MGI:MGI:1917338	2310005N01Rik|2810036M01Rik
+Nek11	NIMA (never in mitosis gene a)-related expressed kinase 11	MGI:MGI:2442276	4932416N14Rik
+Rbl1	retinoblastoma-like 1 (p107)	MGI:MGI:103300	p107
+Prkd2	protein kinase D2	MGI:MGI:2141917	PKD2
+Pwp1	PWP1 homolog, endonuclein	MGI:MGI:1914735	2310058A11Rik|2610205J09Rik
+Mir208b	microRNA 208b	MGI:MGI:3718461	Mirn208b|mmu-mir-208b
+Chek1	checkpoint kinase 1	MGI:MGI:1202065	Chk1
+Kat2a	K(lysine) acetyltransferase 2A	MGI:MGI:1343101	1110051E14Rik|Gcn5|Gcn5l2|PCAF-B/GCN5
+Pax7	paired box 7	MGI:MGI:97491	Pax-7
+Pax5	paired box 5	MGI:MGI:97489	EBB-1|Pax-5
+Ino80b	INO80 complex subunit B	MGI:MGI:1917270	2510009I23Rik|HMG1YL4|Hmga1l4|Papa1|Znhit4
+Csrp2bp	cysteine and glycine-rich protein 2 binding protein	MGI:MGI:1917264	2510008M08Rik|ATAC2|D2Ertd473e|D2Wsu131e
+Satb1	special AT-rich sequence binding protein 1	MGI:MGI:105084	2610306G12Rik
+Zbtb1	zinc finger and BTB domain containing 1	MGI:MGI:2442326	C430003J21Rik
+Trrap	transformation/transcription domain-associated protein	MGI:MGI:2153272	transactivation/transformation-domain associated protein
+Chd4	chromodomain helicase DNA binding protein 4	MGI:MGI:1344380	9530019N15Rik|D6Ertd380e|Mi-2beta
+Mbd3l1	methyl-CpG binding domain protein 3-like 1	MGI:MGI:1920753	1700070G05Rik|1700095H13Rik|Mbd3l
+Mgea5	meningioma expressed antigen 5 (hyaluronidase)	MGI:MGI:1932139	2810009A20Rik|4833427O07Rik|5830447M11Rik|Hy5
+Men1	multiple endocrine neoplasia 1	MGI:MGI:1316736	menin
+Iws1	IWS1 homolog (S. cerevisiae)	MGI:MGI:1920723	1700069O15Rik
+Kat2b	K(lysine) acetyltransferase 2B	MGI:MGI:1343094	A930006P13Rik|Pcaf
+Hdac3	histone deacetylase 3	MGI:MGI:1343091	
+Hotair	HOX transcript antisense RNA (non-protein coding)	MGI:MGI:3826586	
+Skp1a	S-phase kinase-associated protein 1A	MGI:MGI:103575	2610043E24Rik|2610206H23Rik|p19Skp1|Tceb1l
+Cdc45	cell division cycle 45	MGI:MGI:1338073	Cdc45l
+Mbd3l2	methyl-CpG binding domain protein 3-like 2	MGI:MGI:2158460	
+Aebp2	AE binding protein 2	MGI:MGI:1338038	B230313N05Rik
+Usp22	ubiquitin specific peptidase 22	MGI:MGI:2144157	
+Rnf20	ring finger protein 20	MGI:MGI:1925927	4833430L21Rik
+Brd8	bromodomain containing 8	MGI:MGI:1925906	2610007E11Rik|4432404P07Rik|p120|SMAP
+Cenpv	centromere protein V	MGI:MGI:1920389	3110013H01Rik|Prr6
+BC004004	cDNA sequence BC004004	MGI:MGI:2136782	2400006G15Rik
+Ubn1	ubinuclein 1	MGI:MGI:1891307	1110029L11Rik|2610108L02Rik
+Rps6ka5	ribosomal protein S6 kinase, polypeptide 5	MGI:MGI:1920336	3110005L17Rik|6330404E13Rik|MSK1
+Sirt1	sirtuin 1	MGI:MGI:2135607	Sir2|Sir2alpha
+Cbx4	chromobox 4	MGI:MGI:1195985	MPc2|PC2
+Nr3c1	nuclear receptor subfamily 3, group C, member 1	MGI:MGI:95824	glucocorticoid receptor|GR|Grl1|Grl-1
+Morf4l1	mortality factor 4 like 1	MGI:MGI:1096551	MORFRG15|MRG15|TEG-189|Tex189
+Leo1	Leo1, Paf1/RNA polymerase II complex component	MGI:MGI:2685031	LOC235497
+Hipk4	homeodomain interacting protein kinase 4	MGI:MGI:2685008	LOC233020
+Hdac10	histone deacetylase 10	MGI:MGI:2158340	
+Ttf1	transcription termination factor, RNA polymerase I	MGI:MGI:105044	
+Jade1	jade family PHD finger 1	MGI:MGI:1925835	D530048A03Rik|Phf17
+Wac	WW domain containing adaptor with coiled-coil	MGI:MGI:2387357	1110067P07Rik|A230035H12Rik|Wwp4
+Rbl2	retinoblastoma-like 2	MGI:MGI:105085	p130|Rb2
+Rtf1	RTF1, Paf1/RNA polymerase II complex component	MGI:MGI:1309480	2900005O08Rik|6530416A09Rik|Gtl7
+Kat6b	K(lysine) acetyltransferase 6B	MGI:MGI:1858746	B130044K16Rik|monocytic leukemia|Morf|Myst4|qkf|querkopf
+Daxx	Fas death domain-associated protein	MGI:MGI:1197015	
+Hils1	histone H1-like protein in spermatids 1	MGI:MGI:2136691	TISP64
+Jade3	jade family PHD finger 3	MGI:MGI:2148019	Phf16
+Pole4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	MGI:MGI:1914229	2400007P05Rik|5830430F06Rik
+Npm2	nucleophosmin/nucleoplasmin 2	MGI:MGI:1890811	
+Pcgf2	polycomb group ring finger 2	MGI:MGI:99161	mel-18|Mel18|Rnf110|Zfp144
+Whsc1	Wolf-Hirschhorn syndrome candidate 1 (human)	MGI:MGI:1276574	5830445G22Rik|9430010A17Rik|C130020C13Rik|D030027O06Rik|D930023B08Rik|Whsc1l
+Nsd1	nuclear receptor-binding SET-domain protein 1	MGI:MGI:1276545	KMT3B
+Ncoa3	nuclear receptor coactivator 3	MGI:MGI:1276535	2010305B15Rik|AIB1|bHLHe42|KAT13B|pCIP|RAC3|Src3|TRAM1|TRAM-1
+Ncoa2	nuclear receptor coactivator 2	MGI:MGI:1276533	bHLHe75|D1Ertd433e|glucocorticoid receptor-interacting protein 1|Grip1|KAT13C|SRC-2|TIF2|TIF-2|TIF2/GRIP-1
+Ncoa1	nuclear receptor coactivator 1	MGI:MGI:1276523	bHLHe74|KAT13A|SRC1|SRC-1|SRC-a/NCoA-1|steroid receptor coactivator-1
+Atad2	ATPase family, AAA domain containing 2	MGI:MGI:1917722	2610509G12Rik
+Sall1	sal-like 1 (Drosophila)	MGI:MGI:1889585	Msal-3
+Padi4	peptidyl arginine deiminase, type IV	MGI:MGI:1338898	Pad4|PAD type IV|Pdi4
+Padi2	peptidyl arginine deiminase, type II	MGI:MGI:1338892	PAD type II|Pdi|Pdi2
+Sirt6	sirtuin 6	MGI:MGI:1354161	2810449N18Rik
+Rbm14	RNA binding motif protein 14	MGI:MGI:1929092	1300007E16Rik|p16|PSP2
+Rb1	retinoblastoma 1	MGI:MGI:97874	pRb|Rb|Rb-1
+Rnf8	ring finger protein 8	MGI:MGI:1929069	3830404E21Rik|AIP37
+Rybp	RING1 and YY1 binding protein	MGI:MGI:1929059	2410018J24Rik|DEDAF
+Ehmt2	euchromatic histone lysine N-methyltransferase 2	MGI:MGI:2148922	Bat8|D17Ertd710e|G9a|KMT1C|NG36
+Suv39h2	suppressor of variegation 3-9 homolog 2 (Drosophila)	MGI:MGI:1890396	4930507K23Rik|D2Ertd544e|KMT1B|Suv39h histone methyltransferase
+Tada2b	transcriptional adaptor 2B	MGI:MGI:3035274	LOC231151
+Ddb1	damage specific DNA binding protein 1	MGI:MGI:1202384	damage-specific DNA-binding protein, DNA repair|DNA repair protein|p127-Ddb1
+Prdm12	PR domain containing 12	MGI:MGI:2685844	LOC381359
+Hjurp	Holliday junction recognition protein	MGI:MGI:2685821	6430706D22Rik|A730008H23Rik|C330011F01Rik
+Vps72	vacuolar protein sorting 72	MGI:MGI:1202305	Tcfl1|YL-1
+Hdac8	histone deacetylase 8	MGI:MGI:1917565	2610007D20Rik
+Usp21	ubiquitin specific peptidase 21	MGI:MGI:1353665	ESTM28|Usp16|Usp23|W53272
+Cbx6	chromobox 6	MGI:MGI:3512628	
+Pagr1a	PAXIP1 associated glutamate rich protein 1A	MGI:MGI:1914528	2900092E17Rik|C77040|PA1
+Uimc1	ubiquitin interaction motif containing 1	MGI:MGI:103185	9430016E08Rik|D330018D10Rik|D630032M02Rik|Rxrip110
+Cbx8	chromobox 8	MGI:MGI:1353589	Pc3|polycomb 3
+Brms1	breast cancer metastasis-suppressor 1	MGI:MGI:2388804	
+Cdk9	cyclin-dependent kinase 9 (CDC2-related kinase)	MGI:MGI:1328368	PITALRE
+Smarcb1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	MGI:MGI:1328366	Baf47|Ini1|integrase interactor 1|Snf5|SNF5/INI1
+Dppa3	developmental pluripotency-associated 3	MGI:MGI:1920958	2410075G02Rik|PGC7|stella
+Paxbp1	PAX3 and PAX7 binding protein 1	MGI:MGI:1914617	1810007M14Rik|Gcfc1|Pax3/7bp
+Paxip1	PAX interacting (with transcription-activation domain) protein 1	MGI:MGI:1890430	D5Ertd149e|PTIP
+Yeats2	YEATS domain containing 2	MGI:MGI:2447762	
+Mir744	microRNA 744	MGI:MGI:3691603	mir-744|Mirn744|mmu-mir-744
+Snai2	snail family zinc finger 2	MGI:MGI:1096393	Slug|Slugh|Snail2
+Tpr	translocated promoter region, nuclear basket protein	MGI:MGI:1922066	2610029M07Rik
+Prkcb	protein kinase C, beta	MGI:MGI:97596	A130082F03Rik|Pkcb|PKC-Beta|Prkcb1|Prkcb2
+Prkca	protein kinase C, alpha	MGI:MGI:97595	Pkca
+Baz1b	bromodomain adjacent to zinc finger domain, 1B	MGI:MGI:1353499	Wbscr9|WSTF
+Mbip	MAP3K12 binding inhibitory protein 1	MGI:MGI:1918320	4933408E06Rik
+Tcf3	transcription factor 3	MGI:MGI:98510	A1|ALF2|bHLHb21|E12|E2A|E47|Pan1|Pan2|Tcfe2a
+Brd7	bromodomain containing 7	MGI:MGI:1349766	BP75|bromodomain protein 75 kDa|CELTIX1
+Hnf1a	HNF1 homeobox A	MGI:MGI:98504	hepatocyte nuclear factor 1|Hnf-1|HNF1|HNF1[a]|Hnf1alpha|HNF1-alpha|LFB1|Tcf1
+Dmap1	DNA methyltransferase 1-associated protein 1	MGI:MGI:1913483	1500016M21Rik
+Baz1a	bromodomain adjacent to zinc finger domain 1A	MGI:MGI:1309478	Acf1|Gtl5|Wcrf180
+Hist1h2ba	histone cluster 1, H2ba	MGI:MGI:2448375	
+Setd3	SET domain containing 3	MGI:MGI:1289184	2610102I01Rik|2610305M23Rik|D12Ertd771e
+Lrwd1	leucine-rich repeats and WD repeat domain containing 1	MGI:MGI:1918985	1200011O22Rik|Orca
+Sgf29	SAGA complex associated factor 29	MGI:MGI:1922815	1700023O11Rik|Ccdc101
+Phf21a	PHD finger protein 21A	MGI:MGI:2384756	80kDa|Bhc80|Braf35/HDAC complex (Bhc)|D030065N23Rik|PFTF1
+Wbscr22	Williams Beuren syndrome chromosome region 22	MGI:MGI:1913388	1110003N24Rik
+Sfpq	splicing factor proline/glutamine rich (polypyrimidine tract binding protein associated)	MGI:MGI:1918764	1110004P21Rik|2810416M14Rik|5730453G22Rik|9030402K04Rik|D4Ertd314e|PSF|REP1
+Setd6	SET domain containing 6	MGI:MGI:1913333	0610039J04Rik
+Kdm4a	lysine (K)-specific demethylase 4A	MGI:MGI:2446210	D4Ertd222e|JHDM3A|Jmjd2|Jmjd2a
+Eid1	EP300 interacting inhibitor of differentiation 1	MGI:MGI:1889651	2610002K20Rik|Cri1|EID-1|ORF12
+Setd1a	SET domain containing 1A	MGI:MGI:2446244	KMT2F
+Usp15	ubiquitin specific peptidase 15	MGI:MGI:101857	4921514G19Rik|E430033I05Rik|Gcap18
+Phf2	PHD finger protein 2	MGI:MGI:1338034	
+Nap1l2	nucleosome assembly protein 1-like 2	MGI:MGI:106654	Bpx
+Mthfr	5,10-methylenetetrahydrofolate reductase	MGI:MGI:106639	
+Hdac7	histone deacetylase 7	MGI:MGI:1891835	5830434K02Rik|Hdac7a
+Brpf3	bromodomain and PHD finger containing, 3	MGI:MGI:2146836	
+Irf4	interferon regulatory factor 4	MGI:MGI:1096873	IRF-4|Spip
+Gcg	glucagon	MGI:MGI:95674	GLP-1|Glu|glucagon-like peptide I|PPG
+Gata3	GATA binding protein 3	MGI:MGI:95663	Gata-3|jal
+Gata2	GATA binding protein 2	MGI:MGI:95662	Gata-2
+Apobec1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	MGI:MGI:103298	
+Map3k12	mitogen-activated protein kinase kinase kinase 12	MGI:MGI:1346881	DLK|MUK|Zpk
+Mapk8	mitogen-activated protein kinase 8	MGI:MGI:1346861	c-Jun N-terminal kinase|JNK1|Prkm8
+Mapk3	mitogen-activated protein kinase 3	MGI:MGI:1346859	Erk1|Erk-1|Esrk1|Mtap2k|p44erk1|p44mapk|p44 MAP kinase|Prkm3
+Phc1	polyhomeotic-like 1 (Drosophila)	MGI:MGI:103248	Edr1|Mph1|rae28|Rae-28
+Slk	STE20-like kinase	MGI:MGI:103241	9A2|Etk4|mSLK|Stk2
+Hdac2	histone deacetylase 2	MGI:MGI:1097691	D10Wsu179e|Yy1bp
+Bcorl1	BCL6 co-repressor-like 1	MGI:MGI:2443910	6720425J07Rik
+Smyd2	SET and MYND domain containing 2	MGI:MGI:1915889	1110020E07Rik|KMT3C|Zmynd14
+Ino80	INO80 complex subunit	MGI:MGI:1915392	2310079N15Rik|4632409L19Rik|Inoc1
+Fshr	follicle stimulating hormone receptor	MGI:MGI:95583	follicle-stimulating hormone receptor|Follitropin receptor|FSH-R
+Fmr1	fragile X mental retardation syndrome 1	MGI:MGI:95564	Fmr-1|FMRP
+L3mbtl2	l(3)mbt-like 2 (Drosophila)	MGI:MGI:2443584	4732493N06Rik|m4mbt
+Vegfa	vascular endothelial growth factor A	MGI:MGI:103178	Vegf|VEGF120|VEGF164|VEGF188|VEGF-A|VPF
+Gfi1	growth factor independent 1	MGI:MGI:103170	Gfi-1|Pal1|Pal-1
+Chd1l	chromodomain helicase DNA binding protein 1-like	MGI:MGI:1915308	4432404A22Rik|Snf2p
+Phb	prohibitin	MGI:MGI:97572	
+Setd2	SET domain containing 2	MGI:MGI:1918177	4921524K10Rik|KMT3A
+Kat8	K(lysine) acetyltransferase 8	MGI:MGI:1915023	2010203C02Rik|5830450F21Rik|D7Ertd629e|MOF|Myst1
+Chd8	chromodomain helicase DNA binding protein 8	MGI:MGI:1915022	5830451P18Rik|Duplin
+Mir1186	microRNA 1186	MGI:MGI:3783360	Mirn1186|mmu-mir-1186
+Gatad2b	GATA zinc finger domain containing 2B	MGI:MGI:2443225	C430014D17Rik|p66beta
+Dtx3l	deltex 3-like, E3 ubiquitin ligase	MGI:MGI:2656973	
+Mysm1	myb-like, SWIRM and MPN domains 1	MGI:MGI:2444584	C130067A03Rik|C530050H10Rik
+Tsix	X (inactive)-specific transcript, opposite strand	MGI:MGI:1336196	
+Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	MGI:MGI:1336173	2310008I11Rik|AMPKalpha2
+Tbl1x	transducin (beta)-like 1 X-linked	MGI:MGI:1336172	Tbl1
+Bahd1	bromo adjacent homology domain containing 1	MGI:MGI:2139371	LOC228536
+Taf7	TATA-box binding protein associated factor 7	MGI:MGI:1346348	55kDa|Taf2f|TAFII55
+Mta2	metastasis-associated gene family, member 2	MGI:MGI:1346340	mmta2|Mta1l1
+Taf10	TATA-box binding protein associated factor 10	MGI:MGI:1346320	30kDa|Taf2h|TAFII30
+Anp32e	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E	MGI:MGI:1913721	2810018A15Rik|CPD1|LANP-L
+Taf12	TATA-box binding protein associated factor 12	MGI:MGI:1913714	20kDa|2810422D08Rik|Taf2J
+Pbrm1	polybromo 1	MGI:MGI:1923998	2310032M22Rik|2610016F04Rik|BAF180|Pb1
+Tdg	thymine DNA glycosylase	MGI:MGI:108247	E130317C12Rik|Jza1
+Paf1	Paf1, RNA polymerase II complex component	MGI:MGI:1923988	5730511K23Rik
+Kansl1	KAT8 regulatory NSL complex subunit 1	MGI:MGI:1923969	1700081L11Rik
+Prkd1	protein kinase D1	MGI:MGI:99879	Pkcm|PKD1|Prkcm
+Ino80c	INO80 complex subunit C	MGI:MGI:2443014	D030070L09Rik
+Coprs	coordinator of PRMT5, differentiation stimulator	MGI:MGI:1913673	1700029I03Rik|2410022L05Rik|COPR5|MGC11316
+Fbl	fibrillarin	MGI:MGI:95486	RNU3IP1
+Smarcad1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	MGI:MGI:95453	D6Pas1|Etl1
+Nacc2	nucleus accumbens associated 2, BEN and BTB (POZ) domain containing	MGI:MGI:1915241	0610020I02Rik|Btbd14a|C030048H19Rik
+Ash1l	ash1 (absent, small, or homeotic)-like (Drosophila)	MGI:MGI:2183158	8030453L17Rik|chromatin remodeling factor|E430018P19Rik|KMT2H
+Kmt5a	lysine methyltransferase 5A	MGI:MGI:1915206	2410195B05Rik|PR-SET7|Setd8
+Atrx	alpha thalassemia/mental retardation syndrome X-linked	MGI:MGI:103067	4833408C14Rik|DXHXS6677E|Hp1bp2|HP1-BP38|Rad54|XH2|Xnp
+Rere	arginine glutamic acid dipeptide (RE) repeats	MGI:MGI:2683486	1110033A15Rik|Atr2|atrophin-2|eye<m03Jus>|eyes3
+Pou5f1	POU domain, class 5, transcription factor 1	MGI:MGI:101893	Oct-3|Oct-3/4|Oct3/4|Oct4|Oct-4|Otf3|Otf-3|Otf3g|Otf3-rs7|Otf4|Otf-4
+Srebf1	sterol regulatory element binding transcription factor 1	MGI:MGI:107606	ADD-1|bHLHd1|SREBP1|SREBP-1|SREBP-1a|SREBP1c|SREBP-1c
+Prdm5	PR domain containing 5	MGI:MGI:1918029	4432417F03Rik|6530401I24Rik|E130112L17Rik|PFM2
+Cbx3	chromobox 3	MGI:MGI:108515	heterochromatin protein 1 gamma|HP1g|M32
+Prmt8	protein arginine N-methyltransferase 8	MGI:MGI:3043083	Hrmt1l3|Hrmt1l4
+Kdm7a	lysine (K)-specific demethylase 7A	MGI:MGI:2443388	A630082K20Rik|ENSMUSG00000073143|Jhdm1d
+Rps6ka4	ribosomal protein S6 kinase, polypeptide 4	MGI:MGI:1930076	1110069D02Rik|90kDa|MSK2
+Baz2a	bromodomain adjacent to zinc finger domain, 2A	MGI:MGI:2151152	C030005G16Rik|Tip5|Walp3
+Piwil2	piwi-like RNA-mediated gene silencing 2	MGI:MGI:1930036	mili|Miwi like
+Nipbl	Nipped-B homolog (Drosophila)	MGI:MGI:1913976	4921518A06Rik|4933421G18Rik
+Satb2	special AT-rich sequence binding protein 2	MGI:MGI:2679336	
+Isl1	ISL1 transcription factor, LIM/homeodomain	MGI:MGI:101791	Islet 1
+Smyd3	SET and MYND domain containing 3	MGI:MGI:1916976	2410008A19Rik|Zmynd1
+Carm1	coactivator-associated arginine methyltransferase 1	MGI:MGI:1913208	Prmt4
+Per1	period circadian clock 1	MGI:MGI:1098283	mPer1|m-rigui
+Cdyl	chromodomain protein, Y chromosome-like	MGI:MGI:1339956	
+Smarcc1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	MGI:MGI:1203524	BAF155|msp3|SRG3
+Dapk3	death-associated protein kinase 3	MGI:MGI:1203520	ZIP kinase
+Ubr2	ubiquitin protein ligase E3 component n-recognin 2	MGI:MGI:1861099	9930021A08Rik|E130209G04Rik|ENSMUSG00000043296
+Hdac4	histone deacetylase 4	MGI:MGI:3036234	4932408F19Rik
+Xbp1	X-box binding protein 1	MGI:MGI:98970	D11Ertd39e|TREB5|TREB-5|XBP-1
+Msx3	msh homeobox 3	MGI:MGI:106587	
+Bcor	BCL6 interacting corepressor	MGI:MGI:1918708	2900008C10Rik|5830466J11Rik|8430401K06Rik|D930024N20Rik
+Ss18l1	synovial sarcoma translocation gene on chromosome 18-like 1	MGI:MGI:2444061	A230053O16Rik|CREST
+Smarcd1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	MGI:MGI:1933623	Baf60a|D15Kz1
+Smarcd2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	MGI:MGI:1933621	Baf60b
+Kdm3b	KDM3B lysine (K)-specific demethylase 3B	MGI:MGI:1923356	5830462I21Rik|JHDM2B|Jmjd1b
+Twist1	twist basic helix-loop-helix transcription factor 1	MGI:MGI:98872	bHLHa38|charlie chaplin|M-Twist|pdt|Pluridigite|Ska10|Ska<m10Jus>
+Kdm3a	lysine (K)-specific demethylase 3A	MGI:MGI:98847	1700105C21Rik|C230043E16Rik|Jmjd1|Jmjd1a|Tsga
+Trp53	transformation related protein 53	MGI:MGI:98834	p44|p53
+Chd6	chromodomain helicase DNA binding protein 6	MGI:MGI:1918639	5430439G14Rik|6330406J24Rik
+Kdm2b	lysine (K)-specific demethylase 2B	MGI:MGI:1354737	Cxxc2|Fbxl10|Jhdm1b
+Kdm2a	lysine (K)-specific demethylase 2A	MGI:MGI:1354736	5530401A10Rik|Cxxc8|Fbl7|Fbxl11|Gm4560|Jhdm1a|lalina
+Jmjd1c	jumonji domain containing 1C	MGI:MGI:1918614	5430433L24Rik|D630035I23Rik|TRIP8
+L3mbtl1	l(3)mbt-like (Drosophila)	MGI:MGI:2676663	
+Actl6b	actin-like 6B	MGI:MGI:1933548	Actl6|ArpNa|Baf53b
+Tet2	tet methylcytosine dioxygenase 2	MGI:MGI:2443298	Ayu17-449|E130014J05Rik
+Tada3	transcriptional adaptor 3	MGI:MGI:1915724	1110004B19Rik|ADA3|Tada3l
+Ezh1	enhancer of zeste 1 polycomb repressive complex 2 subunit	MGI:MGI:1097695	
+Hdac9	histone deacetylase 9	MGI:MGI:1931221	D030072B18Rik|Hdac7b|HDRP|Mitr
+H3f3a	H3 histone, family 3A	MGI:MGI:1097686	H3.3A
+Morf4l2	mortality factor 4 like 2	MGI:MGI:1927167	2410017O14Rik|Sid393p
+Ube2a	ubiquitin-conjugating enzyme E2A	MGI:MGI:102959	HHR6A|HR6A
+Ube2b	ubiquitin-conjugating enzyme E2B	MGI:MGI:102944	E2-14k|HR6B|Rad6b
+Spty2d1	SPT2, Suppressor of Ty, domain containing 1 (S. cerevisiae)	MGI:MGI:2142062	5830435K17Rik
+Jarid2	jumonji, AT rich interactive domain 2	MGI:MGI:104813	Jmj|jumonji
+Sox9	SRY (sex determining region Y)-box 9	MGI:MGI:98371	2010306G03Rik
+Fbll1	fibrillarin-like 1	MGI:MGI:3034689	
+Ski	ski sarcoma viral oncogene homolog (avian)	MGI:MGI:98310	2310012I02Rik|2610001A11Rik
+Rlf	rearranged L-myc fusion sequence	MGI:MGI:1924705	9230110M18Rik|MommeD8
+Hmg20b	high mobility group 20B	MGI:MGI:1341190	BRAF35|BRCA2-associated factor 35|Hmgx2|Hmgxb2|Smarce1r
+Rbbp5	retinoblastoma binding protein 5	MGI:MGI:1918367	4933411J24Rik
+Mcrs1	microspherule protein 1	MGI:MGI:1858420	C78274|ICP22BP|MSP58|P78
+Ash2l	ash2 (absent, small, or homeotic)-like (Drosophila)	MGI:MGI:1344416	
+Ucn	urocortin	MGI:MGI:1276123	Ucn1
+Sirt3	sirtuin 3	MGI:MGI:1927665	2310003L23Rik|Sir2l3
+Top1	topoisomerase (DNA) I	MGI:MGI:98788	D130064I21Rik|Top-1
+Tnp1	transition protein 1	MGI:MGI:98784	Stp-1|Tp-1|TP1
+Rcbtb1	regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 1	MGI:MGI:1918580	5430409I18Rik
+Supt3	suppressor of Ty 3	MGI:MGI:1923723	2310066G22Rik|SPT3|SPT3L|Supt3h
+Tgfb1	transforming growth factor, beta 1	MGI:MGI:98725	Tgfb|Tgfb-1|TGFbeta1|TGF-beta1|TGF-beta 1
+Sart3	squamous cell carcinoma antigen recognized by T cells 3	MGI:MGI:1858230	
+Ctcf	CCCTC-binding factor	MGI:MGI:109447	
+Pih1d1	PIH1 domain containing 1	MGI:MGI:1916095	1110061L23Rik|4933413A04Rik|Nop17
+Hst1	hybrid sterility 1	MGI:MGI:96258	Hst-1
+Fendrr	Foxf1 adjacent non-coding developmental regulatory RNA	MGI:MGI:1916040	1110050K14Rik|linc-Foxf1a
+Spin1	spindlin 1	MGI:MGI:109242	Spin
+Znhit1	zinc finger, HIT domain containing 1	MGI:MGI:1917353	2700001K05Rik
+Ehmt1	euchromatic histone methyltransferase 1	MGI:MGI:1924933	9230102N17Rik|KMT1D
+Lef1	lymphoid enhancer binding factor 1	MGI:MGI:96770	Lef-1|lymphoid enhancer factor 1
+Dpf3	D4, zinc and double PHD fingers, family 3	MGI:MGI:1917377	2810403B03Rik|cer-d4|CERD4
+Hat1	histone aminotransferase 1	MGI:MGI:96013	2410071B14Rik|KAT1
+Tlk2	tousled-like kinase 2 (Arabidopsis)	MGI:MGI:1346023	4933403M19Rik|PKUalpha|protein kinase U-alpha
+Asf1a	anti-silencing function 1A histone chaperone	MGI:MGI:1913653	2310079C17Rik
+Rsf1	remodeling and spacing factor 1	MGI:MGI:2682305	4832420A03Rik|C030033M12Rik|Hbxap|p325|XAP8
+Elp4	elongator acetyltransferase complex subunit 4	MGI:MGI:1925016	A330107A17Rik|Paxneb
+Tada1	transcriptional adaptor 1	MGI:MGI:1196415	2900026B15Rik|Tada1l
+Snw1	SNW domain containing 1	MGI:MGI:1913604	2310008B08Rik|NCoA-62|Skiip|SKIP
+Chd2	chromodomain helicase DNA binding protein 2	MGI:MGI:2448567	2810013C04Rik|2810040A01Rik|5630401D06Rik
+Ptma	prothymosin alpha	MGI:MGI:97803	Thym
+Sap18	Sin3-associated polypeptide 18	MGI:MGI:1277978	C530046K05Rik|D11Ertd539e|EMegR4|Sap18a|Sinbp1
+Taf9	TATA-box binding protein associated factor 9	MGI:MGI:1888697	2310012M09Rik|Taf2g
+Rag1	recombination activating gene 1	MGI:MGI:97848	Rag-1
+Rag2	recombination activating gene 2	MGI:MGI:97849	Rag-2
+Actl6a	actin-like 6A	MGI:MGI:1861453	2810432C06Rik|Actl6|ARP4|Baf53a
+Cenpp	centromere protein P	MGI:MGI:1913586	1700022C02Rik|4921518G09Rik
+Dpy30	dpy-30, histone methyltransferase complex regulatory subunit	MGI:MGI:1913560	2810410M20Rik
+Suds3	suppressor of defective silencing 3 homolog (S. cerevisiae)	MGI:MGI:1919204	2400003N08Rik|2410008L21Rik
+Kdm6b	KDM1 lysine (K)-specific demethylase 6B	MGI:MGI:2448492	Jmjd3
+Hdac1	histone deacetylase 1	MGI:MGI:108086	HD1|MommeD5|RPD3
+Cecr2	cat eye syndrome chromosome region, candidate 2	MGI:MGI:1923799	2610101O16Rik|2810409N01Rik|Gtl4
+Tet1	tet methylcytosine dioxygenase 1	MGI:MGI:1098693	2510010B09Rik|BB001228|Cxxc6|D10Ertd17e
+Pkn1	protein kinase N1	MGI:MGI:108022	F730027O18Rik|PAK1|Pkn|PRK1|Prkcl1|Stk3
+Arid1a	AT rich interactive domain 1A (SWI-like)	MGI:MGI:1935147	1110030E03Rik|BAF250a|Osa1|Smarcf1
+Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	MGI:MGI:1935129	4933427E24Rik|D030040M08Rik|D330027N15Rik|MommeD4|Snf2h
+Smarca1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	MGI:MGI:1935127	5730494M04Rik|Snf2l
+Nelfa	negative elongation factor complex member A, Whsc2	MGI:MGI:1346098	Nelf-A|Whsc2|Whsc2h
+Uhrf1	ubiquitin-like, containing PHD and RING finger domains, 1	MGI:MGI:1338889	ICBP90|Np95
+Brd4	bromodomain containing 4	MGI:MGI:1888520	HUNK1|MCAP|WI-11513
+Prmt7	protein arginine N-methyltransferase 7	MGI:MGI:2384879	4933402B05Rik
+Cdc73	cell division cycle 73, Paf1/RNA polymerase II complex component	MGI:MGI:2384876	8430414L16Rik|C130030P16Rik|Hrpt2
+Prdm9	PR domain containing 9	MGI:MGI:2384854	Dsbc1|G1-419-29|Meisetz|Rcr1|repro7
+Trip12	thyroid hormone receptor interactor 12	MGI:MGI:1309481	1110036I07Rik|6720416K24Rik|Gtl6
+Foxa3	forkhead box A3	MGI:MGI:1347477	Hnf3g|Hnf-3g|Tcf3g|Tcf-3g
+Foxa2	forkhead box A2	MGI:MGI:1347476	Hnf3b|Hnf-3b|HNF3beta|HNF3-beta|Tcf3b|Tcf-3b
+Foxa1	forkhead box A1	MGI:MGI:1347472	Hnf3a|Hnf-3a|Tcf3a|Tcf-3a
+Atxn7	ataxin 7	MGI:MGI:2179277	A430107N12Rik|ataxin-7|Sca7
+Brms1l	breast cancer metastasis-suppressor 1-like	MGI:MGI:1196337	0710008O11Rik|BRMS1|D12Ertd407e
+Suz12	suppressor of zeste 12 homolog (Drosophila)	MGI:MGI:1261758	2610028O16Rik|D11Ertd530e
+Kat7	K(lysine) acetyltransferase 7	MGI:MGI:2182799	Hbo1|Hboa|Myst2
+Pml	promyelocytic leukemia	MGI:MGI:104662	1200009E24Rik|Trim19
+Dek	DEK oncogene (DNA binding)	MGI:MGI:1926209	1810019E15Rik|D13H6S231E
+Usp49	ubiquitin specific peptidase 49	MGI:MGI:2685391	C330046L10Rik
+Ppp5c	protein phosphatase 5, catalytic subunit	MGI:MGI:102666	ANP receptor|PP5
+Atf2	activating transcription factor 2	MGI:MGI:109349	ATF-2|Creb2|CRE-BP|D130078H02Rik|mXBP
+Eya1	EYA transcriptional coactivator and phosphatase 1	MGI:MGI:109344	bor
+Eya2	EYA transcriptional coactivator and phosphatase 2	MGI:MGI:109341	
+Rbbp4	retinoblastoma binding protein 4	MGI:MGI:1194912	CAF-1 p48 subunit|RBAP48
+Eya3	EYA transcriptional coactivator and phosphatase 3	MGI:MGI:109339	
+Brca2	breast cancer 2, early onset	MGI:MGI:109337	Fancd1|RAB163
+Eya4	EYA transcriptional coactivator and phosphatase 4	MGI:MGI:1337104	B130023L16Rik
+Dppa2	developmental pluripotency associated 2	MGI:MGI:2157523	2410088E07Rik|ECAT15-2
+Kdm1a	lysine (K)-specific demethylase 1A	MGI:MGI:1196256	1810043O07Rik|Aof2|Kdm1|LSD1
+Mtf2	metal response element binding transcription factor 2	MGI:MGI:105050	9230112N11Rik|C76717|M96|Pcl2
+Vrk1	vaccinia related kinase 1	MGI:MGI:1261847	51PK
+Arid1b	AT rich interactive domain 1B (SWI-like)	MGI:MGI:1926129	9330189K18Rik|B230217J03Rik
+Dnmt1	DNA methyltransferase (cytosine-5) 1	MGI:MGI:94912	Cxxc9|Dnmt1o|MommeD2|MTase
+Trim28	tripartite motif-containing 28	MGI:MGI:109274	KAP-1|KRIP-1|MommeD9|Tif1b
+Dr1	down-regulator of transcription 1	MGI:MGI:1100515	1700121L09Rik|Dr1l|NC2|NC2beta
+Bptf	bromodomain PHD finger transcription factor	MGI:MGI:2444008	9430093H17Rik|Falz
+Kdm4d	lysine (K)-specific demethylase 4D	MGI:MGI:3606484	Jmjd2d
+Brpf1	bromodomain and PHD finger containing, 1	MGI:MGI:1926033	4833438B11Rik|4930540D11Rik
+Brd3	bromodomain containing 3	MGI:MGI:1914632	2410084F24Rik|Fsrg2|ORFX|RINGL3
+Wdr75	WD repeat domain 75	MGI:MGI:1920924	1300003A18Rik|2410118I19Rik
+Asxl1	additional sex combs like 1	MGI:MGI:2684063	
+Sirt2	sirtuin 2	MGI:MGI:1927664	5730427M03Rik|Sir2l|SIR2L2
+Rbbp7	retinoblastoma binding protein 7	MGI:MGI:1194910	
+Taf6l	TATA-box binding protein associated factor 6 like	MGI:MGI:2444957	2810417N14Rik|C530024J06Rik|PAF65A
+Prdm8	PR domain containing 8	MGI:MGI:1924880	
+Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	MGI:MGI:2145955	AMPKalpha1|C130083N04Rik
+Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	MGI:MGI:1915344	5930405J04Rik
+Kmt2e	lysine (K)-specific methyltransferase 2E	MGI:MGI:1924825	1810033J14Rik|9530077A04Rik|D230038D11Rik|Mll5
+Uty	ubiquitously transcribed tetratricopeptide repeat gene, Y chromosome	MGI:MGI:894810	Hydb
+Rnf168	ring finger protein 168	MGI:MGI:1917488	3110001H15Rik
+Wdr61	WD repeat domain 61	MGI:MGI:1917493	2700038L12Rik|2810418I05Rik
+Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	MGI:MGI:107940	Enx-1|Enx1h|KMT6
+Hsf4	heat shock transcription factor 4	MGI:MGI:1347058	ldis1
+Bahcc1	BAH domain and coiled-coil containing 1	MGI:MGI:2679272	
+Babam1	BRISC and BRCA1 A complex member 1	MGI:MGI:1915501	5430437P03Rik
+Jmjd6	jumonji domain containing 6	MGI:MGI:1858910	5730436I23Rik|PSR|PtdSerR|Ptdsr
+Nasp	nuclear autoantigenic sperm protein (histone-binding)	MGI:MGI:1355328	5033430J04Rik|D4Ertd767e|Epcs32|Nasp-T
+Usp27x	ubiquitin specific peptidase 27, X chromosome	MGI:MGI:1859645	Sfc11
+Prmt5	protein arginine N-methyltransferase 5	MGI:MGI:1351645	Jak-binding protein 1|Jbp1|Skb1
+Sfmbt1	Scm-like with four mbt domains 1	MGI:MGI:1859609	4930442N21Rik|9330180L21Rik|Smr
+Arid4b	AT rich interactive domain 4B (RBP1-like)	MGI:MGI:2137512	6330417L24Rik|6720480E17Rik|BRCAA1|RBBP1L1|Rbp1l1|SAP180
+Jak2	Janus kinase 2	MGI:MGI:96629	C81284
+Usp3	ubiquitin specific peptidase 3	MGI:MGI:2152450	
+0610010K14Rik	RIKEN cDNA 0610010K14 gene	MGI:MGI:1915609	
+Ep300	E1A binding protein p300	MGI:MGI:1276116	KAT3B|p300
+Aicda	activation-induced cytidine deaminase	MGI:MGI:1342279	Aid
+Tdrd3	tudor domain containing 3	MGI:MGI:2444023	4732418C03Rik
+Trp63	transformation related protein 63	MGI:MGI:1330810	deltaNp63|KET protein|p51/p63|p63|p73L|TAp63|Trp53rp1
+Mbd2	methyl-CpG binding domain protein 2	MGI:MGI:1333813	MBD2a
+Phf20	PHD finger protein 20	MGI:MGI:2444148	6820402O20Rik
+Smarca2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	MGI:MGI:99603	2610209L14Rik|brm|Snf2l2
+Rcor1	REST corepressor 1	MGI:MGI:106340	6720480E22Rik|D12Wsu95e|Rocr1
+Ruvbl1	RuvB-like protein 1	MGI:MGI:1928760	2510009G06Rik|Pontin52|Tip49a
+Med24	mediator complex subunit 24	MGI:MGI:1344385	100kDa|D11Ertd307e|DRIP100|Gse2|Pparb2|R75526|Thrap4|Trap100
+Eed	embryonic ectoderm development	MGI:MGI:95286	l(7)5Rn|l7Rn5
+Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	MGI:MGI:1339639	1110038P24Rik|4831420N21Rik|Ogtl
+Dmrtc2	doublesex and mab-3 related transcription factor like family C2	MGI:MGI:1918491	4933432E21Rik|Dmrt7
+Ppm1f	protein phosphatase 1F (PP2C domain containing)	MGI:MGI:1918464	1110021B16Rik|4933427B07Rik
+Dydc2	DPY30 domain containing 2	MGI:MGI:1918450	4933428D01Rik
+Ruvbl2	RuvB-like protein 2	MGI:MGI:1342299	mp47|p47
+Pole3	polymerase (DNA directed), epsilon 3 (p17 subunit)	MGI:MGI:1933378	1810034K18Rik|YBL1
+Setmar	SET domain without mariner transposase fusion	MGI:MGI:1921979	5830404F24Rik|Etet2
+Hells	helicase, lymphoid specific	MGI:MGI:106209	E130115I21Rik|LSH|Lysh|PASG|proliferation-associated SNF2-like|YFK8
+Foxp3	forkhead box P3	MGI:MGI:1891436	JM2|scurfin
+Chd1	chromodomain helicase DNA binding protein 1	MGI:MGI:88393	4930525N21Rik
+Cdk1	cyclin-dependent kinase 1	MGI:MGI:88351	Cdc2|Cdc2a|p34<CDC2>
+Ccnb1	cyclin B1	MGI:MGI:88302	Ccnb1-rs13|Cycb-4
+Atg5	autophagy related 5	MGI:MGI:1277186	2010107M05Rik|3110067M24Rik|Apg5l|Paddy
+Snca	synuclein, alpha	MGI:MGI:1277151	alphaSYN|alpha-synuclein
+Mier1	MEIR1 treanscription regulator	MGI:MGI:1918398	4933425I22Rik|5830411K19Rik
+Prmt1	protein arginine N-methyltransferase 1	MGI:MGI:107846	6720434D09Rik|Hrmt1l2
+Brdt	bromodomain, testis-specific	MGI:MGI:1891374	7420412D09Rik|Brd6|Fsrg3
+Ncor1	nuclear receptor co-repressor 1	MGI:MGI:1349717	5730405M06Rik|A230020K14Rik|N-CoR|Rxrip13
+Lpin1	lipin 1	MGI:MGI:1891340	Lipin1
+Cbx2	chromobox 2	MGI:MGI:88289	M33
+Zmynd11	zinc finger, MYND domain containing 11	MGI:MGI:1913755	2210402G22Rik
+Ube2u	ubiquitin-conjugating enzyme E2U (putative)	MGI:MGI:3588216	
+Cebpg	CCAAT/enhancer binding protein (C/EBP), gamma	MGI:MGI:104982	C/EBPgamma|Gpe1bp|GPE1-BP|Ig/EBP
+Prkcd	protein kinase C, delta	MGI:MGI:97598	D14Ertd420e|Pkcd|PKC[d]|PKCdelta
+Akap8	A kinase (PRKA) anchor protein 8	MGI:MGI:1928488	1200016A02Rik|AKAP95
+Mis18a	MIS18 kinetochore protein A	MGI:MGI:1913828	2610039C10Rik|2810018N07Rik
+Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	MGI:MGI:88192	b2b508.1Clo|b2b692Clo|Brg1|SNF2beta|SW1/SNF
+Bmi1	Bmi1 polycomb ring finger oncogene	MGI:MGI:88174	Bmi-1|Pcgf4
+Rest	RE1-silencing transcription factor	MGI:MGI:104897	2610008J04Rik|NRSF
+Brcc3	BRCA1/BRCA2-containing complex, subunit 3	MGI:MGI:2389572	C6.1A
+Rnf40	ring finger protein 40	MGI:MGI:2142048	
+Bap1	Brca1 associated protein 1	MGI:MGI:1206586	2300006C11Rik
+Yeats4	YEATS domain containing 4	MGI:MGI:1927224	4930573H17Rik|B230215M10Rik|GAS41|NuBI-1
+Setd7	SET domain containing (lysine methyltransferase) 7	MGI:MGI:1920501	1600028F23Rik|KMT7|Set7|Set7/9
+Elk4	ELK4, member of ETS oncogene family	MGI:MGI:102853	2310011G17Rik|A130026I01Rik|Sap1
+Kmt2b	lysine (K)-specific methyltransferase 2B	MGI:MGI:109565	2610014H22Rik|Mll2|Wbp7
+Msl2	male-specific lethal 2 homolog (Drosophila)	MGI:MGI:1925103	E130103E02Rik|Msl2l1|Rnf184
+Pink1	PTEN induced putative kinase 1	MGI:MGI:1916193	1190006F07Rik|brpk
+Pygo2	pygopus 2	MGI:MGI:1916161	1190004M21Rik|mpygo2
+Uhrf2	ubiquitin-like, containing PHD and RING finger domains 2	MGI:MGI:1923718	2310065A22Rik|D130071B19Rik|Nirf
+Arid4a	AT rich interactive domain 4A (RBP1-like)	MGI:MGI:2444354	A630067N03Rik|Rbbp1
+Cbx7	chromobox 7	MGI:MGI:1196439	1600014J01Rik|D15Ertd417e
+Hltf	helicase-like transcription factor	MGI:MGI:1196437	P113|Smarca3|Snf2l3
+Phf8	PHD finger protein 8	MGI:MGI:2444341	9830141C09Rik
+Noc2l	NOC2 like nucleolar associated transcriptional repressor	MGI:MGI:1931051	NIR
+Itgb3bp	integrin beta 3 binding protein (beta3-endonexin)	MGI:MGI:1914983	4930471O16Rik
+Msl3l2	male-specific lethal 3-like 2 (Drosophila)	MGI:MGI:1920640	1700060H10Rik
+Usp34	ubiquitin specific peptidase 34	MGI:MGI:109473	A530081C03Rik|Murr2
+Cdk2	cyclin-dependent kinase 2	MGI:MGI:104772	A630093N05Rik
+Cdkn2a	cyclin-dependent kinase inhibitor 2A	MGI:MGI:104738	Arf|ARF-INK4a|Ink4a/Arf|INK4a-ARF|MTS1|p16|p16INK4a|p19ARF|p19<ARF>|Pctr1
+Wbp2	WW domain binding protein 2	MGI:MGI:104709	
+Spi1	spleen focus forming virus (SFFV) proviral integration oncogene	MGI:MGI:98282	Dis-1|PU.1|Sfpi1|Sfpi-1|Spi-1|Tcfpu1|Tfpu.1
+Kansl3	KAT8 regulatory NSL complex subunit 3	MGI:MGI:1918055	4632411B12Rik
+Klf1	Kruppel-like factor 1 (erythroid)	MGI:MGI:1342771	Eklf|Nan
+Ing1	inhibitor of growth family, member 1	MGI:MGI:1349481	2610028J21Rik|mING1h|p33Ing1
+Ctbp1	C-terminal binding protein 1	MGI:MGI:1201685	BARS|CtBP1-L|CtBP1-S|CtBP3/BARS|D4S115h|D5H4S115|D5H4S115E
+Crtc2	CREB regulated transcription coactivator 2	MGI:MGI:1921593	4632407F12Rik
+Tet3	tet methylcytosine dioxygenase 3	MGI:MGI:2446229	B430006D22Rik|D230004J03Rik
+Cxxc1	CXXC finger 1 (PHD domain)	MGI:MGI:1921572	2410002I16Rik|5830420C16Rik|Cfp1|Cgbp|PHF18
+Ctr9	CTR9 homolog, Paf1/RNA polymerase II complex component	MGI:MGI:109345	Sh2bp1|Tsbp|Tsp
+Kansl2	KAT8 regulatory NSL complex subunit 2	MGI:MGI:1916862	2310037I24Rik
+Loxl2	lysyl oxidase-like 2	MGI:MGI:2137913	1110004B06Rik|9430067E15Rik
+Myocd	myocardin	MGI:MGI:2137495	Srfcp
+Pim3	proviral integration site 3	MGI:MGI:1355297	Kid1|KID-1/kinase induced by depolarization
+Hmgn5	high-mobility group nucleosome binding domain 5	MGI:MGI:1355295	GARP45|NBP-45|Nsbp1|nucleosome binding protein 45
+Actb	actin, beta	MGI:MGI:87904	Actx|A-X actin-like protein|beta-actin|E430023M04Rik
+Tcf21	transcription factor 21	MGI:MGI:1202715	bHLHa23|capsulin|epc|epicardin|Pod1|Pod-1|podocyte-expressed 1
+Usp51	ubiquitin specific protease 51	MGI:MGI:3588217	
+Fam175a	family with sequence similarity 175, member A	MGI:MGI:1917931	3830405G04Rik|5630400M01Rik|Ccdc98
+Taf5l	TATA-box binding protein associated factor 5 like	MGI:MGI:1919039	1110005N04Rik
+Ing3	inhibitor of growth family, member 3	MGI:MGI:1919027	1300013A07Rik|P47ING3
+Ikzf1	IKAROS family zinc finger 1	MGI:MGI:1342540	5832432G11Rik|Ikaros|LyF-1|Zfpn1a1
+Asxl2	additional sex combs like 2 (Drosophila)	MGI:MGI:1922552	4930556B16Rik
+L3mbtl3	l(3)mbt-like 3 (Drosophila)	MGI:MGI:2143628	MBT-1
+Gtf3c4	general transcription factor IIIC, polypeptide 4	MGI:MGI:2138937	KAT12
+Actr8	ARP8 actin-related protein 8	MGI:MGI:1860775	5730542K05Rik|ARP8
+Hlcs	holocarboxylase synthetase (biotin- [propriony-Coenzyme A-carboxylase (ATP-hydrolysing)] ligase)	MGI:MGI:894646	410I21.SP6|D16Jhu34
+Kdm8	lysine (K)-specific demethylase 8	MGI:MGI:1924285	3110005O21Rik|Jmjd5
+Kdm5c	lysine (K)-specific demethylase 5C	MGI:MGI:99781	D930009K15Rik|Jarid1c|Smcx
+Kdm5d	lysine (K)-specific demethylase 5D	MGI:MGI:99780	HY|Jarid1d|Smcy
+Brd9	bromodomain containing 9	MGI:MGI:2145317	
+Epc1	enhancer of polycomb homolog 1 (Drosophila)	MGI:MGI:1278322	2400007E14Rik|5730566F07Rik|A930032N02Rik
+Epc2	enhancer of polycomb homolog 2 (Drosophila)	MGI:MGI:1278321	D2Ertd694e
+Emsy	EMSY, BRCA2-interacting transcriptional repressor	MGI:MGI:1924203	2210018M11Rik
+Banp	BTG3 associated nuclear protein	MGI:MGI:1889023	SMAR1
+Setdb2	SET domain, bifurcated 2	MGI:MGI:2685139	KMT1F|LOC239122
+Prmt3	protein arginine N-methyltransferase 3	MGI:MGI:1919224	2010005E20Rik|2410018A17Rik|Hrmt1l3
+Ing4	inhibitor of growth family, member 4	MGI:MGI:107307	D6Wsu147e|D6Xrf92|p29ING4
+Phf1	PHD finger protein 1	MGI:MGI:98647	D17Ertd455e|mPcl1|PHF2|Tctex3|Tctex-3
+Flcn	folliculin	MGI:MGI:2442184	B430214A04Rik|BHD
+Akap8l	A kinase (PRKA) anchor protein 8-like	MGI:MGI:1860606	Nakap95
+Kdm1b	lysine (K)-specific demethylase 1B	MGI:MGI:2145261	4632428N09Rik|Aof1
+Brd1	bromodomain containing 1	MGI:MGI:1924161	1110059H06Rik
+Clock	circadian locomotor output cycles kaput	MGI:MGI:99698	5330400M04Rik|bHLHe8|KAT13D
+Jade2	jade family PHD finger 2	MGI:MGI:1924151	1200017K05Rik|Phf15
+Bag6	BCL2-associated athanogene 6	MGI:MGI:1919439	2410045D21Rik|Bat3|D17H6S52E|G3|Scythe
+Atxn3	ataxin 3	MGI:MGI:1099442	2210008M02Rik|ataxin-3|Atx3|Mjd|MJD1|Sca3
+Suv420h2	suppressor of variegation 4-20 homolog 2 (Drosophila)	MGI:MGI:2385262	KMT5C|Suv4-20h2
+Hdac11	histone deacetylase 11	MGI:MGI:2385252	
+Atm	ataxia telangiectasia mutated	MGI:MGI:107202	C030026E19Rik
+Actr6	ARP6 actin-related protein 6	MGI:MGI:1914269	2010200J04Rik|Arp6|ArpX|CDA12
+Rrp8	ribosomal RNA processing 8, methyltransferase, homolog (yeast)	MGI:MGI:1914251	1500003O22Rik|2900001K19Rik
+Smarcd3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	MGI:MGI:1914243	1500001J14Rik|2210409C08Rik|BAF60C
+Kat6a	K(lysine) acetyltransferase 6A	MGI:MGI:2442415	9930021N24Rik|MOZ|Myst3|Zfp220
+Sap130	Sin3A associated protein	MGI:MGI:1919782	2610304F09Rik
+Mecp2	methyl CpG binding protein 2	MGI:MGI:99918	1500041B07Rik|D630021H01Rik|Mbd5|WBP10
+Asf1b	anti-silencing function 1B histone chaperone	MGI:MGI:1914179	1700003K02Rik
+Ldb1	LIM domain binding 1	MGI:MGI:894762	CLIM2
+Hist1h1d	histone cluster 1, H1d	MGI:MGI:107502	H1.3|H1D|H1f3|H1s-4
+Gsg2	germ cell-specific gene 2	MGI:MGI:1194498	Haspin
+Ctcfl	CCCTC-binding factor (zinc finger protein)-like	MGI:MGI:3652571	Boris|OTTMUSG00000016680
+Hmg20a	high mobility group 20A	MGI:MGI:1914117	1200004E06Rik|5730490E10Rik|Hmgxb1
+Ncoa6	nuclear receptor coactivator 6	MGI:MGI:1929915	AIB3|ASC2|ASC-2|NRC|PRIP|RAP250
+Kdm4b	lysine (K)-specific demethylase 4B	MGI:MGI:2442355	4732474L06Rik|Jmjd2b
+Tert	telomerase reverse transcriptase	MGI:MGI:1202709	TR
+Ctnnb1	catenin (cadherin associated protein), beta 1	MGI:MGI:88276	beta catenin|beta-catenin|Catnb
+Kdm6a	lysine (K)-specific demethylase 6A	MGI:MGI:1095419	Utx
+Tada2a	transcriptional adaptor 2A	MGI:MGI:2144471	D030022J10Rik|Tada2l
+Kmt2d	lysine (K)-specific methyltransferase 2D	MGI:MGI:2682319	C430014K11Rik|Mll2|Mll4
+Zfp335	zinc finger protein 335	MGI:MGI:2682313	1810045J01Rik
+Setd1b	SET domain containing 1B	MGI:MGI:2652820	KMT2G
+H2afy	H2A histone family, member Y	MGI:MGI:1349392	H2AF12M|macroH2A1|MACROH2A1.2|mH2a1
+Whsc1l1	Wolf-Hirschhorn syndrome candidate 1-like 1 (human)	MGI:MGI:2142581	WHISTLE
+Atg7	autophagy related 7	MGI:MGI:1921494	1810013K23Rik|Apg7l
+Kmt2a	lysine (K)-specific methyltransferase 2A	MGI:MGI:96995	All1|ALL-1|Cxxc7|HTRX1|Mll|Mll1|trithorax Drosophila
+Tlk1	tousled-like kinase 1	MGI:MGI:2441683	4930545J15Rik
+Elp3	elongator acetyltransferase complex subunit 3	MGI:MGI:1921445	2610507P14Rik|KAT9
+Hopx	HOP homeobox	MGI:MGI:1916782	1110018K11Rik|1200015P04Rik|2300002F06Rik|Cameo|Hod|Hop|Ob1|Toto
+Suv39h1	suppressor of variegation 3-9 homolog 1 (Drosophila)	MGI:MGI:1099440	DXHXS7466e|KMT1A|mIS6|Suv39h histone methyltransferase
+2410016O06Rik	RIKEN cDNA 2410016O06 gene	MGI:MGI:1919202	NO66
+Ddb2	damage specific DNA binding protein 2	MGI:MGI:1355314	2610043A19Rik|p48
+Dot1l	DOT1-like, histone H3 methyltransferase (S. cerevisiae)	MGI:MGI:2143886	KMT4|mDot1
+Smad4	SMAD family member 4	MGI:MGI:894293	D18Wsu70e|Dpc4|Madh4|Smad 4
+Bend3	BEN domain containing 3	MGI:MGI:2677212	
+Aurka	aurora kinase A	MGI:MGI:894678	AIRK1|Ark1|aurora A|Aurora-A|Ayk1|IAK|IAK1|Stk6
+Ube2e1	ubiquitin-conjugating enzyme E2E 1	MGI:MGI:107411	Ubce5|ubcM2|UbcM3
+Nos1	nitric oxide synthase 1, neuronal	MGI:MGI:97360	2310005C01Rik|bNOS|nNOS|NO|Nos-1
+Atxn7l3	ataxin 7-like 3	MGI:MGI:3036270	E030022H21Rik
+Chd5	chromodomain helicase DNA binding protein 5	MGI:MGI:3036258	4930532L22Rik|B230399N07Rik
+Crebbp	CREB binding protein	MGI:MGI:1098280	CBP|KAT3A
+Ep400	E1A binding protein p400	MGI:MGI:1276124	1700020J09Rik|mDomino|p400
