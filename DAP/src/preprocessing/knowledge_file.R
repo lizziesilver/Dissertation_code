@@ -1,10 +1,15 @@
-setwd("~/Dissertation_code/DAP/Data/")
+args = commandArgs(trailingOnly=TRUE)
+#setwd("~/Dissertation_code/DAP/Data/")
+setwd(args[1])
 
 library(rJava)
+
 # start jvm with Tetrad in the classpath
-path_to_tetrad_jar = paste0("/Users/lizzie/Dissertation_code/", 
-                            "R-Tetrad_interface/", 
-                            "tetrad-lib-5.3.0-SNAPSHOT-tetradcmd.jar")
+# path_to_tetrad_jar = paste0("/Users/lizzie/Dissertation_code/", 
+#                             "R-Tetrad_interface/", 
+#                             "tetrad-lib-5.3.0-SNAPSHOT-tetradcmd.jar")
+
+path_to_tetrad_jar <- args[2]
 .jinit(path_to_tetrad_jar)
 
 # load TFs and gene subset

@@ -1,4 +1,6 @@
-setwd("~/Dissertation_code/DAP/Data/")
+args = commandArgs(trailingOnly=TRUE)
+#setwd("~/Dissertation_code/DAP/Data/")
+setwd(args[1])
 
 # gold standard 1: xu et al
 chipx1 <- read.table("Raw/xu2013escape_datasets/chip_x.txt", sep="\t", 

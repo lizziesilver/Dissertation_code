@@ -1,4 +1,6 @@
-setwd("~/Dissertation_code/DAP/Data/")
+args = commandArgs(trailingOnly=TRUE)
+#setwd("~/Dissertation_code/DAP/Data/")
+setwd(args[1])
 
 # load the huge package, which has the SKEPTIC
 library(huge)

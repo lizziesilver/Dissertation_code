@@ -1,4 +1,6 @@
-setwd("~/Dissertation_code/DAP/Data/")
+args = commandArgs(trailingOnly=TRUE)
+#setwd("~/Dissertation_code/DAP/Data/")
+setwd(args[1])
 
 # list of TFs from Gene Ontology
 tfs <- readLines("Raw/GO_transcription_factors.txt")

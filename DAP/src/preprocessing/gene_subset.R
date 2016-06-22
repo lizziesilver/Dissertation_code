@@ -1,4 +1,6 @@
-setwd("~/Dissertation_code/DAP/Data/")
+args = commandArgs(trailingOnly=TRUE)
+#setwd("~/Dissertation_code/DAP/Data/")
+setwd(args[1])
 
 # What is the maximum number of genes we want to include?
 max_genes <- 500
