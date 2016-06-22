@@ -1,5 +1,5 @@
-R CMD BATCH gold_standards.R
-R CMD BATCH list_of_tfs.R
-R CMD BATCH gene_subset.R
-R CMD BATCH expression_data.R
-R CMD BATCH knowledge_file.R
+Rscript gold_standards.R "$1"
+Rscript list_of_tfs.R "$1"
+Rscript gene_subset.R "$1"
+Rscript expression_data.R "$1"
+Rscript knowledge_file.R "$1"

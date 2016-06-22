@@ -65,6 +65,6 @@ The processed data folder contains:
 To produce the processed data from the raw data, navigate to the directory:
     DAP/src/preprocessing
 Then run the bash script that runs all the R scripts:
-    bash preprocess.sh
-
-You will need to alter the paths at the top of each R script so that the program can locate things on your computer.
+    bash preprocess.sh <path to Data folder>
+For example, on my machine:
+    bash preprocess.sh ~/Dissertation_code/DAP/Data 
