@@ -1,0 +1,900 @@
+Loading data from cor_skeptic_subset_with_header.txt.
+GFCI
+/knowledge
+addtemporal
+
+
+forbiddirect
+
+requiredirect
+
+
+[id1, dppa5a, dnmt3l, klf5, id3, aes, mycn, nanog, tcl1, klf2, utf1, dnmt3b, esrrb, phc1, mybl2, rpap1, tcea3, myod1, klf4, cdc5l, sox2, trim28, sall4, zfp42, sap30, ezh2, mbd3, parp1, ugp2, stra13, etv5, pdlim1, eed, klf9, gbx2, trp53, fbxo15, nacc1, dppa3, jarid2, mkrn1, tcf3, gadd45a, gtf2i, msc, pou5f1, dppa2, tbx3, ctbp2, smad4, tuba1a, fem1b, otx2, zic3, nr0b1, rhox6, sprr2b, krt8, sparc, bc1, clu, krt18, h19, ccdc36, serpinh1, hist1h2ao, col4a1, fam25c, lamb1, gm7102, s100a6, sfn, malat1, lama1, mt1, hspa5, fabp3, tagln2, hist1h2ah, acaa1b, ly6a, sohlh2, fgd1, lrpap1, gm6878, cd63, bscl2, mt2, gm20594, papd5, slc29a1, med10, actg1, dcdc2c, lgals1, anxa2, rhox5, mylpf, hsp90b1, meg3, 2700046a07rik, slc25a4, ctgf, tmsb4x, gsn, bhmt, ccnd3, sept12, manf, trim71, tagln, col4a2, hsp90aa1, ahcyl2, best2, asns, calcoco2, ctsl, fam229b, chchd10, sbk1, e130012a19rik, laptm5, krt19, wtap, dusp9, gpx4, tdh, p4hb, tspan17, s100a10, slc2a3, ldha, peg10, rhox13, igfbp2, tdgf1, vim, tor4a, lamc1, ldhb, lgmn, upp1, a630089n07rik, ngfrap1, dusp1, slc2a1, bc018473, pmvk, calr, pbld1, fabp5, slc25a5, eif2s2, asb13, kif15, slc3a2, gm7325, atf5, hspb1, ifitm1, erdr1, pgk1, htra1, kpna2, morf4l2, ctsd, cdc20, gpx1, id2, madd, rasgrp2, zfp286, pfdn2, ccne1, sort1, kctd15, elp5, bcas2, plec, map4k5, flnb, fth1, glud1, akr1b3, acot13, ikbip, ckb, echdc2, eif4ebp1, ptcd2, marcksl1, actb, cep83, tceb2, 2410006h16rik, pkp2, blvrb, ube2l6, pcolce, hmces, d11wsu47e, mfge8, rpl39l, pdia6, creld2, surf4, gng5, stmn2, trib3, hist1h4i, hist1h3b, exoc3l, set, tpd52, gabarapl2, h2afx, nxn, cks2, nme6, cd9, 2810403a07rik, arl6ip1, pim3, psap, sssca1, stmn1, zfp296, pdlim7, actn1, glrx5, epha2, exosc2, psmd7, gm6083, pkig, bloc1s1, supt4a, apoe, clic4, bex1, cenpn, cox10, mdh2, nkain3, srm, tsc22d1, qsox1, ulk1, gpx3, srgn, xrcc1, rpl10l, ung, itpk1, mthfd2, srrd, hspa12b, parvb, imp3, thoc3, hn1, 1110008f13rik, 2310036o22rik, crip1, gtf3a, aurka, ass1, rnaseh2c, tbc1d16, ube2s, cdk2ap1, tmem230, pdgfa, rrp7a, tyw1, erf, timm8b, d230025d16rik, scd2, med13l, syce2, arf1, fcf1, etv4, eid2, polr2h, rad51, dppa4, sertad1, lincenc1, cox7a2l, sf3b5, tra2b, tinagl1, tubb6, chchd3, fam195a, abcd4, f830016b08rik, u2af1, rbfa, fn1, cope, dym, calu, crlf2, top2a, cstb, ppa1, arl6ip4, tuba4a, bzw2, churc1, bud31, aifm1, ndufa13, dstn, ocel1, galk1, hmox1, ubald2, romo1, emc10, ptov1, snf8, calm2, mrpl14, pih1d1, dhx16, siva1, pop5, tex19.1, ube3b, col18a1, lias, fscn1, ltb, psma2, pmm1, arpc1b, mrpl34, grn, cct5, cfdp1, ltbp4, tubb2b, lima1, b3gnt7, tubb3, fkbp3, txnrd1, trmt1, fkbp1a, uchl1, psmd11, mif4gd, pfdn6, 1700007k13rik, rabac1, snrpa1, dtd1, ddx56, srpk1, krtcap2, gorasp2, malsu1, wbp5, mark3, tsta3, tpx2, sec11c, h2afz, nfyb, atg101, wars, atp6v0d1, coq7, ctsh, 2810428i15rik, fam96b, hbegf, samm50, zc3hc1, tpi1, elof1, 1500012f01rik, cenpa, pecr, degs1, ndrg4, lonp1, ppa2, apitd1, dcun1d5, ndufa4, stx5a, rheb, ddt, trappc3, cbx3, slirp, mrpl12, tcf15, qdpr, midn, mars, dap, 2200002d01rik, zdhhc7, hap1, cdv3, polr2e, ctnnal1, nlrp1a, snx6, xpnpep1, gm10845, trim25, gpx2, esd, sgk1, mrpl13, stmn3, mrpl53, rwdd1, fkbp4, txnl1, asb6, chchd4, sqstm1, guca1a, glipr2, prpsap1, rbmxl1, eif3c, tspan4, dmkn, rian, copb2, ahsa1, ndufb6, atp6v0e, ccdc22, rbm42, cyc1, lmna, clic1, slc30a2, psmd6, scamp3, calm1, qars, mrpl43, adamts13, ppie, mea1, prpf3, atf4, spata33, atp5j2, lrrc59, fam129b, nhp2, aprt, gna11, spns1, ntan1, actl6a, ywhaq, chmp4b, fto, sdhc, plin2, eif3g, mcm7, crip2, slc6a8, saal1, mrpl23, cdkn1a, emg1, ccdc124, bri3, csrp1, glul, socs2, ftl1, cdkn2aip, hs1bp3, fdft1, exosc8, guk1, deb1, ndufb10, rnf7, ndufb11, dynll1, gstm1, smn1]
+Elapsed sortUnconditionedEdges = 54 ms
+1. INSERT hist1h2ah --> hist1h2ao [] 1313.9382897883024  degree = 1
+2. INSERT gm6083 --> dppa5a [] 889.7213784489269  degree = 1
+3. INSERT exosc2 --> tor4a [] 864.321896205979  degree = 1
+4. INSERT mt2 --> mt1 [] 840.28159144104  degree = 1
+5. INSERT ccdc36 --> bc1 [] 757.9081078614914  degree = 1
+6. INSERT tor4a --> pbld1 [] 684.2299035761322  degree = 2
+7. INSERT ccdc36 --> ahcyl2 [] 675.4699579624893  degree = 2
+8. INSERT tor4a --> tyw1 [] 664.2664396490505  degree = 3
+9. INSERT tor4a --> churc1 [] 617.6416829197477  degree = 4
+10. INSERT pbld1 --> bcas2 [] 585.5118166775223  degree = 4
+11. INSERT tor4a --> mrpl43 [] 499.8425960619362  degree = 5
+12. INSERT ftl1 --> fth1 [] 387.62334715496104  degree = 5
+13. INSERT map4k5 --> fam229b [] 336.57700078513153  degree = 5
+14. INSERT f830016b08rik --> a630089n07rik [] 311.9638062303294  degree = 5
+15. INSERT fam229b --> tmem230 [] 305.2544219018379  degree = 5
+16. INSERT h2afz --> trim28 [] 300.33354125887456  degree = 5
+17. INSERT ccdc36 --> lima1 [] 295.5007220720612  degree = 5
+18. INSERT fto --> madd [] 282.80583247908316  degree = 5
+19. INSERT dppa5a --> pou5f1 [] 277.372698113301  degree = 5
+20. INSERT ftl1 --> mt2 [] 261.95416389109744  degree = 5
+21. INSERT ftl1 --> trim28 [] 249.1190173539607  degree = 5
+22. INSERT ftl1 --> dppa5a [] 248.2051206117596  degree = 5
+23. INSERT actb --> hsp90aa1 [] 248.20192579584895  degree = 5
+24. INSERT actb --> actg1 [] 247.36476216729884  degree = 5
+25. INSERT hsp90aa1 --> ftl1 [] 246.30961273612607  degree = 5
+26. INSERT trim28 --> mybl2 [] 235.25732594955755  degree = 5
+27. INSERT tbc1d16 --> hspa12b [] 234.8977688297475  degree = 5
+28. INSERT trim28 --> nlrp1a [] 234.2041555367239  degree = 5
+29. INSERT actb --> bex1 [] 232.50351006960497  degree = 5
+30. INSERT mrpl43 --> ddx56 [] 220.2036302527678  degree = 5
+31. INSERT hsp90aa1 --> gpx4 [] 218.17754366648174  degree = 5
+32. INSERT ftl1 --> tuba1a [] 212.26608492234934  degree = 6
+33. INSERT trim28 --> tyw1 [] 211.86351450854696  degree = 6
+34. INSERT madd --> fam229b [] 210.77511893920618  degree = 6
+35. INSERT a630089n07rik --> map4k5 [] 206.8015878633004  degree = 6
+36. INSERT tbc1d16 --> kctd15 [] 204.25247351598168  degree = 6
+37. INSERT bex1 --> ngfrap1 [] 200.1080822587406  degree = 6
+38. INSERT hist1h2ao --> dtd1 [] 192.86309445207982  degree = 6
+39. INSERT trim28 --> eif2s2 [] 192.366512042347  degree = 6
+40. INSERT pou5f1 --> set [] 191.4428711286495  degree = 6
+41. INSERT nlrp1a --> mkrn1 [] 190.94234890437892  degree = 6
+42. INSERT map4k5 --> hspa12b [] 190.7039360815178  degree = 6
+43. INSERT trim28 --> zfp42 [] 177.3647181954611  degree = 7
+44. INSERT trim28 --> gpx1 [] 176.88268267133375  degree = 8
+45. INSERT a630089n07rik --> nkain3 [] 171.6363326460386  degree = 8
+46. INSERT tor4a --> abcd4 [] 166.65486018374477  degree = 8
+47. INSERT ftl1 --> hspb1 [] 163.32858584739844  degree = 8
+48. INSERT trim28 --> e130012a19rik [] 156.92413685851184  degree = 9
+49. INSERT trim28 --> nhp2 [] 156.66460738262853  degree = 10
+50. INSERT fam229b --> srgn [] 155.8804672510805  degree = 10
+51. INSERT ftl1 --> pgk1 [] 154.23237953251268  degree = 10
+52. INSERT pou5f1 --> ccnd3 [] 152.43029369801576  degree = 10
+53. INSERT trim28 --> utf1 [] 152.17647991956656  degree = 11
+54. INSERT ftl1 --> fkbp1a [] 151.71223759745735  degree = 11
+55. INSERT trim28 --> tdh [] 151.62463060353662  degree = 12
+56. INSERT trim28 --> esrrb [] 149.7821889390559  degree = 13
+57. INSERT ftl1 --> lrrc59 [] 144.29200865203362  degree = 13
+58. INSERT trim28 --> asns [] 137.8427847392453  degree = 14
+59. INSERT trim28 --> mcm7 [] 132.0229921412342  degree = 15
+60. INSERT trim28 --> ube2s [] 131.92050496752498  degree = 16
+61. INSERT ftl1 --> erdr1 [] 131.837271061608  degree = 16
+62. INSERT nlrp1a --> ywhaq [] 131.7605013678926  degree = 16
+63. INSERT elp5 --> zfp286 [] 131.2120871380841  degree = 16
+64. INSERT ftl1 --> ppa1 [] 128.9269364901912  degree = 16
+65. INSERT ccdc36 --> pbld1 [] 127.70530792760837  degree = 16
+66. INSERT ftl1 --> fkbp4 [] 127.44649227937597  degree = 16
+67. INSERT ftl1 --> eif4ebp1 [] 125.9607907942883  degree = 16
+68. INSERT eif2s2 --> rnf7 [] 124.15429648415957  degree = 16
+69. INSERT ftl1 --> tsc22d1 [] 122.85225585405996  degree = 16
+70. INSERT ftl1 --> chchd10 [] 119.39445799633262  degree = 16
+71. INSERT adamts13 --> gm10845 [] 117.3253999792015  degree = 16
+72. INSERT dppa5a --> tceb2 [] 117.19154414876047  degree = 16
+73. INSERT trim28 --> sox2 [] 113.74970506279467  degree = 17
+74. INSERT ftl1 --> arf1 [] 112.43340665849755  degree = 17
+75. INSERT ccdc36 --> zc3hc1 [] 111.96036409644381  degree = 17
+76. INSERT trim28 --> parp1 [] 111.62451686845029  degree = 18
+77. INSERT ftl1 --> cd9 [] 110.83422690993763  degree = 18
+78. INSERT trim28 --> jarid2 [] 110.23226721231063  degree = 19
+79. INSERT ftl1 --> tex19.1 [] 110.20400401423714  degree = 19
+80. INSERT bex1 --> s100a6 [] 109.06151869266867  degree = 19
+81. INSERT ftl1 --> atp5j2 [] 108.49809008730261  degree = 20
+82. INSERT trim28 --> marcksl1 [] 108.42198296350361  degree = 20
+83. INSERT trim28 --> polr2e [] 104.8879449184777  degree = 21
+84. INSERT trim28 --> dynll1 [] 102.37009736609463  degree = 22
+85. INSERT calr --> hspa5 [] 102.24305620796707  degree = 22
+86. INSERT trim28 --> cdc5l [] 102.20756424868131  degree = 23
+87. INSERT actb --> tmsb4x [] 101.9997503677049  degree = 23
+88. INSERT trim28 --> fscn1 [] 100.18308805866067  degree = 24
+89. INSERT ftl1 --> eif3c [] 99.76481354749569  degree = 24
+90. INSERT zfp286 --> cdkn2aip [] 98.49691878077044  degree = 24
+91. INSERT s100a6 --> plec [] 97.49821166034323  degree = 24
+92. INSERT nlrp1a --> ctbp2 [] 96.50482259948663  degree = 24
+93. INSERT actb --> glud1 [] 95.65521391000789  degree = 24
+94. INSERT tor4a --> fn1 [] 92.83879238891319  degree = 24
+95. INSERT trim28 --> sall4 [] 92.47875477402656  degree = 25
+96. INSERT map4k5 --> fth1 [] 92.42012267526331  degree = 25
+97. INSERT trim28 --> tbx3 [] 89.43534800588574  degree = 26
+98. INSERT ftl1 --> dstn [] 88.38696793480503  degree = 26
+99. INSERT dcdc2c --> gm7102 [] 87.75097609976044  degree = 26
+100. INSERT s100a6 --> peg10 [] 86.27956200374055  degree = 26
+101. INSERT pou5f1 --> akr1b3 [] 84.88995197489564  degree = 26
+102. INSERT dppa5a --> stmn2 [] 83.81269165901881  degree = 26
+103. INSERT trim28 --> nanog [] 83.38907747498013  degree = 27
+104. INSERT ftl1 --> eif3g [] 83.05843250183761  degree = 27
+105. INSERT ftl1 --> cdv3 [] 81.63130819405089  degree = 27
+106. INSERT actb --> flnb [] 80.89374608733664  degree = 27
+107. INSERT tyw1 --> pbld1 [] 79.36289821654384  degree = 27
+108. INSERT elp5 --> saal1 [] 78.32998408653359  degree = 27
+109. INSERT nlrp1a --> slc29a1 [] 78.26921993317461  degree = 27
+110. INSERT fth1 --> sparc [] 77.58091280181975  degree = 27
+111. INSERT ftl1 --> ahsa1 [] 76.45799892588661  degree = 27
+112. INSERT trim28 --> srm [] 75.61937417548512  degree = 28
+113. INSERT trim28 --> slc2a3 [] 73.21596168748016  degree = 29
+114. INSERT rian --> meg3 [] 72.8022218035178  degree = 29
+115. INSERT trim28 --> gabarapl2 [] 69.92500800121888  degree = 30
+116. INSERT fth1 --> dnmt3l [] 69.22557337955885  degree = 30
+117. INSERT nkain3 --> malat1 [] 68.5630085584566  degree = 30
+118. INSERT trim28 --> tdgf1 [] 68.05829601136728  degree = 31
+119. INSERT trim28 --> h2afx [] 64.62736059906797  degree = 32
+120. INSERT zfp286 --> gm20594 [] 64.31451852693391  degree = 32
+121. INSERT nkain3 --> gm10845 [] 64.30729376435167  degree = 32
+122. INSERT trim28 --> ubald2 [] 63.65094209562329  degree = 33
+123. INSERT s100a6 --> sfn [] 63.53746273385602  degree = 33
+124. INSERT actb --> calm1 [] 63.29913625852757  degree = 33
+125. INSERT ftl1 --> uchl1 [] 62.432269603875  degree = 33
+126. INSERT ftl1 --> cyc1 [] 62.163688441722286  degree = 33
+127. INSERT s100a6 --> s100a10 [] 61.7299924607033  degree = 33
+128. INSERT dppa5a --> ass1 [] 60.77824760693605  degree = 33
+129. INSERT tyw1 --> glul [] 60.55294135315745  degree = 33
+130. INSERT ywhaq --> aprt [] 60.539055388698586  degree = 33
+131. INSERT nlrp1a --> hmces [] 59.8122451907561  degree = 33
+132. INSERT trim28 --> mbd3 [] 59.67807617133795  degree = 34
+133. INSERT h2afz --> mdh2 [] 54.080293838660964  degree = 34
+134. INSERT eif2s2 --> fabp5 [] 53.73759769157061  degree = 34
+135. INSERT trim28 --> klf4 [] 51.39924654932739  degree = 35
+136. INSERT zfp286 --> sdhc [] 50.61616019652044  degree = 35
+137. INSERT trim28 --> pou5f1 [dppa5a] 50.127650716479764  degree = 36
+--- Directing dppa5a --> pou5f1
+138. INSERT ftl1 --> actn1 [] 49.466255552553065  degree = 36
+139. INSERT calr --> hsp90b1 [] 49.00355513354614  degree = 36
+140. INSERT mt2 --> top2a [] 48.35650356862513  degree = 36
+141. INSERT hspa12b --> col4a2 [] 48.249450582783595  degree = 36
+142. INSERT ftl1 --> cox7a2l [] 48.14354602747849  degree = 36
+143. INSERT trim28 --> psma2 [] 47.8951486459319  degree = 37
+144. INSERT calr --> fth1 [] 47.64244141844577  degree = 37
+145. INSERT trim28 --> slc25a5 [] 47.48552050092459  degree = 38
+146. INSERT ccnd3 --> pmvk [] 46.69427691875421  degree = 38
+147. INSERT pou5f1 --> eed [] 46.3993445037523  degree = 38
+148. INSERT nlrp1a --> trim25 [] 46.14542936310639  degree = 38
+149. INSERT ftl1 --> pdlim7 [] 45.74120007019275  degree = 38
+150. INSERT tyw1 --> pfdn6 [] 44.82356721176839  degree = 38
+151. INSERT trim28 --> stmn1 [] 44.69461367159727  degree = 39
+152. INSERT trim28 --> dhx16 [] 44.168250955605544  degree = 40
+153. INSERT trim28 --> fgd1 [] 44.09594753390985  degree = 41
+154. INSERT ftl1 --> aes [] 43.9089606161879  degree = 41
+155. INSERT meg3 --> hsp90aa1 [] 43.37304607889487  degree = 41
+156. INSERT trim28 --> erf [] 43.32846211504622  degree = 42
+157. INSERT trim28 --> wtap [] 41.78560944699879  degree = 43
+158. INSERT trim28 --> txnl1 [] 41.51130034189694  degree = 44
+159. INSERT trim28 --> etv5 [] 41.12387697078327  degree = 45
+160. INSERT set --> ung [] 40.04255842105408  degree = 45
+161. INSERT fth1 --> ctsd [] 39.848963789399306  degree = 45
+162. INSERT hspa5 --> pdia6 [] 39.83800427017849  degree = 45
+163. INSERT ftl1 --> tubb2b [] 38.984433681899304  degree = 45
+164. INSERT ftl1 --> slc3a2 [] 38.83601831375404  degree = 45
+165. INSERT ftl1 --> gng5 [] 38.73881008415148  degree = 45
+166. INSERT trim28 --> ulk1 [] 38.61577116738741  degree = 46
+167. INSERT pbld1 --> pim3 [] 38.20969005068426  degree = 46
+168. INSERT trim28 --> cfdp1 [] 38.15244460230366  degree = 47
+169. INSERT churc1 --> pbld1 [] 36.37794094864023  degree = 47
+170. INSERT trim28 --> psmd7 [] 36.0577463488944  degree = 48
+171. INSERT ftl1 --> fem1b [] 35.05672653221691  degree = 48
+172. INSERT calr --> p4hb [] 34.98769961529493  degree = 48
+173. INSERT ftl1 --> sqstm1 [] 34.97200735450352  degree = 48
+174. INSERT ftl1 --> lamc1 [] 34.531949637714746  degree = 48
+175. INSERT dppa5a --> phc1 [] 34.52244137137299  degree = 48
+176. INSERT madd --> zic3 [] 34.23299185384826  degree = 48
+177. INSERT pbld1 --> ikbip [] 33.48916946426547  degree = 48
+178. INSERT trim28 --> rbmxl1 [] 33.43103957504445  degree = 49
+179. INSERT trim28 --> 1500012f01rik [] 33.320229237103064  degree = 50
+180. INSERT ftl1 --> txnrd1 [] 33.230206620789204  degree = 50
+181. INSERT pou5f1 --> klf5 [] 33.10869808153112  degree = 50
+182. INSERT trim28 --> emg1 [] 32.55338471548609  degree = 51
+183. INSERT ftl1 --> calm2 [] 32.389823291323864  degree = 51
+184. INSERT actg1 --> ftl1 [hsp90aa1] 31.105306216576764  degree = 51
+--- Directing hsp90aa1 --> ftl1
+185. INSERT hsp90aa1 --> slc2a1 [] 30.541697102030156  degree = 51
+186. INSERT trim28 --> trim71 [] 30.07016262053611  degree = 52
+187. INSERT ftl1 --> samm50 [] 29.961575605994682  degree = 52
+188. INSERT ftl1 --> 1110008f13rik [] 29.280208910055165  degree = 52
+189. INSERT set --> tuba1a [] 29.222136587646503  degree = 52
+190. INSERT ftl1 --> cdk2ap1 [] 28.93327444470276  degree = 52
+191. INSERT ccnd3 --> laptm5 [] 28.795590090652354  degree = 52
+192. INSERT map4k5 --> tmem230 [] 28.60756187809585  degree = 52
+193. INSERT gpx1 --> dnmt3b [] 28.345379063603303  degree = 52
+194. INSERT pbld1 --> etv4 [] 25.869986195662648  degree = 52
+195. INSERT ftl1 --> mrpl12 [] 25.811014225175484  degree = 52
+196. INSERT trim28 --> cbx3 [] 25.75336344095959  degree = 53
+197. INSERT eif2s2 --> ckb [] 25.74668586551408  degree = 53
+198. INSERT hsp90aa1 --> fkbp3 [] 25.17358172272212  degree = 53
+199. INSERT ftl1 --> siva1 [] 24.853099341789587  degree = 53
+200. INSERT trim28 --> psap [] 24.758730003704542  degree = 54
+201. INSERT trim28 --> arl6ip1 [] 24.68234847694781  degree = 55
+202. INSERT mrpl43 --> kpna2 [] 24.05546292494978  degree = 55
+203. INSERT trim28 --> rbm42 [] 23.87432615417032  degree = 56
+204. INSERT fth1 --> chmp4b [] 23.72656432807132  degree = 56
+205. INSERT nlrp1a --> prpsap1 [] 23.538419527015336  degree = 56
+206. INSERT actg1 --> morf4l2 [] 23.161347525580922  degree = 56
+207. INSERT ftl1 --> hmox1 [] 23.137390883645466  degree = 56
+208. INSERT pbld1 --> ccne1 [] 22.991663322336848  degree = 56
+209. INSERT pbld1 --> mrpl43 [] 22.759431287633845  degree = 56
+210. INSERT ftl1 --> esd [] 22.695444790032354  degree = 56
+211. INSERT set --> polr2h [] 21.049923299924075  degree = 56
+212. INSERT trim28 --> xpnpep1 [] 20.729489265225197  degree = 57
+213. INSERT dppa5a --> slirp [] 20.014610304520886  degree = 57
+214. INSERT h2afz --> actl6a [] 19.925546873814653  degree = 57
+215. INSERT ngfrap1 --> wbp5 [] 19.142969096075774  degree = 57
+216. INSERT pou5f1 --> ccdc124 [] 18.860104786467886  degree = 57
+217. INSERT ftl1 --> ltbp4 [] 18.559914029027865  degree = 57
+218. INSERT pou5f1 --> thoc3 [] 17.857772672668645  degree = 57
+219. INSERT pou5f1 --> ndufb10 [] 17.506030647502243  degree = 57
+220. INSERT trim28 --> cct5 [] 16.950036901288314  degree = 58
+221. INSERT madd --> hspa12b [] 15.748475226674259  degree = 58
+222. INSERT mt2 --> set [] 15.230932452832633  degree = 58
+223. INSERT trim28 --> ezh2 [] 14.704626672001055  degree = 59
+224. INSERT trim28 --> tcf3 [] 14.698954368969382  degree = 60
+225. INSERT ftl1 --> tpi1 [] 14.578129467598288  degree = 60
+226. INSERT slc25a4 --> hsp90aa1 [meg3] 14.235458062579937  degree = 60
+--- Directing meg3 --> hsp90aa1
+227. INSERT hsp90b1 --> manf [] 13.805719931216998  degree = 60
+228. INSERT ftl1 --> tuba4a [] 13.675314862335611  degree = 60
+229. INSERT pou5f1 --> sdhc [] 13.6626552902421  degree = 60
+230. INSERT mrpl43 --> guk1 [] 13.541092773562085  degree = 60
+231. INSERT eif2s2 --> fam25c [] 13.36954422399036  degree = 60
+232. INSERT ftl1 --> surf4 [] 13.31516285688275  degree = 60
+233. INSERT ftl1 --> h2afz [] 13.03760981649333  degree = 60
+234. INSERT slc2a3 --> cd63 [] 12.894851175585842  degree = 60
+235. INSERT ftl1 --> nacc1 [] 12.586920314941423  degree = 60
+236. INSERT pgk1 --> ldha [] 12.570159041551634  degree = 60
+237. INSERT hsp90aa1 --> dppa3 [] 12.503703690779858  degree = 60
+238. INSERT tyw1 --> nlrp1a [] 12.49426429492155  degree = 60
+239. INSERT trim28 --> smn1 [] 12.26087508599629  degree = 61
+240. INSERT ftl1 --> wars [] 11.89838505095193  degree = 61
+241. INSERT trim28 --> pfdn2 [] 11.875304000650544  degree = 62
+242. INSERT ftl1 --> 2310036o22rik [] 11.40110552410377  degree = 62
+243. INSERT ftl1 --> fabp3 [] 11.208509708196743  degree = 62
+244. INSERT ube2s --> cenpa [] 10.51974976090527  degree = 62
+245. INSERT ftl1 --> atf4 [] 9.767450330326142  degree = 62
+246. INSERT tor4a --> itpk1 [] 9.630890776367082  degree = 62
+247. INSERT trim28 --> trp53 [] 9.567144632900707  degree = 63
+248. INSERT nlrp1a --> pmm1 [] 9.150418967939657  degree = 63
+249. INSERT hsp90aa1 --> mylpf [] 8.490322029913187  degree = 63
+250. INSERT hspb1 --> midn [] 8.233764088288495  degree = 63
+251. INSERT mrpl43 --> atg101 [] 7.847547874590262  degree = 63
+252. INSERT actb --> 2200002d01rik [] 7.641138425362385  degree = 63
+253. INSERT set --> bc018473 [] 7.622703804400359  degree = 63
+254. INSERT ftl1 --> psmd6 [] 7.401420005876872  degree = 63
+255. INSERT trim28 --> klf2 [] 7.226623850675139  degree = 64
+256. INSERT tor4a --> hn1 [] 6.815889937511329  degree = 64
+257. INSERT eif2s2 --> ly6a [] 6.7154230460463396  degree = 64
+258. INSERT actg1 --> hist1h2ao [] 6.543429950161183  degree = 64
+259. INSERT ftl1 --> krtcap2 [] 6.44847332329438  degree = 64
+260. INSERT tuba1a --> snrpa1 [] 5.487097267410391  degree = 64
+261. INSERT tyw1 --> srpk1 [] 5.434446033541036  degree = 64
+262. INSERT hsp90aa1 --> ctnnal1 [] 5.232433005121891  degree = 64
+263. INSERT ftl1 --> ddt [] 4.864079462743632  degree = 64
+264. INSERT tor4a --> bcas2 [] 4.635534023429784  degree = 64
+265. INSERT slc29a1 --> tcf15 [] 4.418540224686822  degree = 64
+266. INSERT ftl1 --> rpap1 [] 4.126564621199023  degree = 64
+267. INSERT actb --> epha2 [] 2.3198888382026865  degree = 64
+268. INSERT trim28 --> qars [] 2.2081194892809037  degree = 65
+269. INSERT trim28 --> ifitm1 [] 2.118454913866472  degree = 66
+270. INSERT mkrn1 --> med13l [] 1.5921915076217772  degree = 66
+271. INSERT tyw1 --> mrpl13 [] 1.2355772600529207  degree = 66
+272. INSERT nlrp1a --> b3gnt7 [] 0.9748698583281623  degree = 66
+273. INSERT actb --> lmna [] 0.8003998361039351  degree = 66
+274. INSERT hspb1 --> tcea3 [] 0.6503161966133462  degree = 66
+275. INSERT pou5f1 --> supt4a [] 0.5159293638152747  degree = 66
+276. INSERT trim28 --> lama1 [] 0.4954397977054583  degree = 67
+FGS result graph = 
+Graph Nodes:
+id1 dppa5a dnmt3l klf5 id3 aes mycn nanog tcl1 klf2 utf1 dnmt3b esrrb phc1 mybl2 rpap1 tcea3 myod1 klf4 cdc5l sox2 trim28 sall4 zfp42 sap30 ezh2 mbd3 parp1 ugp2 stra13 
+etv5 pdlim1 eed klf9 gbx2 trp53 fbxo15 nacc1 dppa3 jarid2 mkrn1 tcf3 gadd45a gtf2i msc pou5f1 dppa2 tbx3 ctbp2 smad4 tuba1a fem1b otx2 zic3 nr0b1 rhox6 sprr2b krt8 sparc bc1 
+clu krt18 h19 ccdc36 serpinh1 hist1h2ao col4a1 fam25c lamb1 gm7102 s100a6 sfn malat1 lama1 mt1 hspa5 fabp3 tagln2 hist1h2ah acaa1b ly6a sohlh2 fgd1 lrpap1 gm6878 cd63 bscl2 mt2 gm20594 papd5 
+slc29a1 med10 actg1 dcdc2c lgals1 anxa2 rhox5 mylpf hsp90b1 meg3 2700046a07rik slc25a4 ctgf tmsb4x gsn bhmt ccnd3 sept12 manf trim71 tagln col4a2 hsp90aa1 ahcyl2 best2 asns calcoco2 ctsl fam229b chchd10 
+sbk1 e130012a19rik laptm5 krt19 wtap dusp9 gpx4 tdh p4hb tspan17 s100a10 slc2a3 ldha peg10 rhox13 igfbp2 tdgf1 vim tor4a lamc1 ldhb lgmn upp1 a630089n07rik ngfrap1 dusp1 slc2a1 bc018473 pmvk calr 
+pbld1 fabp5 slc25a5 eif2s2 asb13 kif15 slc3a2 gm7325 atf5 hspb1 ifitm1 erdr1 pgk1 htra1 kpna2 morf4l2 ctsd cdc20 gpx1 id2 madd rasgrp2 zfp286 pfdn2 ccne1 sort1 kctd15 elp5 bcas2 plec 
+map4k5 flnb fth1 glud1 akr1b3 acot13 ikbip ckb echdc2 eif4ebp1 ptcd2 marcksl1 actb cep83 tceb2 2410006h16rik pkp2 blvrb ube2l6 pcolce hmces d11wsu47e mfge8 rpl39l pdia6 creld2 surf4 gng5 stmn2 trib3 
+hist1h4i hist1h3b exoc3l set tpd52 gabarapl2 h2afx nxn cks2 nme6 cd9 2810403a07rik arl6ip1 pim3 psap sssca1 stmn1 zfp296 pdlim7 actn1 glrx5 epha2 exosc2 psmd7 gm6083 pkig bloc1s1 supt4a apoe clic4 
+bex1 cenpn cox10 mdh2 nkain3 srm tsc22d1 qsox1 ulk1 gpx3 srgn xrcc1 rpl10l ung itpk1 mthfd2 srrd hspa12b parvb imp3 thoc3 hn1 1110008f13rik 2310036o22rik crip1 gtf3a aurka ass1 rnaseh2c tbc1d16 
+ube2s cdk2ap1 tmem230 pdgfa rrp7a tyw1 erf timm8b d230025d16rik scd2 med13l syce2 arf1 fcf1 etv4 eid2 polr2h rad51 dppa4 sertad1 lincenc1 cox7a2l sf3b5 tra2b tinagl1 tubb6 chchd3 fam195a abcd4 f830016b08rik 
+u2af1 rbfa fn1 cope dym calu crlf2 top2a cstb ppa1 arl6ip4 tuba4a bzw2 churc1 bud31 aifm1 ndufa13 dstn ocel1 galk1 hmox1 ubald2 romo1 emc10 ptov1 snf8 calm2 mrpl14 pih1d1 dhx16 
+siva1 pop5 tex19.1 ube3b col18a1 lias fscn1 ltb psma2 pmm1 arpc1b mrpl34 grn cct5 cfdp1 ltbp4 tubb2b lima1 b3gnt7 tubb3 fkbp3 txnrd1 trmt1 fkbp1a uchl1 psmd11 mif4gd pfdn6 1700007k13rik rabac1 
+snrpa1 dtd1 ddx56 srpk1 krtcap2 gorasp2 malsu1 wbp5 mark3 tsta3 tpx2 sec11c h2afz nfyb atg101 wars atp6v0d1 coq7 ctsh 2810428i15rik fam96b hbegf samm50 zc3hc1 tpi1 elof1 1500012f01rik cenpa pecr degs1 
+ndrg4 lonp1 ppa2 apitd1 dcun1d5 ndufa4 stx5a rheb ddt trappc3 cbx3 slirp mrpl12 tcf15 qdpr midn mars dap 2200002d01rik zdhhc7 hap1 cdv3 polr2e ctnnal1 nlrp1a snx6 xpnpep1 gm10845 trim25 gpx2 
+esd sgk1 mrpl13 stmn3 mrpl53 rwdd1 fkbp4 txnl1 asb6 chchd4 sqstm1 guca1a glipr2 prpsap1 rbmxl1 eif3c tspan4 dmkn rian copb2 ahsa1 ndufb6 atp6v0e ccdc22 rbm42 cyc1 lmna clic1 slc30a2 psmd6 
+scamp3 calm1 qars mrpl43 adamts13 ppie mea1 prpf3 atf4 spata33 atp5j2 lrrc59 fam129b nhp2 aprt gna11 spns1 ntan1 actl6a ywhaq chmp4b fto sdhc plin2 eif3g mcm7 crip2 slc6a8 saal1 mrpl23 
+cdkn1a emg1 ccdc124 bri3 csrp1 glul socs2 ftl1 cdkn2aip hs1bp3 fdft1 exosc8 guk1 deb1 ndufb10 rnf7 ndufb11 dynll1 gstm1 smn1 
+
+Graph Edges: 
+1. a630089n07rik --> f830016b08rik
+2. a630089n07rik --> nkain3
+3. actb --> 2200002d01rik
+4. actb --> actg1
+5. actb --> bex1
+6. actb --> calm1
+7. actb --> epha2
+8. actb --> flnb
+9. actb --> glud1
+10. actb --> lmna
+11. actb --> tmsb4x
+12. actg1 --> ftl1
+13. actg1 --> hist1h2ao
+14. actg1 --> morf4l2
+15. bex1 --> ngfrap1
+16. bex1 --> s100a6
+17. calr --> hsp90b1
+18. calr --> hspa5
+19. calr --> p4hb
+20. ccdc36 --> ahcyl2
+21. ccdc36 --> bc1
+22. ccdc36 --> lima1
+23. ccdc36 --> zc3hc1
+24. ccnd3 --> laptm5
+25. ccnd3 --> pmvk
+26. dcdc2c --- gm7102
+27. dppa5a --> ass1
+28. dppa5a --> gm6083
+29. dppa5a --> phc1
+30. dppa5a --> pou5f1
+31. dppa5a --> slirp
+32. dppa5a --> stmn2
+33. dppa5a --> tceb2
+34. eif2s2 --> ckb
+35. eif2s2 --> fabp5
+36. eif2s2 --> fam25c
+37. eif2s2 --> ly6a
+38. eif2s2 --> rnf7
+39. elp5 --> saal1
+40. fam229b --> madd
+41. fam229b --> srgn
+42. fam229b --- tmem230
+43. fth1 --> calr
+44. fth1 --> chmp4b
+45. fth1 --> ctsd
+46. fth1 --> dnmt3l
+47. fth1 --> map4k5
+48. fth1 --> sparc
+49. ftl1 --> 1110008f13rik
+50. ftl1 --> 2310036o22rik
+51. ftl1 --> actn1
+52. ftl1 --> aes
+53. ftl1 --> ahsa1
+54. ftl1 --> arf1
+55. ftl1 --> atf4
+56. ftl1 --> atp5j2
+57. ftl1 --> calm2
+58. ftl1 --> cd9
+59. ftl1 --> cdk2ap1
+60. ftl1 --> cdv3
+61. ftl1 --> chchd10
+62. ftl1 --> cox7a2l
+63. ftl1 --> cyc1
+64. ftl1 --> ddt
+65. ftl1 --> dppa5a
+66. ftl1 --> dstn
+67. ftl1 --> eif3c
+68. ftl1 --> eif3g
+69. ftl1 --> eif4ebp1
+70. ftl1 --> erdr1
+71. ftl1 --> esd
+72. ftl1 --> fabp3
+73. ftl1 --> fem1b
+74. ftl1 --> fkbp1a
+75. ftl1 --> fkbp4
+76. ftl1 --> fth1
+77. ftl1 --> gng5
+78. ftl1 --> h2afz
+79. ftl1 --> hmox1
+80. ftl1 --> hspb1
+81. ftl1 --> krtcap2
+82. ftl1 --> lamc1
+83. ftl1 --> lrrc59
+84. ftl1 --> ltbp4
+85. ftl1 --> mrpl12
+86. ftl1 --> mt2
+87. ftl1 --> nacc1
+88. ftl1 --> pdlim7
+89. ftl1 --> pgk1
+90. ftl1 --> ppa1
+91. ftl1 --> psmd6
+92. ftl1 --> rpap1
+93. ftl1 --> samm50
+94. ftl1 --> siva1
+95. ftl1 --> slc3a2
+96. ftl1 --> sqstm1
+97. ftl1 --> surf4
+98. ftl1 --> tex19.1
+99. ftl1 --> tpi1
+100. ftl1 --> trim28
+101. ftl1 --> tsc22d1
+102. ftl1 --> tuba1a
+103. ftl1 --> tuba4a
+104. ftl1 --> tubb2b
+105. ftl1 --> txnrd1
+106. ftl1 --> uchl1
+107. ftl1 --> wars
+108. gm10845 --> adamts13
+109. gpx1 --> dnmt3b
+110. h2afz --> actl6a
+111. h2afz --> mdh2
+112. hist1h2ao --> dtd1
+113. hist1h2ao --> hist1h2ah
+114. hsp90aa1 --> actb
+115. hsp90aa1 --> ctnnal1
+116. hsp90aa1 --> dppa3
+117. hsp90aa1 --> fkbp3
+118. hsp90aa1 --> ftl1
+119. hsp90aa1 --> gpx4
+120. hsp90aa1 --> mylpf
+121. hsp90aa1 --> slc2a1
+122. hsp90b1 --> manf
+123. hspa12b --> col4a2
+124. hspa12b --> tbc1d16
+125. hspa5 --> pdia6
+126. hspb1 --> midn
+127. hspb1 --> tcea3
+128. madd --> fto
+129. madd --> hspa12b
+130. madd --> zic3
+131. map4k5 --> a630089n07rik
+132. map4k5 --> fam229b
+133. map4k5 --> hspa12b
+134. map4k5 --> tmem230
+135. meg3 --> hsp90aa1
+136. mkrn1 --> med13l
+137. mrpl43 --> atg101
+138. mrpl43 --> ddx56
+139. mrpl43 --> guk1
+140. mrpl43 --> kpna2
+141. mt2 --> mt1
+142. mt2 --> set
+143. mt2 --> top2a
+144. ngfrap1 --> wbp5
+145. nkain3 --> gm10845
+146. nkain3 --> malat1
+147. nlrp1a --> b3gnt7
+148. nlrp1a --> ctbp2
+149. nlrp1a --> hmces
+150. nlrp1a --> mkrn1
+151. nlrp1a --> pmm1
+152. nlrp1a --> prpsap1
+153. nlrp1a --> slc29a1
+154. nlrp1a --> trim25
+155. nlrp1a --> ywhaq
+156. pbld1 --> bcas2
+157. pbld1 --> ccdc36
+158. pbld1 --> ccne1
+159. pbld1 --> churc1
+160. pbld1 --> etv4
+161. pbld1 --> ikbip
+162. pbld1 --> mrpl43
+163. pbld1 --> pim3
+164. pgk1 --> ldha
+165. pou5f1 --> akr1b3
+166. pou5f1 --> ccdc124
+167. pou5f1 --> ccnd3
+168. pou5f1 --> eed
+169. pou5f1 --> klf5
+170. pou5f1 --> ndufb10
+171. pou5f1 --> sdhc
+172. pou5f1 --> set
+173. pou5f1 --> supt4a
+174. pou5f1 --> thoc3
+175. rian --- meg3
+176. s100a6 --> peg10
+177. s100a6 --> plec
+178. s100a6 --> s100a10
+179. s100a6 --> sfn
+180. sdhc --> zfp286
+181. set --> bc018473
+182. set --> polr2h
+183. set --> tuba1a
+184. set --> ung
+185. slc25a4 --> hsp90aa1
+186. slc29a1 --> tcf15
+187. slc2a3 --> cd63
+188. tbc1d16 --> kctd15
+189. tor4a --> abcd4
+190. tor4a --> bcas2
+191. tor4a --> churc1
+192. tor4a --> exosc2
+193. tor4a --> fn1
+194. tor4a --> hn1
+195. tor4a --> itpk1
+196. tor4a --> mrpl43
+197. tor4a --- pbld1
+198. trim28 --> 1500012f01rik
+199. trim28 --> arl6ip1
+200. trim28 --> asns
+201. trim28 --> cbx3
+202. trim28 --> cct5
+203. trim28 --> cdc5l
+204. trim28 --> cfdp1
+205. trim28 --> dhx16
+206. trim28 --> dynll1
+207. trim28 --> e130012a19rik
+208. trim28 --> eif2s2
+209. trim28 --> emg1
+210. trim28 --> erf
+211. trim28 --> esrrb
+212. trim28 --> etv5
+213. trim28 --> ezh2
+214. trim28 --> fgd1
+215. trim28 --> fscn1
+216. trim28 --> gabarapl2
+217. trim28 --> gpx1
+218. trim28 --> h2afx
+219. trim28 --- h2afz
+220. trim28 --> ifitm1
+221. trim28 --> jarid2
+222. trim28 --> klf2
+223. trim28 --> klf4
+224. trim28 --> lama1
+225. trim28 --> marcksl1
+226. trim28 --> mbd3
+227. trim28 --> mcm7
+228. trim28 --> mybl2
+229. trim28 --> nanog
+230. trim28 --> nhp2
+231. trim28 --> nlrp1a
+232. trim28 --> parp1
+233. trim28 --> pfdn2
+234. trim28 --> polr2e
+235. trim28 --> pou5f1
+236. trim28 --> psap
+237. trim28 --> psma2
+238. trim28 --> psmd7
+239. trim28 --> qars
+240. trim28 --> rbm42
+241. trim28 --> rbmxl1
+242. trim28 --> sall4
+243. trim28 --> slc25a5
+244. trim28 --> slc2a3
+245. trim28 --> smn1
+246. trim28 --> sox2
+247. trim28 --> srm
+248. trim28 --> stmn1
+249. trim28 --> tbx3
+250. trim28 --> tcf3
+251. trim28 --> tdgf1
+252. trim28 --> tdh
+253. trim28 --> trim71
+254. trim28 --> trp53
+255. trim28 --> txnl1
+256. trim28 --> tyw1
+257. trim28 --> ubald2
+258. trim28 --> ube2s
+259. trim28 --> ulk1
+260. trim28 --> utf1
+261. trim28 --> wtap
+262. trim28 --> xpnpep1
+263. trim28 --> zfp42
+264. tuba1a --> snrpa1
+265. tyw1 --> glul
+266. tyw1 --> mrpl13
+267. tyw1 --- nlrp1a
+268. tyw1 --> pbld1
+269. tyw1 --> pfdn6
+270. tyw1 --> srpk1
+271. tyw1 --> tor4a
+272. ube2s --> cenpa
+273. ywhaq --> aprt
+274. zfp286 --> cdkn2aip
+275. zfp286 --> elp5
+276. zfp286 --> gm20594
+
+
+GES done 276 edges in graph
+R0 start
+Copying from GES: Orienting collider: dppa5a *-> pou5f1 <-* trim28
+Copying from GES: Orienting collider: set *-> tuba1a <-* ftl1
+Copying from GES: Orienting collider: slc25a4 *-> hsp90aa1 <-* meg3
+Copying from GES: Orienting collider: pou5f1 *-> set <-* mt2
+Copying from GES: Orienting collider: map4k5 *-> hspa12b <-* madd
+Copying from GES: Orienting collider: actg1 *-> ftl1 <-* hsp90aa1
+
+Result graph:
+
+Graph Nodes:
+id1 dppa5a dnmt3l klf5 id3 aes mycn nanog tcl1 klf2 utf1 dnmt3b esrrb phc1 mybl2 rpap1 tcea3 myod1 klf4 cdc5l sox2 trim28 sall4 zfp42 sap30 ezh2 mbd3 parp1 ugp2 stra13 
+etv5 pdlim1 eed klf9 gbx2 trp53 fbxo15 nacc1 dppa3 jarid2 mkrn1 tcf3 gadd45a gtf2i msc pou5f1 dppa2 tbx3 ctbp2 smad4 tuba1a fem1b otx2 zic3 nr0b1 rhox6 sprr2b krt8 sparc bc1 
+clu krt18 h19 ccdc36 serpinh1 hist1h2ao col4a1 fam25c lamb1 gm7102 s100a6 sfn malat1 lama1 mt1 hspa5 fabp3 tagln2 hist1h2ah acaa1b ly6a sohlh2 fgd1 lrpap1 gm6878 cd63 bscl2 mt2 gm20594 papd5 
+slc29a1 med10 actg1 dcdc2c lgals1 anxa2 rhox5 mylpf hsp90b1 meg3 2700046a07rik slc25a4 ctgf tmsb4x gsn bhmt ccnd3 sept12 manf trim71 tagln col4a2 hsp90aa1 ahcyl2 best2 asns calcoco2 ctsl fam229b chchd10 
+sbk1 e130012a19rik laptm5 krt19 wtap dusp9 gpx4 tdh p4hb tspan17 s100a10 slc2a3 ldha peg10 rhox13 igfbp2 tdgf1 vim tor4a lamc1 ldhb lgmn upp1 a630089n07rik ngfrap1 dusp1 slc2a1 bc018473 pmvk calr 
+pbld1 fabp5 slc25a5 eif2s2 asb13 kif15 slc3a2 gm7325 atf5 hspb1 ifitm1 erdr1 pgk1 htra1 kpna2 morf4l2 ctsd cdc20 gpx1 id2 madd rasgrp2 zfp286 pfdn2 ccne1 sort1 kctd15 elp5 bcas2 plec 
+map4k5 flnb fth1 glud1 akr1b3 acot13 ikbip ckb echdc2 eif4ebp1 ptcd2 marcksl1 actb cep83 tceb2 2410006h16rik pkp2 blvrb ube2l6 pcolce hmces d11wsu47e mfge8 rpl39l pdia6 creld2 surf4 gng5 stmn2 trib3 
+hist1h4i hist1h3b exoc3l set tpd52 gabarapl2 h2afx nxn cks2 nme6 cd9 2810403a07rik arl6ip1 pim3 psap sssca1 stmn1 zfp296 pdlim7 actn1 glrx5 epha2 exosc2 psmd7 gm6083 pkig bloc1s1 supt4a apoe clic4 
+bex1 cenpn cox10 mdh2 nkain3 srm tsc22d1 qsox1 ulk1 gpx3 srgn xrcc1 rpl10l ung itpk1 mthfd2 srrd hspa12b parvb imp3 thoc3 hn1 1110008f13rik 2310036o22rik crip1 gtf3a aurka ass1 rnaseh2c tbc1d16 
+ube2s cdk2ap1 tmem230 pdgfa rrp7a tyw1 erf timm8b d230025d16rik scd2 med13l syce2 arf1 fcf1 etv4 eid2 polr2h rad51 dppa4 sertad1 lincenc1 cox7a2l sf3b5 tra2b tinagl1 tubb6 chchd3 fam195a abcd4 f830016b08rik 
+u2af1 rbfa fn1 cope dym calu crlf2 top2a cstb ppa1 arl6ip4 tuba4a bzw2 churc1 bud31 aifm1 ndufa13 dstn ocel1 galk1 hmox1 ubald2 romo1 emc10 ptov1 snf8 calm2 mrpl14 pih1d1 dhx16 
+siva1 pop5 tex19.1 ube3b col18a1 lias fscn1 ltb psma2 pmm1 arpc1b mrpl34 grn cct5 cfdp1 ltbp4 tubb2b lima1 b3gnt7 tubb3 fkbp3 txnrd1 trmt1 fkbp1a uchl1 psmd11 mif4gd pfdn6 1700007k13rik rabac1 
+snrpa1 dtd1 ddx56 srpk1 krtcap2 gorasp2 malsu1 wbp5 mark3 tsta3 tpx2 sec11c h2afz nfyb atg101 wars atp6v0d1 coq7 ctsh 2810428i15rik fam96b hbegf samm50 zc3hc1 tpi1 elof1 1500012f01rik cenpa pecr degs1 
+ndrg4 lonp1 ppa2 apitd1 dcun1d5 ndufa4 stx5a rheb ddt trappc3 cbx3 slirp mrpl12 tcf15 qdpr midn mars dap 2200002d01rik zdhhc7 hap1 cdv3 polr2e ctnnal1 nlrp1a snx6 xpnpep1 gm10845 trim25 gpx2 
+esd sgk1 mrpl13 stmn3 mrpl53 rwdd1 fkbp4 txnl1 asb6 chchd4 sqstm1 guca1a glipr2 prpsap1 rbmxl1 eif3c tspan4 dmkn rian copb2 ahsa1 ndufb6 atp6v0e ccdc22 rbm42 cyc1 lmna clic1 slc30a2 psmd6 
+scamp3 calm1 qars mrpl43 adamts13 ppie mea1 prpf3 atf4 spata33 atp5j2 lrrc59 fam129b nhp2 aprt gna11 spns1 ntan1 actl6a ywhaq chmp4b fto sdhc plin2 eif3g mcm7 crip2 slc6a8 saal1 mrpl23 
+cdkn1a emg1 ccdc124 bri3 csrp1 glul socs2 ftl1 cdkn2aip hs1bp3 fdft1 exosc8 guk1 deb1 ndufb10 rnf7 ndufb11 dynll1 gstm1 smn1 
+
+Graph Edges: 
+1. a630089n07rik --> f830016b08rik
+2. a630089n07rik --> nkain3
+3. actb --> 2200002d01rik
+4. actb --> actg1
+5. actb --> bex1
+6. actb --> calm1
+7. actb --> epha2
+8. actb --> flnb
+9. actb --> glud1
+10. actb --> lmna
+11. actb --> tmsb4x
+12. actg1 --> ftl1
+13. actg1 --> hist1h2ao
+14. actg1 --> morf4l2
+15. bex1 --> ngfrap1
+16. bex1 --> s100a6
+17. calr --> hsp90b1
+18. calr --> hspa5
+19. calr --> p4hb
+20. ccdc36 --> ahcyl2
+21. ccdc36 --> bc1
+22. ccdc36 --> lima1
+23. ccdc36 --> zc3hc1
+24. ccnd3 --> laptm5
+25. ccnd3 --> pmvk
+26. dppa5a --> ass1
+27. dppa5a --> gm6083
+28. dppa5a --> phc1
+29. dppa5a --> pou5f1
+30. dppa5a --> slirp
+31. dppa5a --> stmn2
+32. dppa5a --> tceb2
+33. eif2s2 --> ckb
+34. eif2s2 --> fabp5
+35. eif2s2 --> fam25c
+36. eif2s2 --> ly6a
+37. eif2s2 --> rnf7
+38. elp5 --> saal1
+39. fam229b --> madd
+40. fam229b --> srgn
+41. fth1 --> calr
+42. fth1 --> chmp4b
+43. fth1 --> ctsd
+44. fth1 --> dnmt3l
+45. fth1 --> map4k5
+46. fth1 --> sparc
+47. ftl1 --> 1110008f13rik
+48. ftl1 --> 2310036o22rik
+49. ftl1 --> actn1
+50. ftl1 --> aes
+51. ftl1 --> ahsa1
+52. ftl1 --> arf1
+53. ftl1 --> atf4
+54. ftl1 --> atp5j2
+55. ftl1 --> calm2
+56. ftl1 --> cd9
+57. ftl1 --> cdk2ap1
+58. ftl1 --> cdv3
+59. ftl1 --> chchd10
+60. ftl1 --> cox7a2l
+61. ftl1 --> cyc1
+62. ftl1 --> ddt
+63. ftl1 --> dppa5a
+64. ftl1 --> dstn
+65. ftl1 --> eif3c
+66. ftl1 --> eif3g
+67. ftl1 --> eif4ebp1
+68. ftl1 --> erdr1
+69. ftl1 --> esd
+70. ftl1 --> fabp3
+71. ftl1 --> fem1b
+72. ftl1 --> fkbp1a
+73. ftl1 --> fkbp4
+74. ftl1 --> fth1
+75. ftl1 --> gng5
+76. ftl1 --> h2afz
+77. ftl1 --> hmox1
+78. ftl1 --> hspb1
+79. ftl1 --> krtcap2
+80. ftl1 --> lamc1
+81. ftl1 --> lrrc59
+82. ftl1 --> ltbp4
+83. ftl1 --> mrpl12
+84. ftl1 --> mt2
+85. ftl1 --> nacc1
+86. ftl1 --> pdlim7
+87. ftl1 --> pgk1
+88. ftl1 --> ppa1
+89. ftl1 --> psmd6
+90. ftl1 --> rpap1
+91. ftl1 --> samm50
+92. ftl1 --> siva1
+93. ftl1 --> slc3a2
+94. ftl1 --> sqstm1
+95. ftl1 --> surf4
+96. ftl1 --> tex19.1
+97. ftl1 --> tpi1
+98. ftl1 --> trim28
+99. ftl1 --> tsc22d1
+100. ftl1 --> tuba1a
+101. ftl1 --> tuba4a
+102. ftl1 --> tubb2b
+103. ftl1 --> txnrd1
+104. ftl1 --> uchl1
+105. ftl1 --> wars
+106. gm10845 --> adamts13
+107. gm7102 o-o dcdc2c
+108. gpx1 --> dnmt3b
+109. h2afz --> actl6a
+110. h2afz --> mdh2
+111. h2afz o-o trim28
+112. hist1h2ao --> dtd1
+113. hist1h2ao --> hist1h2ah
+114. hsp90aa1 --> actb
+115. hsp90aa1 --> ctnnal1
+116. hsp90aa1 --> dppa3
+117. hsp90aa1 --> fkbp3
+118. hsp90aa1 --> ftl1
+119. hsp90aa1 --> gpx4
+120. hsp90aa1 --> mylpf
+121. hsp90aa1 --> slc2a1
+122. hsp90b1 --> manf
+123. hspa12b --> col4a2
+124. hspa12b --> tbc1d16
+125. hspa5 --> pdia6
+126. hspb1 --> midn
+127. hspb1 --> tcea3
+128. madd --> fto
+129. madd --> hspa12b
+130. madd --> zic3
+131. map4k5 --> a630089n07rik
+132. map4k5 --> fam229b
+133. map4k5 --> hspa12b
+134. map4k5 --> tmem230
+135. meg3 o-> hsp90aa1
+136. meg3 o-o rian
+137. mkrn1 --> med13l
+138. mrpl43 --> atg101
+139. mrpl43 --> ddx56
+140. mrpl43 --> guk1
+141. mrpl43 --> kpna2
+142. mt2 --> mt1
+143. mt2 --> set
+144. mt2 --> top2a
+145. ngfrap1 --> wbp5
+146. nkain3 --> gm10845
+147. nkain3 --> malat1
+148. nlrp1a --> b3gnt7
+149. nlrp1a --> ctbp2
+150. nlrp1a --> hmces
+151. nlrp1a --> mkrn1
+152. nlrp1a --> pmm1
+153. nlrp1a --> prpsap1
+154. nlrp1a --> slc29a1
+155. nlrp1a --> trim25
+156. nlrp1a o-o tyw1
+157. nlrp1a --> ywhaq
+158. pbld1 --> bcas2
+159. pbld1 --> ccdc36
+160. pbld1 --> ccne1
+161. pbld1 --> churc1
+162. pbld1 --> etv4
+163. pbld1 --> ikbip
+164. pbld1 --> mrpl43
+165. pbld1 --> pim3
+166. pbld1 o-o tor4a
+167. pgk1 --> ldha
+168. pou5f1 --> akr1b3
+169. pou5f1 --> ccdc124
+170. pou5f1 --> ccnd3
+171. pou5f1 --> eed
+172. pou5f1 --> klf5
+173. pou5f1 --> ndufb10
+174. pou5f1 --> sdhc
+175. pou5f1 --> set
+176. pou5f1 --> supt4a
+177. pou5f1 --> thoc3
+178. s100a6 --> peg10
+179. s100a6 --> plec
+180. s100a6 --> s100a10
+181. s100a6 --> sfn
+182. sdhc --> zfp286
+183. set --> bc018473
+184. set --> polr2h
+185. set --> tuba1a
+186. set --> ung
+187. slc25a4 o-> hsp90aa1
+188. slc29a1 --> tcf15
+189. slc2a3 --> cd63
+190. tbc1d16 --> kctd15
+191. tmem230 o-o fam229b
+192. tor4a --> abcd4
+193. tor4a --> bcas2
+194. tor4a --> churc1
+195. tor4a --> exosc2
+196. tor4a --> fn1
+197. tor4a --> hn1
+198. tor4a --> itpk1
+199. tor4a --> mrpl43
+200. trim28 --> 1500012f01rik
+201. trim28 --> arl6ip1
+202. trim28 --> asns
+203. trim28 --> cbx3
+204. trim28 --> cct5
+205. trim28 --> cdc5l
+206. trim28 --> cfdp1
+207. trim28 --> dhx16
+208. trim28 --> dynll1
+209. trim28 --> e130012a19rik
+210. trim28 --> eif2s2
+211. trim28 --> emg1
+212. trim28 --> erf
+213. trim28 --> esrrb
+214. trim28 --> etv5
+215. trim28 --> ezh2
+216. trim28 --> fgd1
+217. trim28 --> fscn1
+218. trim28 --> gabarapl2
+219. trim28 --> gpx1
+220. trim28 --> h2afx
+221. trim28 --> ifitm1
+222. trim28 --> jarid2
+223. trim28 --> klf2
+224. trim28 --> klf4
+225. trim28 --> lama1
+226. trim28 --> marcksl1
+227. trim28 --> mbd3
+228. trim28 --> mcm7
+229. trim28 --> mybl2
+230. trim28 --> nanog
+231. trim28 --> nhp2
+232. trim28 --> nlrp1a
+233. trim28 --> parp1
+234. trim28 --> pfdn2
+235. trim28 --> polr2e
+236. trim28 --> pou5f1
+237. trim28 --> psap
+238. trim28 --> psma2
+239. trim28 --> psmd7
+240. trim28 --> qars
+241. trim28 --> rbm42
+242. trim28 --> rbmxl1
+243. trim28 --> sall4
+244. trim28 --> slc25a5
+245. trim28 --> slc2a3
+246. trim28 --> smn1
+247. trim28 --> sox2
+248. trim28 --> srm
+249. trim28 --> stmn1
+250. trim28 --> tbx3
+251. trim28 --> tcf3
+252. trim28 --> tdgf1
+253. trim28 --> tdh
+254. trim28 --> trim71
+255. trim28 --> trp53
+256. trim28 --> txnl1
+257. trim28 --> tyw1
+258. trim28 --> ubald2
+259. trim28 --> ube2s
+260. trim28 --> ulk1
+261. trim28 --> utf1
+262. trim28 --> wtap
+263. trim28 --> xpnpep1
+264. trim28 --> zfp42
+265. tuba1a --> snrpa1
+266. tyw1 --> glul
+267. tyw1 --> mrpl13
+268. tyw1 --> pbld1
+269. tyw1 --> pfdn6
+270. tyw1 --> srpk1
+271. tyw1 --> tor4a
+272. ube2s --> cenpa
+273. ywhaq --> aprt
+274. zfp286 --> cdkn2aip
+275. zfp286 --> elp5
+276. zfp286 --> gm20594
+
+

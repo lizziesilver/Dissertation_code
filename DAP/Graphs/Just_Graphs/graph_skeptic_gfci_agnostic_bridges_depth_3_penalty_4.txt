@@ -1,0 +1,2521 @@
+
+Graph Nodes:
+id1 dppa5a dnmt3l klf5 id3 aes mycn nanog tcl1 klf2 utf1 dnmt3b esrrb phc1 mybl2 rpap1 tcea3 myod1 klf4 cdc5l sox2 trim28 sall4 zfp42 sap30 ezh2 mbd3 parp1 ugp2 stra13 
+etv5 pdlim1 eed klf9 gbx2 trp53 fbxo15 nacc1 dppa3 jarid2 mkrn1 tcf3 gadd45a gtf2i msc pou5f1 dppa2 tbx3 ctbp2 smad4 tuba1a fem1b otx2 zic3 nr0b1 rhox6 sprr2b krt8 sparc bc1 
+clu krt18 h19 ccdc36 serpinh1 hist1h2ao col4a1 fam25c lamb1 gm7102 s100a6 sfn malat1 lama1 mt1 hspa5 fabp3 tagln2 hist1h2ah acaa1b ly6a sohlh2 fgd1 lrpap1 gm6878 cd63 bscl2 mt2 gm20594 papd5 
+slc29a1 med10 actg1 dcdc2c lgals1 anxa2 rhox5 mylpf hsp90b1 meg3 2700046a07rik slc25a4 ctgf tmsb4x gsn bhmt ccnd3 sept12 manf trim71 tagln col4a2 hsp90aa1 ahcyl2 best2 asns calcoco2 ctsl fam229b chchd10 
+sbk1 e130012a19rik laptm5 krt19 wtap dusp9 gpx4 tdh p4hb tspan17 s100a10 slc2a3 ldha peg10 rhox13 igfbp2 tdgf1 vim tor4a lamc1 ldhb lgmn upp1 a630089n07rik ngfrap1 dusp1 slc2a1 bc018473 pmvk calr 
+pbld1 fabp5 slc25a5 eif2s2 asb13 kif15 slc3a2 gm7325 atf5 hspb1 ifitm1 erdr1 pgk1 htra1 kpna2 morf4l2 ctsd cdc20 gpx1 id2 madd rasgrp2 zfp286 pfdn2 ccne1 sort1 kctd15 elp5 bcas2 plec 
+map4k5 flnb fth1 glud1 akr1b3 acot13 ikbip ckb echdc2 eif4ebp1 ptcd2 marcksl1 actb cep83 tceb2 2410006h16rik pkp2 blvrb ube2l6 pcolce hmces d11wsu47e mfge8 rpl39l pdia6 creld2 surf4 gng5 stmn2 trib3 
+hist1h4i hist1h3b exoc3l set tpd52 gabarapl2 h2afx nxn cks2 nme6 cd9 2810403a07rik arl6ip1 pim3 psap sssca1 stmn1 zfp296 pdlim7 actn1 glrx5 epha2 exosc2 psmd7 gm6083 pkig bloc1s1 supt4a apoe clic4 
+bex1 cenpn cox10 mdh2 nkain3 srm tsc22d1 qsox1 ulk1 gpx3 srgn xrcc1 rpl10l ung itpk1 mthfd2 srrd hspa12b parvb imp3 thoc3 hn1 1110008f13rik 2310036o22rik crip1 gtf3a aurka ass1 rnaseh2c tbc1d16 
+ube2s cdk2ap1 tmem230 pdgfa rrp7a tyw1 erf timm8b d230025d16rik scd2 med13l syce2 arf1 fcf1 etv4 eid2 polr2h rad51 dppa4 sertad1 lincenc1 cox7a2l sf3b5 tra2b tinagl1 tubb6 chchd3 fam195a abcd4 f830016b08rik 
+u2af1 rbfa fn1 cope dym calu crlf2 top2a cstb ppa1 arl6ip4 tuba4a bzw2 churc1 bud31 aifm1 ndufa13 dstn ocel1 galk1 hmox1 ubald2 romo1 emc10 ptov1 snf8 calm2 mrpl14 pih1d1 dhx16 
+siva1 pop5 tex19.1 ube3b col18a1 lias fscn1 ltb psma2 pmm1 arpc1b mrpl34 grn cct5 cfdp1 ltbp4 tubb2b lima1 b3gnt7 tubb3 fkbp3 txnrd1 trmt1 fkbp1a uchl1 psmd11 mif4gd pfdn6 1700007k13rik rabac1 
+snrpa1 dtd1 ddx56 srpk1 krtcap2 gorasp2 malsu1 wbp5 mark3 tsta3 tpx2 sec11c h2afz nfyb atg101 wars atp6v0d1 coq7 ctsh 2810428i15rik fam96b hbegf samm50 zc3hc1 tpi1 elof1 1500012f01rik cenpa pecr degs1 
+ndrg4 lonp1 ppa2 apitd1 dcun1d5 ndufa4 stx5a rheb ddt trappc3 cbx3 slirp mrpl12 tcf15 qdpr midn mars dap 2200002d01rik zdhhc7 hap1 cdv3 polr2e ctnnal1 nlrp1a snx6 xpnpep1 gm10845 trim25 gpx2 
+esd sgk1 mrpl13 stmn3 mrpl53 rwdd1 fkbp4 txnl1 asb6 chchd4 sqstm1 guca1a glipr2 prpsap1 rbmxl1 eif3c tspan4 dmkn rian copb2 ahsa1 ndufb6 atp6v0e ccdc22 rbm42 cyc1 lmna clic1 slc30a2 psmd6 
+scamp3 calm1 qars mrpl43 adamts13 ppie mea1 prpf3 atf4 spata33 atp5j2 lrrc59 fam129b nhp2 aprt gna11 spns1 ntan1 actl6a ywhaq chmp4b fto sdhc plin2 eif3g mcm7 crip2 slc6a8 saal1 mrpl23 
+cdkn1a emg1 ccdc124 bri3 csrp1 glul socs2 ftl1 cdkn2aip hs1bp3 fdft1 exosc8 guk1 deb1 ndufb10 rnf7 ndufb11 dynll1 gstm1 smn1 
+
+Graph Edges: 
+1. a630089n07rik --> atp6v0e
+2. a630089n07rik --> f830016b08rik
+3. a630089n07rik --> fam229b
+4. a630089n07rik --> kctd15
+5. a630089n07rik --> nkain3
+6. a630089n07rik --> pkp2
+7. a630089n07rik --> prpf3
+8. a630089n07rik --> sdhc
+9. a630089n07rik --> slc3a2
+10. abcd4 --> ccdc36
+11. actb --> 2200002d01rik
+12. actb --> actg1
+13. actb --> anxa2
+14. actb --> aprt
+15. actb --> bex1
+16. actb --> calm1
+17. actb --> cdv3
+18. actb --> crlf2
+19. actb --> ctbp2
+20. actb --> dnmt3b
+21. actb --> dstn
+22. actb --> epha2
+23. actb --> etv4
+24. actb --> flnb
+25. actb --> glud1
+26. actb --> hspb1
+27. actb --> htra1
+28. actb --> jarid2
+29. actb --> klf5
+30. actb --> lmna
+31. actb --> ltb
+32. actb --> malat1
+33. actb --> nkain3
+34. actb --> peg10
+35. actb --> pgk1
+36. actb --> plin2
+37. actb --> pou5f1
+38. actb --> rrp7a
+39. actb --> set
+40. actb --> tmsb4x
+41. actb --> ube2l6
+42. actb --> wbp5
+43. actg1 --> actn1
+44. actg1 --> bud31
+45. actg1 --> cd9
+46. actg1 --> ckb
+47. actg1 --> crip2
+48. actg1 --> ctgf
+49. actg1 --> dynll1
+50. actg1 --> hist1h2ao
+51. actg1 --> krt18
+52. actg1 --> marcksl1
+53. actg1 --> morf4l2
+54. actg1 --> mt2
+55. actg1 --> p4hb
+56. actg1 --> pdia6
+57. actg1 --> slc2a1
+58. actg1 --> sssca1
+59. actg1 --> tinagl1
+60. actg1 --> tuba1a
+61. actg1 --> tubb6
+62. actg1 --> ywhaq
+63. aes --> chchd10
+64. akr1b3 --> mrpl12
+65. akr1b3 --> tuba4a
+66. aprt --> arpc1b
+67. aprt --> ldha
+68. aprt --> srm
+69. arf1 --> atf4
+70. arf1 --> gorasp2
+71. arl6ip1 --> aurka
+72. asns --> calcoco2
+73. asns --> fam25c
+74. asns --> gabarapl2
+75. asns --> igfbp2
+76. asns --> ldhb
+77. asns --> pmvk
+78. asns --> rhox13
+79. asns --> rpap1
+80. asns --> slc2a3
+81. atf5 --> erf
+82. bc1 --- ahcyl2
+83. bc1 --> lima1
+84. bcas2 --> ddx56
+85. bcas2 --> exosc2
+86. bcas2 --> ung
+87. bex1 --> ngfrap1
+88. bex1 --> pop5
+89. bex1 --> s100a6
+90. bex1 --> vim
+91. calm2 --> cdc20
+92. calr --> arf1
+93. calr --> atp6v0d1
+94. calr --> hsp90b1
+95. calr --> hspa5
+96. calr --> p4hb
+97. calr --> surf4
+98. calr --> txnl1
+99. ccdc124 --> kpna2
+100. ccdc36 --> ahcyl2
+101. ccdc36 --> bc1
+102. ccdc36 --> lima1
+103. ccdc36 --> nkain3
+104. ccdc36 --> zc3hc1
+105. ccnd3 --> e130012a19rik
+106. ccnd3 --> etv4
+107. ccnd3 --> gpx4
+108. ccnd3 --> klf5
+109. ccnd3 --> laptm5
+110. ccnd3 --> midn
+111. ccnd3 --> mybl2
+112. ccnd3 --> pmvk
+113. ccnd3 --> tcea3
+114. ccnd3 --> tdh
+115. cct5 --> mrpl23
+116. cd63 --> tpd52
+117. cd63 --> ubald2
+118. cd9 --> asns
+119. cd9 --> flnb
+120. cd9 --> glrx5
+121. cd9 --> krt8
+122. cd9 --> lamc1
+123. cdc5l --> deb1
+124. cdc5l --> tex19.1
+125. cdkn2aip --> saal1
+126. cdv3 --> b3gnt7
+127. cenpa --> aurka
+128. cenpa --> cdc20
+129. chchd10 --> h2afx
+130. chchd10 --> tdh
+131. churc1 --> bcas2
+132. churc1 --> cdc20
+133. churc1 --> clic1
+134. churc1 --> echdc2
+135. churc1 --> ezh2
+136. churc1 --> fdft1
+137. churc1 --> nhp2
+138. churc1 --> tagln
+139. col4a2 --> ube2l6
+140. cox7a2l --> ntan1
+141. ctbp2 --> tsc22d1
+142. ctnnal1 --> snx6
+143. ctnnal1 --> trim28
+144. ctnnal1 --> ube2s
+145. ctsd --> gpx3
+146. ctsd --> p4hb
+147. ctsd --> slc2a3
+148. ddt --> scd2
+149. ddx56 --> ndufa13
+150. dnmt3b --> exosc8
+151. dnmt3b --> h19
+152. dnmt3l --> rbmxl1
+153. dppa5a --> ass1
+154. dppa5a --> gm6083
+155. dppa5a --> mark3
+156. dppa5a --> mdh2
+157. dppa5a --> ndufa4
+158. dppa5a --> phc1
+159. dppa5a --> pim3
+160. dppa5a --> pou5f1
+161. dppa5a --> slirp
+162. dppa5a --> stmn2
+163. dppa5a --> tceb2
+164. dppa5a --> tex19.1
+165. dynll1 --> 1110008f13rik
+166. dynll1 --> emg1
+167. dynll1 --> tpi1
+168. e130012a19rik --> hmces
+169. e130012a19rik --> ubald2
+170. eed --> guca1a
+171. eif2s2 --> bex1
+172. eif2s2 --> calcoco2
+173. eif2s2 --> ckb
+174. eif2s2 --> csrp1
+175. eif2s2 --> d230025d16rik
+176. eif2s2 --> dnmt3b
+177. eif2s2 --> echdc2
+178. eif2s2 --> eid2
+179. eif2s2 --> eif4ebp1
+180. eif2s2 --> fabp5
+181. eif2s2 --> fam25c
+182. eif2s2 --> fgd1
+183. eif2s2 --> gadd45a
+184. eif2s2 --> klf4
+185. eif2s2 --> ldhb
+186. eif2s2 --> lrrc59
+187. eif2s2 --> ly6a
+188. eif2s2 --> mybl2
+189. eif2s2 --> psmd7
+190. eif2s2 --> rnf7
+191. eif2s2 --> sox2
+192. eif2s2 --> u2af1
+193. eif2s2 --> zfp296
+194. eif2s2 --> zfp42
+195. eif4ebp1 --> crip2
+196. eif4ebp1 --> mfge8
+197. elp5 --> cdkn2aip
+198. elp5 --> gm20594
+199. elp5 --> saal1
+200. elp5 --> zfp286
+201. erdr1 --> ndufb6
+202. erdr1 --> qars
+203. erdr1 --> tspan17
+204. erf --> dynll1
+205. esrrb --> gna11
+206. esrrb --> parvb
+207. etv4 --> itpk1
+208. etv4 --> utf1
+209. fabp5 --> cdc5l
+210. fam229b --> madd
+211. fam229b --> srgn
+212. fam229b --> tmem230
+213. fam25c --> sfn
+214. fem1b --> chchd4
+215. fem1b --> krt8
+216. fkbp1a --> 2810428i15rik
+217. fkbp4 --> akr1b3
+218. fkbp4 --> d11wsu47e
+219. fkbp4 --> hn1
+220. fkbp4 --> mrpl34
+221. fn1 --> igfbp2
+222. fn1 --> map4k5
+223. fscn1 --> ndufa4
+224. fth1 --> bri3
+225. fth1 --> bscl2
+226. fth1 --> calr
+227. fth1 --> cdc5l
+228. fth1 --> chmp4b
+229. fth1 --> ctsd
+230. fth1 --> dnmt3l
+231. fth1 --> gpx2
+232. fth1 --> htra1
+233. fth1 --> klf9
+234. fth1 --> lima1
+235. fth1 --> map4k5
+236. fth1 --> mfge8
+237. fth1 --> mrpl13
+238. fth1 --> ngfrap1
+239. fth1 --> ppa2
+240. fth1 --> rhox5
+241. fth1 --> scamp3
+242. fth1 --> snrpa1
+243. fth1 --> sparc
+244. fth1 --> trib3
+245. fth1 --> xpnpep1
+246. ftl1 --> 1110008f13rik
+247. ftl1 --> 2310036o22rik
+248. ftl1 --> 2410006h16rik
+249. ftl1 --> 2810403a07rik
+250. ftl1 --> actb
+251. ftl1 --> actg1
+252. ftl1 --> actn1
+253. ftl1 --> aes
+254. ftl1 --> ahsa1
+255. ftl1 --> arf1
+256. ftl1 --> arl6ip4
+257. ftl1 --> atf4
+258. ftl1 --> atf5
+259. ftl1 --> atp5j2
+260. ftl1 --> bex1
+261. ftl1 --> blvrb
+262. ftl1 --> bzw2
+263. ftl1 --> calm2
+264. ftl1 --> calu
+265. ftl1 --> cd9
+266. ftl1 --> cdk2ap1
+267. ftl1 --> cdkn1a
+268. ftl1 --> cep83
+269. ftl1 --> chchd10
+270. ftl1 --> clic4
+271. ftl1 --> clu
+272. ftl1 --> coq7
+273. ftl1 --> cox7a2l
+274. ftl1 --> creld2
+275. ftl1 --> cstb
+276. ftl1 --> ctsl
+277. ftl1 --> cyc1
+278. ftl1 --> dap
+279. ftl1 --> ddt
+280. ftl1 --> degs1
+281. ftl1 --> dppa5a
+282. ftl1 --> dstn
+283. ftl1 --> eif3c
+284. ftl1 --> eif3g
+285. ftl1 --> eif4ebp1
+286. ftl1 --> emc10
+287. ftl1 --> erdr1
+288. ftl1 --> esd
+289. ftl1 --> fabp3
+290. ftl1 --> fem1b
+291. ftl1 --> fkbp1a
+292. ftl1 --> fkbp4
+293. ftl1 --> fscn1
+294. ftl1 --> fth1
+295. ftl1 --> gng5
+296. ftl1 --> gpx4
+297. ftl1 --> grn
+298. ftl1 --> gtf2i
+299. ftl1 --> h2afz
+300. ftl1 --> hbegf
+301. ftl1 --> hmox1
+302. ftl1 --> hsp90b1
+303. ftl1 --> hspa5
+304. ftl1 --> hspb1
+305. ftl1 --> krtcap2
+306. ftl1 --> lamb1
+307. ftl1 --> lamc1
+308. ftl1 --> lgmn
+309. ftl1 --> lrrc59
+310. ftl1 --> ltbp4
+311. ftl1 --> malsu1
+312. ftl1 --> mea1
+313. ftl1 --> mrpl12
+314. ftl1 --> mrpl43
+315. ftl1 --> mrpl53
+316. ftl1 --> msc
+317. ftl1 --> mt2
+318. ftl1 --> mthfd2
+319. ftl1 --> myod1
+320. ftl1 --> nacc1
+321. ftl1 --> ndufa13
+322. ftl1 --> ndufb11
+323. ftl1 --> nfyb
+324. ftl1 --> nme6
+325. ftl1 --> nr0b1
+326. ftl1 --> nxn
+327. ftl1 --> pcolce
+328. ftl1 --> pdlim1
+329. ftl1 --> pdlim7
+330. ftl1 --> pgk1
+331. ftl1 --> pih1d1
+332. ftl1 --> ppa1
+333. ftl1 --> prpsap1
+334. ftl1 --> psap
+335. ftl1 --> psmd6
+336. ftl1 --> qsox1
+337. ftl1 --> rabac1
+338. ftl1 --> rbfa
+339. ftl1 --> rheb
+340. ftl1 --> romo1
+341. ftl1 --> rpap1
+342. ftl1 --> sall4
+343. ftl1 --> samm50
+344. ftl1 --> sbk1
+345. ftl1 --> sec11c
+346. ftl1 --> serpinh1
+347. ftl1 --> siva1
+348. ftl1 --> slc3a2
+349. ftl1 --> slc6a8
+350. ftl1 --> snx6
+351. ftl1 --> sqstm1
+352. ftl1 --> srpk1
+353. ftl1 --> stx5a
+354. ftl1 --> surf4
+355. ftl1 --> tagln2
+356. ftl1 --> tbx3
+357. ftl1 --> tceb2
+358. ftl1 --> tex19.1
+359. ftl1 --> tpi1
+360. ftl1 --> tpx2
+361. ftl1 --> tra2b
+362. ftl1 --> trappc3
+363. ftl1 --> trim25
+364. ftl1 --> trim28
+365. ftl1 --> tsc22d1
+366. ftl1 --> tuba1a
+367. ftl1 --> tuba4a
+368. ftl1 --> tubb2b
+369. ftl1 --> txnrd1
+370. ftl1 --> ube2s
+371. ftl1 --> ube3b
+372. ftl1 --> uchl1
+373. ftl1 --> upp1
+374. ftl1 --> wars
+375. gabarapl2 --> aes
+376. glud1 --> gm7102
+377. glud1 --> kif15
+378. glud1 --> plec
+379. glul --> zic3
+380. gm10845 --> adamts13
+381. gm10845 --> calm2
+382. gm10845 --> calr
+383. gm10845 --> slc30a2
+384. gm20594 --> ldha
+385. gm6083 --> ddt
+386. gm6083 --> dynll1
+387. gm7102 --> dcdc2c
+388. gm7325 --> rnaseh2c
+389. gpx1 --> actl6a
+390. gpx1 --> atg101
+391. gpx1 --> ctsd
+392. gpx1 --> dnmt3b
+393. gpx1 --> lrpap1
+394. gpx1 --> marcksl1
+395. gpx1 --> mark3
+396. gpx1 --> mt2
+397. gpx1 --> ngfrap1
+398. gpx1 --> otx2
+399. gpx1 --> ulk1
+400. gpx4 --> crip1
+401. gpx4 --> id3
+402. gpx4 --> rasgrp2
+403. gpx4 --> wars
+404. guk1 --> fem1b
+405. h19 --> mrpl23
+406. h2afz --> acaa1b
+407. h2afz --> actl6a
+408. h2afz --> calm1
+409. h2afz --> dtd1
+410. h2afz --> exosc8
+411. h2afz --> mdh2
+412. h2afz --> ndrg4
+413. h2afz --> ocel1
+414. h2afz --> rad51
+415. h2afz --> tuba1a
+416. hist1h2ao --> dtd1
+417. hist1h2ao --> hist1h2ah
+418. hist1h2ao --> trim28
+419. hmces --> slc29a1
+420. hn1 --> gm20594
+421. hsp90aa1 --> acot13
+422. hsp90aa1 --> actb
+423. hsp90aa1 --> ahsa1
+424. hsp90aa1 --> aifm1
+425. hsp90aa1 --> apoe
+426. hsp90aa1 --> arpc1b
+427. hsp90aa1 --> cct5
+428. hsp90aa1 --> copb2
+429. hsp90aa1 --> ctnnal1
+430. hsp90aa1 --> dcun1d5
+431. hsp90aa1 --> dmkn
+432. hsp90aa1 --> dppa3
+433. hsp90aa1 --> dppa5a
+434. hsp90aa1 --> dusp9
+435. hsp90aa1 --> eif2s2
+436. hsp90aa1 --> eif4ebp1
+437. hsp90aa1 --> fkbp3
+438. hsp90aa1 --> ftl1
+439. hsp90aa1 --> gm10845
+440. hsp90aa1 --> gpx1
+441. hsp90aa1 --> gpx4
+442. hsp90aa1 --> hmces
+443. hsp90aa1 --> id2
+444. hsp90aa1 --> lgals1
+445. hsp90aa1 --> madd
+446. hsp90aa1 --> mars
+447. hsp90aa1 --> mylpf
+448. hsp90aa1 --> nlrp1a
+449. hsp90aa1 --> parvb
+450. hsp90aa1 --> pmm1
+451. hsp90aa1 --> psma2
+452. hsp90aa1 --> s100a6
+453. hsp90aa1 --> sfn
+454. hsp90aa1 --> slc25a5
+455. hsp90aa1 --> slc2a1
+456. hsp90aa1 --> slc2a3
+457. hsp90aa1 --> snf8
+458. hsp90aa1 --> socs2
+459. hsp90aa1 --> sort1
+460. hsp90b1 --> chmp4b
+461. hsp90b1 --> manf
+462. hsp90b1 --> pdia6
+463. hspa12b --> cep83
+464. hspa12b --> col4a2
+465. hspa12b --> kctd15
+466. hspa12b --> tbc1d16
+467. hspa12b --> ywhaq
+468. hspa5 --> cope
+469. hspa5 --> manf
+470. hspa5 --> pdia6
+471. hspb1 --> bc018473
+472. hspb1 --> dppa5a
+473. hspb1 --> fdft1
+474. hspb1 --> id1
+475. hspb1 --> lama1
+476. hspb1 --> midn
+477. hspb1 --> pfdn6
+478. hspb1 --> tcea3
+479. hspb1 --> tcf15
+480. hspb1 --> tyw1
+481. id1 --> mkrn1
+482. jarid2 --> sf3b5
+483. jarid2 --> smad4
+484. jarid2 --> tcf3
+485. kctd15 --> tbc1d16
+486. kif15 --> best2
+487. kpna2 --> h2afx
+488. laptm5 --> ass1
+489. ldha --> guk1
+490. lrrc59 --> fam129b
+491. madd --> 1500012f01rik
+492. madd --> fto
+493. madd --> hspa12b
+494. madd --> kctd15
+495. madd --> tbc1d16
+496. madd --> zic3
+497. malat1 --> 2200002d01rik
+498. malat1 --> aurka
+499. malat1 --> bc018473
+500. malat1 --> mt2
+501. malat1 --> top2a
+502. manf --> calu
+503. manf --> gtf2i
+504. manf --> smad4
+505. map4k5 --> a630089n07rik
+506. map4k5 --> erdr1
+507. map4k5 --> fam229b
+508. map4k5 --> fto
+509. map4k5 --> hspa12b
+510. map4k5 --> madd
+511. map4k5 --> mif4gd
+512. map4k5 --> tmem230
+513. map4k5 --> ugp2
+514. marcksl1 --> aprt
+515. marcksl1 --> ccnd3
+516. marcksl1 --> wbp5
+517. mcm7 --> bhmt
+518. mcm7 --> eif3g
+519. mdh2 --> rabac1
+520. meg3 --> apoe
+521. meg3 --> ftl1
+522. meg3 --> hsp90aa1
+523. mkrn1 --> cfdp1
+524. mkrn1 --> chchd3
+525. mkrn1 --> cks2
+526. mkrn1 --> cox7a2l
+527. mkrn1 --> d11wsu47e
+528. mkrn1 --> etv5
+529. mkrn1 --> med13l
+530. mkrn1 --> ppie
+531. mkrn1 --> siva1
+532. mkrn1 --> slc29a1
+533. mkrn1 --> socs2
+534. mkrn1 --> trmt1
+535. mkrn1 --> tsc22d1
+536. mrpl43 --> a630089n07rik
+537. mrpl43 --> abcd4
+538. mrpl43 --> atg101
+539. mrpl43 --> col18a1
+540. mrpl43 --> col4a1
+541. mrpl43 --> ctbp2
+542. mrpl43 --> ddx56
+543. mrpl43 --> guk1
+544. mrpl43 --> kpna2
+545. mrpl43 --> laptm5
+546. mrpl43 --> lincenc1
+547. mrpl43 --> lonp1
+548. mrpl43 --> pop5
+549. mrpl43 --> scd2
+550. mrpl43 --> serpinh1
+551. mrpl43 --> spns1
+552. mrpl43 --> tcl1
+553. msc --> fabp5
+554. mt1 --> klf2
+555. mt2 --> bloc1s1
+556. mt2 --> mt1
+557. mt2 --> set
+558. mt2 --> sf3b5
+559. mt2 --> top2a
+560. mt2 --> tsta3
+561. mybl2 --> asns
+562. mybl2 --> mkrn1
+563. mybl2 --> tcl1
+564. mylpf --> tceb2
+565. ngfrap1 --> anxa2
+566. ngfrap1 --> dhx16
+567. ngfrap1 --> tmsb4x
+568. ngfrap1 --> wbp5
+569. nhp2 --> 2810428i15rik
+570. nhp2 --> cdk2ap1
+571. nhp2 --> erdr1
+572. nhp2 --> fkbp4
+573. nhp2 --> glud1
+574. nhp2 --> mbd3
+575. nhp2 --> mrpl12
+576. nhp2 --> ppa1
+577. nhp2 --> prpf3
+578. nhp2 --> rnaseh2c
+579. nhp2 --> rrp7a
+580. nhp2 --> supt4a
+581. nhp2 --> ung
+582. nhp2 --> utf1
+583. nkain3 --> f830016b08rik
+584. nkain3 --> glud1
+585. nkain3 --> gm10845
+586. nkain3 --> gm6878
+587. nkain3 --> lrpap1
+588. nkain3 --> madd
+589. nkain3 --> malat1
+590. nkain3 --> med13l
+591. nkain3 --> nacc1
+592. nkain3 --> papd5
+593. nkain3 --> trim71
+594. nkain3 --> wtap
+595. nlrp1a --> 2410006h16rik
+596. nlrp1a --> a630089n07rik
+597. nlrp1a --> adamts13
+598. nlrp1a --> b3gnt7
+599. nlrp1a --> ccdc124
+600. nlrp1a --> ccne1
+601. nlrp1a --> ctbp2
+602. nlrp1a --> hmces
+603. nlrp1a --> jarid2
+604. nlrp1a --> lias
+605. nlrp1a --> mkrn1
+606. nlrp1a --> mthfd2
+607. nlrp1a --> mycn
+608. nlrp1a --> parp1
+609. nlrp1a --> phc1
+610. nlrp1a --> pmm1
+611. nlrp1a --> prpsap1
+612. nlrp1a --> sept12
+613. nlrp1a --> slc29a1
+614. nlrp1a --> stmn1
+615. nlrp1a --> syce2
+616. nlrp1a --> trim25
+617. nlrp1a --> tspan4
+618. nlrp1a --> ywhaq
+619. pbld1 --> apitd1
+620. pbld1 --> bcas2
+621. pbld1 --> bud31
+622. pbld1 --> ccdc36
+623. pbld1 --> ccne1
+624. pbld1 --> churc1
+625. pbld1 --> ctsh
+626. pbld1 --> etv4
+627. pbld1 --> exoc3l
+628. pbld1 --> gbx2
+629. pbld1 --> gorasp2
+630. pbld1 --> h2afz
+631. pbld1 --> ikbip
+632. pbld1 --> mars
+633. pbld1 --> mrpl43
+634. pbld1 --> pim3
+635. pbld1 --> plec
+636. pbld1 --> sort1
+637. pbld1 --> tor4a
+638. pdia6 --> eif3g
+639. pdlim7 --> lgals1
+640. peg10 --> slc30a2
+641. pgk1 --> dusp1
+642. pgk1 --> ldha
+643. pgk1 --> mdh2
+644. pgk1 --> ppa1
+645. pgk1 --> s100a10
+646. pgk1 --> sparc
+647. pih1d1 --> fabp5
+648. plec --> ctsl
+649. plec --> peg10
+650. plec --> s100a10
+651. pmm1 --> rhox6
+652. pou5f1 --> 2700046a07rik
+653. pou5f1 --> akr1b3
+654. pou5f1 --> ccdc124
+655. pou5f1 --> ccdc22
+656. pou5f1 --> ccnd3
+657. pou5f1 --> cenpn
+658. pou5f1 --> eed
+659. pou5f1 --> fam129b
+660. pou5f1 --> mkrn1
+661. pou5f1 --> ndufb10
+662. pou5f1 --> nlrp1a
+663. pou5f1 --> pbld1
+664. pou5f1 --> polr2e
+665. pou5f1 --> ptcd2
+666. pou5f1 --> sap30
+667. pou5f1 --> sdhc
+668. pou5f1 --> set
+669. pou5f1 --> snf8
+670. pou5f1 --> supt4a
+671. pou5f1 --> tdgf1
+672. pou5f1 --> thoc3
+673. pou5f1 --> tyw1
+674. pou5f1 --> u2af1
+675. pou5f1 --> ugp2
+676. ppa1 --> 1110008f13rik
+677. ppa1 --> atp6v0e
+678. ppa1 --> cfdp1
+679. ppa1 --> sertad1
+680. psap --> col4a1
+681. psmd7 --> psmd6
+682. rian --- meg3
+683. rnf7 --> asns
+684. s100a10 --> chmp4b
+685. s100a10 --> ctsd
+686. s100a10 --> flnb
+687. s100a10 --> krt18
+688. s100a10 --> med13l
+689. s100a10 --> pdlim7
+690. s100a10 --> tagln2
+691. s100a6 --> cd63
+692. s100a6 --> clu
+693. s100a6 --> col18a1
+694. s100a6 --> cstb
+695. s100a6 --> dnmt3l
+696. s100a6 --> esd
+697. s100a6 --> fam25c
+698. s100a6 --> glud1
+699. s100a6 --> peg10
+700. s100a6 --> plec
+701. s100a6 --> s100a10
+702. s100a6 --> sfn
+703. sdhc --> elp5
+704. sdhc --> saal1
+705. sdhc --> zfp286
+706. set --> 2310036o22rik
+707. set --> asb13
+708. set --> bc018473
+709. set --> fkbp4
+710. set --> galk1
+711. set --> gna11
+712. set --> gng5
+713. set --> ikbip
+714. set --> kif15
+715. set --> polr2h
+716. set --> tuba1a
+717. set --> txnl1
+718. set --> ung
+719. sfn --> ccdc36
+720. sfn --> ccne1
+721. sfn --> id1
+722. sfn --> plec
+723. sfn --> slc29a1
+724. sfn --> sqstm1
+725. sfn --> srm
+726. sfn --> txnrd1
+727. slc25a4 --> hsp90aa1
+728. slc29a1 --> mylpf
+729. slc29a1 --> rasgrp2
+730. slc29a1 --> set
+731. slc29a1 --> slc3a2
+732. slc29a1 --> tcf15
+733. slc29a1 --> tdh
+734. slc2a3 --> adamts13
+735. slc2a3 --> arl6ip1
+736. slc2a3 --> calr
+737. slc2a3 --> cd63
+738. slc2a3 --> d230025d16rik
+739. slc2a3 --> fabp3
+740. slc2a3 --> glipr2
+741. slc2a3 --> mycn
+742. slc2a3 --> nanog
+743. slirp --> itpk1
+744. smn1 --> eed
+745. sox2 --> mrpl23
+746. sparc --> gpx1
+747. sparc --> morf4l2
+748. sparc --> ntan1
+749. sparc --> pdia6
+750. sparc --> rbm42
+751. sparc --> slc2a1
+752. sparc --> trp53
+753. sparc --> tyw1
+754. sqstm1 --> tubb6
+755. srm --> krtcap2
+756. srm --> smn1
+757. srpk1 --> dppa4
+758. srpk1 --> guk1
+759. stmn2 --> aes
+760. stmn2 --> ccnd3
+761. stmn2 --> epha2
+762. surf4 --> glipr2
+763. tagln2 --> slc29a1
+764. tbx3 --> eif2s2
+765. tceb2 --> cope
+766. tceb2 --> hs1bp3
+767. tceb2 --> manf
+768. tcl1 --> tra2b
+769. tdh --> 1700007k13rik
+770. tdh --> bcas2
+771. tdh --> erf
+772. tdh --> esrrb
+773. tdh --> gpx4
+774. tdh --> itpk1
+775. tdh --> ndufb11
+776. tdh --> psma2
+777. tex19.1 --> fcf1
+778. tex19.1 --> psmd7
+779. tex19.1 --> uchl1
+780. tmem230 --> ifitm1
+781. tmem230 --> srgn
+782. tmem230 --> txnrd1
+783. tmsb4x --> csrp1
+784. tmsb4x --> gsn
+785. tmsb4x --> hspb1
+786. tmsb4x --> s100a6
+787. tmsb4x --> sfn
+788. top2a --> kpna2
+789. tor4a --> abcd4
+790. tor4a --> bcas2
+791. tor4a --> chchd4
+792. tor4a --- churc1
+793. tor4a --> dcun1d5
+794. tor4a --> dym
+795. tor4a --> elp5
+796. tor4a --> exosc2
+797. tor4a --> fn1
+798. tor4a --> fto
+799. tor4a --> gtf3a
+800. tor4a --> hn1
+801. tor4a --> hspa12b
+802. tor4a --> mif4gd
+803. tor4a --> mrpl43
+804. tor4a --> ndufb6
+805. tor4a --> pecr
+806. tor4a --> thoc3
+807. tor4a --> tubb2b
+808. trim28 --> 1500012f01rik
+809. trim28 --> arf1
+810. trim28 --> asns
+811. trim28 --> ass1
+812. trim28 --> cbx3
+813. trim28 --> cct5
+814. trim28 --> cdc5l
+815. trim28 --> cdv3
+816. trim28 --> cfdp1
+817. trim28 --> col4a2
+818. trim28 --> cox10
+819. trim28 --> cyc1
+820. trim28 --> dhx16
+821. trim28 --> dppa2
+822. trim28 --> dppa4
+823. trim28 --> dynll1
+824. trim28 --> e130012a19rik
+825. trim28 --> eif2s2
+826. trim28 --> eif3c
+827. trim28 --> elof1
+828. trim28 --> emg1
+829. trim28 --> erf
+830. trim28 --> esrrb
+831. trim28 --> ezh2
+832. trim28 --> fam96b
+833. trim28 --> fbxo15
+834. trim28 --> fkbp3
+835. trim28 --> fn1
+836. trim28 --> fscn1
+837. trim28 --> fth1
+838. trim28 --> gabarapl2
+839. trim28 --> glul
+840. trim28 --> gm7325
+841. trim28 --> gpx1
+842. trim28 --> gstm1
+843. trim28 --> h2afx
+844. trim28 --> h2afz
+845. trim28 --> hspb1
+846. trim28 --> ifitm1
+847. trim28 --> klf2
+848. trim28 --> klf4
+849. trim28 --> lama1
+850. trim28 --> marcksl1
+851. trim28 --> mbd3
+852. trim28 --> mcm7
+853. trim28 --> mt2
+854. trim28 --> mybl2
+855. trim28 --> nanog
+856. trim28 --> nhp2
+857. trim28 --> nlrp1a
+858. trim28 --> parp1
+859. trim28 --> pdgfa
+860. trim28 --> pfdn2
+861. trim28 --> pgk1
+862. trim28 --> pkig
+863. trim28 --> polr2e
+864. trim28 --> pou5f1
+865. trim28 --> psap
+866. trim28 --> psma2
+867. trim28 --> psmd11
+868. trim28 --> psmd7
+869. trim28 --> ptov1
+870. trim28 --> qars
+871. trim28 --> qdpr
+872. trim28 --> rbm42
+873. trim28 --> rbmxl1
+874. trim28 --> rnf7
+875. trim28 --> rpl39l
+876. trim28 --> rwdd1
+877. trim28 --> sall4
+878. trim28 --> sgk1
+879. trim28 --> slc25a5
+880. trim28 --> slc2a3
+881. trim28 --> smn1
+882. trim28 --> sohlh2
+883. trim28 --> sox2
+884. trim28 --> sprr2b
+885. trim28 --> srm
+886. trim28 --> srrd
+887. trim28 --> stmn1
+888. trim28 --> stra13
+889. trim28 --> tbx3
+890. trim28 --> tcf3
+891. trim28 --> tdgf1
+892. trim28 --> tdh
+893. trim28 --> top2a
+894. trim28 --> tpd52
+895. trim28 --> trim71
+896. trim28 --> trp53
+897. trim28 --> tubb3
+898. trim28 --> txnl1
+899. trim28 --> tyw1
+900. trim28 --> ubald2
+901. trim28 --> ulk1
+902. trim28 --> utf1
+903. trim28 --> wtap
+904. trim28 --> xpnpep1
+905. trim28 --> xrcc1
+906. trim28 --> zc3hc1
+907. trim28 --> zfp42
+908. trim71 --> dnmt3l
+909. trim71 --> e130012a19rik
+910. trim71 --> sbk1
+911. tsc22d1 --> lrrc59
+912. tsc22d1 --> vim
+913. tuba1a --> atp5j2
+914. tuba1a --> fgd1
+915. tuba1a --> imp3
+916. tuba1a --> mcm7
+917. tuba1a --> med10
+918. tuba1a --> morf4l2
+919. tuba1a --> mrpl14
+920. tuba1a --> ndufb10
+921. tuba1a --> pfdn2
+922. tuba1a --> pkp2
+923. tuba1a --> polr2h
+924. tuba1a --> slc25a5
+925. tuba1a --> snrpa1
+926. tuba4a --> romo1
+927. tubb6 --> lmna
+928. txnl1 --> 1700007k13rik
+929. tyw1 --> akr1b3
+930. tyw1 --> atp6v0d1
+931. tyw1 --> churc1
+932. tyw1 --> copb2
+933. tyw1 --> fam229b
+934. tyw1 --> glul
+935. tyw1 --> hap1
+936. tyw1 --> map4k5
+937. tyw1 --> mcm7
+938. tyw1 --> mrpl13
+939. tyw1 --> nlrp1a
+940. tyw1 --> pbld1
+941. tyw1 --> pfdn6
+942. tyw1 --> sall4
+943. tyw1 --> samm50
+944. tyw1 --> srpk1
+945. tyw1 --> stmn2
+946. tyw1 --> timm8b
+947. tyw1 --> tor4a
+948. ubald2 --> cenpa
+949. ube2s --> arl6ip1
+950. ube2s --> cenpa
+951. ube2s --> cks2
+952. ube2s --> etv5
+953. ube2s --> sqstm1
+954. ube2s --> trim28
+955. ulk1 --> dppa3
+956. ulk1 --> nkain3
+957. utf1 --> fkbp1a
+958. utf1 --> ltbp4
+959. utf1 --> mkrn1
+960. utf1 --> mrpl34
+961. utf1 --> papd5
+962. xrcc1 --> thoc3
+963. ywhaq --> aprt
+964. ywhaq --> asb6
+965. ywhaq --> bloc1s1
+966. ywhaq --> nhp2
+967. ywhaq --> rwdd1
+968. ywhaq --> slirp
+969. zfp286 --> cdkn2aip
+970. zfp286 --> gm20594
+971. zfp42 --> atp5j2
+972. zfp42 --> cd9
+973. zfp42 --> cdc5l
+974. zfp42 --> dppa5a
+975. zfp42 --> grn
+976. zfp42 --> jarid2
+977. zfp42 --> nanog
+978. zfp42 --> otx2
+979. zfp42 --> rpl10l
+980. zfp42 --- sox2
+
+
+GES done 980 edges in graph
+R0 start
+Copying from GES: Orienting collider: sfn *-> id1 <-* hspb1
+Copying from GES: Orienting collider: hspb1 *-> dppa5a <-* zfp42
+Copying from GES: Orienting collider: hspb1 *-> dppa5a <-* hsp90aa1
+Copying from GES: Orienting collider: zfp42 *-> dppa5a <-* ftl1
+Copying from GES: Orienting collider: zfp42 *-> dppa5a <-* hsp90aa1
+Copying from GES: Orienting collider: s100a6 *-> dnmt3l <-* fth1
+Copying from GES: Orienting collider: s100a6 *-> dnmt3l <-* trim71
+Copying from GES: Orienting collider: fth1 *-> dnmt3l <-* trim71
+Copying from GES: Orienting collider: ccnd3 *-> klf5 <-* actb
+Copying from GES: Orienting collider: gabarapl2 *-> aes <-* ftl1
+Copying from GES: Orienting collider: gabarapl2 *-> aes <-* stmn2
+Copying from GES: Orienting collider: ftl1 *-> aes <-* stmn2
+Copying from GES: Orienting collider: nlrp1a *-> mycn <-* slc2a3
+Copying from GES: Orienting collider: zfp42 *-> nanog <-* slc2a3
+Copying from GES: Orienting collider: mrpl43 *-> tcl1 <-* mybl2
+Copying from GES: Orienting collider: trim28 *-> klf2 <-* mt1
+Copying from GES: Orienting collider: etv4 *-> utf1 <-* nhp2
+Copying from GES: Orienting collider: etv4 *-> utf1 <-* trim28
+Copying from GES: Orienting collider: actb *-> dnmt3b <-* gpx1
+Copying from GES: Orienting collider: actb *-> dnmt3b <-* eif2s2
+Copying from GES: Orienting collider: gpx1 *-> dnmt3b <-* eif2s2
+Copying from GES: Orienting collider: nlrp1a *-> phc1 <-* dppa5a
+Copying from GES: Orienting collider: eif2s2 *-> mybl2 <-* ccnd3
+Copying from GES: Orienting collider: ccnd3 *-> mybl2 <-* trim28
+Copying from GES: Orienting collider: asns *-> rpap1 <-* ftl1
+Copying from GES: Orienting collider: ccnd3 *-> tcea3 <-* hspb1
+Copying from GES: Orienting collider: fth1 *-> cdc5l <-* fabp5
+Copying from GES: Orienting collider: fth1 *-> cdc5l <-* zfp42
+Copying from GES: Orienting collider: trim28 *-> cdc5l <-* fabp5
+Copying from GES: Orienting collider: fabp5 *-> cdc5l <-* zfp42
+Copying from GES: Orienting collider: hist1h2ao *-> trim28 <-* ctnnal1
+Copying from GES: Orienting collider: hist1h2ao *-> trim28 <-* ftl1
+Copying from GES: Orienting collider: hist1h2ao *-> trim28 <-* ube2s
+Copying from GES: Orienting collider: ctnnal1 *-> trim28 <-* ftl1
+Copying from GES: Orienting collider: ftl1 *-> sall4 <-* tyw1
+Copying from GES: Orienting collider: churc1 *-> ezh2 <-* trim28
+Copying from GES: Orienting collider: map4k5 *-> ugp2 <-* pou5f1
+Copying from GES: Orienting collider: ube2s *-> etv5 <-* mkrn1
+Copying from GES: Orienting collider: pou5f1 *-> eed <-* smn1
+Copying from GES: Orienting collider: sparc *-> trp53 <-* trim28
+Copying from GES: Orienting collider: nkain3 *-> nacc1 <-* ftl1
+Copying from GES: Orienting collider: hsp90aa1 *-> dppa3 <-* ulk1
+Copying from GES: Orienting collider: nlrp1a *-> jarid2 <-* actb
+Copying from GES: Orienting collider: nlrp1a *-> jarid2 <-* zfp42
+Copying from GES: Orienting collider: actb *-> jarid2 <-* zfp42
+Copying from GES: Orienting collider: utf1 *-> mkrn1 <-* nlrp1a
+Copying from GES: Orienting collider: utf1 *-> mkrn1 <-* pou5f1
+Copying from GES: Orienting collider: utf1 *-> mkrn1 <-* mybl2
+Copying from GES: Orienting collider: utf1 *-> mkrn1 <-* id1
+Copying from GES: Orienting collider: nlrp1a *-> mkrn1 <-* mybl2
+Copying from GES: Orienting collider: nlrp1a *-> mkrn1 <-* id1
+Copying from GES: Orienting collider: pou5f1 *-> mkrn1 <-* mybl2
+Copying from GES: Orienting collider: pou5f1 *-> mkrn1 <-* id1
+Copying from GES: Orienting collider: mybl2 *-> mkrn1 <-* id1
+Copying from GES: Orienting collider: trim28 *-> tcf3 <-* jarid2
+Copying from GES: Orienting collider: manf *-> gtf2i <-* ftl1
+Copying from GES: Orienting collider: dppa5a *-> pou5f1 <-* trim28
+Copying from GES: Orienting collider: dppa5a *-> pou5f1 <-* actb
+Copying from GES: Orienting collider: trim28 *-> pou5f1 <-* actb
+Copying from GES: Orienting collider: actb *-> ctbp2 <-* nlrp1a
+Copying from GES: Orienting collider: actb *-> ctbp2 <-* mrpl43
+Copying from GES: Orienting collider: nlrp1a *-> ctbp2 <-* mrpl43
+Copying from GES: Orienting collider: manf *-> smad4 <-* jarid2
+Copying from GES: Orienting collider: set *-> tuba1a <-* h2afz
+Copying from GES: Orienting collider: set *-> tuba1a <-* actg1
+Copying from GES: Orienting collider: set *-> tuba1a <-* ftl1
+Copying from GES: Orienting collider: h2afz *-> tuba1a <-* actg1
+Copying from GES: Orienting collider: guk1 *-> fem1b <-* ftl1
+Copying from GES: Orienting collider: gpx1 *-> otx2 <-* zfp42
+Copying from GES: Orienting collider: madd *-> zic3 <-* glul
+Copying from GES: Orienting collider: fem1b *-> krt8 <-* cd9
+Copying from GES: Orienting collider: pgk1 *-> sparc <-* fth1
+Copying from GES: Orienting collider: s100a6 *-> clu <-* ftl1
+Copying from GES: Orienting collider: s100a10 *-> krt18 <-* actg1
+Copying from GES: Orienting collider: sfn *-> ccdc36 <-* abcd4
+Copying from GES: Orienting collider: sfn *-> ccdc36 <-* pbld1
+Copying from GES: Orienting collider: abcd4 *-> ccdc36 <-* pbld1
+Copying from GES: Orienting collider: mrpl43 *-> col4a1 <-* psap
+Copying from GES: Orienting collider: asns *-> fam25c <-* eif2s2
+Copying from GES: Orienting collider: asns *-> fam25c <-* s100a6
+Copying from GES: Orienting collider: eif2s2 *-> fam25c <-* s100a6
+Copying from GES: Orienting collider: bex1 *-> s100a6 <-* tmsb4x
+Copying from GES: Orienting collider: bex1 *-> s100a6 <-* hsp90aa1
+Copying from GES: Orienting collider: sfn *-> s100a6 <-* fam25c
+Copying from GES: Orienting collider: tmsb4x *-> s100a6 <-* hsp90aa1
+Copying from GES: Orienting collider: hsp90aa1 *-> sfn <-* tmsb4x
+Copying from GES: Orienting collider: calr *-> hspa5 <-* ftl1
+Copying from GES: Orienting collider: ftl1 *-> fabp3 <-* slc2a3
+Copying from GES: Orienting collider: ftl1 *-> tagln2 <-* s100a10
+Copying from GES: Orienting collider: tuba1a *-> fgd1 <-* eif2s2
+Copying from GES: Orienting collider: nkain3 *-> lrpap1 <-* gpx1
+Copying from GES: Orienting collider: s100a6 *-> cd63 <-* slc2a3
+Copying from GES: Orienting collider: malat1 *-> mt2 <-* gpx1
+Copying from GES: Orienting collider: malat1 *-> mt2 <-* trim28
+Copying from GES: Orienting collider: malat1 *-> mt2 <-* actg1
+Copying from GES: Orienting collider: malat1 *-> mt2 <-* ftl1
+Copying from GES: Orienting collider: gpx1 *-> mt2 <-* actg1
+Copying from GES: Orienting collider: gpx1 *-> mt2 <-* ftl1
+Copying from GES: Orienting collider: trim28 *-> mt2 <-* actg1
+Copying from GES: Orienting collider: hn1 *-> gm20594 <-* elp5
+Copying from GES: Orienting collider: hn1 *-> gm20594 <-* zfp286
+Copying from GES: Orienting collider: nkain3 *-> papd5 <-* utf1
+Copying from GES: Orienting collider: sfn *-> slc29a1 <-* hmces
+Copying from GES: Orienting collider: sfn *-> slc29a1 <-* nlrp1a
+Copying from GES: Orienting collider: sfn *-> slc29a1 <-* mkrn1
+Copying from GES: Orienting collider: sfn *-> slc29a1 <-* tagln2
+Copying from GES: Orienting collider: hmces *-> slc29a1 <-* mkrn1
+Copying from GES: Orienting collider: hmces *-> slc29a1 <-* tagln2
+Copying from GES: Orienting collider: nlrp1a *-> slc29a1 <-* tagln2
+Copying from GES: Orienting collider: mkrn1 *-> slc29a1 <-* tagln2
+Copying from GES: Orienting collider: hsp90aa1 *-> lgals1 <-* pdlim7
+Copying from GES: Orienting collider: ngfrap1 *-> anxa2 <-* actb
+Copying from GES: Orienting collider: hsp90aa1 *-> mylpf <-* slc29a1
+Copying from GES: Orienting collider: ftl1 *-> hsp90b1 <-* calr
+Copying from GES: Orienting collider: ngfrap1 *-> tmsb4x <-* actb
+Copying from GES: Orienting collider: pou5f1 *-> ccnd3 <-* stmn2
+Copying from GES: Orienting collider: pou5f1 *-> ccnd3 <-* marcksl1
+Copying from GES: Orienting collider: stmn2 *-> ccnd3 <-* marcksl1
+Copying from GES: Orienting collider: hsp90b1 *-> manf <-* tceb2
+Copying from GES: Orienting collider: hsp90b1 *-> manf <-* hspa5
+Copying from GES: Orienting collider: tceb2 *-> manf <-* hspa5
+Copying from GES: Orienting collider: trim28 *-> trim71 <-* nkain3
+Copying from GES: Orienting collider: hspa12b *-> col4a2 <-* trim28
+Copying from GES: Orienting collider: meg3 *-> hsp90aa1 <-* slc25a4
+Copying from GES: Orienting collider: rnf7 *-> asns <-* mybl2
+Copying from GES: Orienting collider: rnf7 *-> asns <-* cd9
+Copying from GES: Orienting collider: mybl2 *-> asns <-* cd9
+Copying from GES: Orienting collider: trim28 *-> asns <-* cd9
+Copying from GES: Orienting collider: asns *-> calcoco2 <-* eif2s2
+Copying from GES: Orienting collider: ftl1 *-> ctsl <-* plec
+Copying from GES: Orienting collider: tyw1 *-> fam229b <-* a630089n07rik
+Copying from GES: Orienting collider: ftl1 *-> sbk1 <-* trim71
+Copying from GES: Orienting collider: ccnd3 *-> e130012a19rik <-* trim28
+Copying from GES: Orienting collider: ccnd3 *-> e130012a19rik <-* trim71
+Copying from GES: Orienting collider: mrpl43 *-> laptm5 <-* ccnd3
+Copying from GES: Orienting collider: trim28 *-> wtap <-* nkain3
+Copying from GES: Orienting collider: hsp90aa1 *-> gpx4 <-* ccnd3
+Copying from GES: Orienting collider: hsp90aa1 *-> gpx4 <-* tdh
+Copying from GES: Orienting collider: ccnd3 *-> gpx4 <-* ftl1
+Copying from GES: Orienting collider: ftl1 *-> gpx4 <-* tdh
+Copying from GES: Orienting collider: chchd10 *-> tdh <-* ccnd3
+Copying from GES: Orienting collider: chchd10 *-> tdh <-* trim28
+Copying from GES: Orienting collider: chchd10 *-> tdh <-* slc29a1
+Copying from GES: Orienting collider: ccnd3 *-> tdh <-* trim28
+Copying from GES: Orienting collider: ccnd3 *-> tdh <-* slc29a1
+Copying from GES: Orienting collider: trim28 *-> tdh <-* slc29a1
+Copying from GES: Orienting collider: ctsd *-> p4hb <-* calr
+Copying from GES: Orienting collider: ctsd *-> p4hb <-* actg1
+Copying from GES: Orienting collider: calr *-> p4hb <-* actg1
+Copying from GES: Orienting collider: s100a6 *-> s100a10 <-* pgk1
+Copying from GES: Orienting collider: pgk1 *-> s100a10 <-* plec
+Copying from GES: Orienting collider: trim28 *-> slc2a3 <-* hsp90aa1
+Copying from GES: Orienting collider: trim28 *-> slc2a3 <-* ctsd
+Copying from GES: Orienting collider: asns *-> slc2a3 <-* hsp90aa1
+Copying from GES: Orienting collider: asns *-> slc2a3 <-* ctsd
+Copying from GES: Orienting collider: hsp90aa1 *-> slc2a3 <-* ctsd
+Copying from GES: Orienting collider: gm20594 *-> ldha <-* pgk1
+Copying from GES: Orienting collider: gm20594 *-> ldha <-* aprt
+Copying from GES: Orienting collider: pgk1 *-> ldha <-* aprt
+Copying from GES: Orienting collider: plec *-> peg10 <-* actb
+Copying from GES: Orienting collider: actb *-> peg10 <-* s100a6
+Copying from GES: Orienting collider: asns *-> igfbp2 <-* fn1
+Copying from GES: Orienting collider: tsc22d1 *-> vim <-* bex1
+Copying from GES: Orienting collider: asns *-> ldhb <-* eif2s2
+Copying from GES: Orienting collider: map4k5 *-> a630089n07rik <-* nlrp1a
+Copying from GES: Orienting collider: map4k5 *-> a630089n07rik <-* mrpl43
+Copying from GES: Orienting collider: nlrp1a *-> a630089n07rik <-* mrpl43
+Copying from GES: Orienting collider: gpx1 *-> ngfrap1 <-* bex1
+Copying from GES: Orienting collider: gpx1 *-> ngfrap1 <-* fth1
+Copying from GES: Orienting collider: bex1 *-> ngfrap1 <-* fth1
+Copying from GES: Orienting collider: actg1 *-> slc2a1 <-* hsp90aa1
+Copying from GES: Orienting collider: actg1 *-> slc2a1 <-* sparc
+Copying from GES: Orienting collider: hsp90aa1 *-> slc2a1 <-* sparc
+Copying from GES: Orienting collider: hspb1 *-> bc018473 <-* malat1
+Copying from GES: Orienting collider: hspb1 *-> bc018473 <-* set
+Copying from GES: Orienting collider: malat1 *-> bc018473 <-* set
+Copying from GES: Orienting collider: asns *-> pmvk <-* ccnd3
+Copying from GES: Orienting collider: fth1 *-> calr <-* gm10845
+Copying from GES: Orienting collider: fth1 *-> calr <-* slc2a3
+Copying from GES: Orienting collider: gm10845 *-> calr <-* slc2a3
+Copying from GES: Orienting collider: eif2s2 *-> fabp5 <-* pih1d1
+Copying from GES: Orienting collider: eif2s2 *-> fabp5 <-* msc
+Copying from GES: Orienting collider: pih1d1 *-> fabp5 <-* msc
+Copying from GES: Orienting collider: trim28 *-> slc25a5 <-* hsp90aa1
+Copying from GES: Orienting collider: trim28 *-> slc25a5 <-* tuba1a
+Copying from GES: Orienting collider: hsp90aa1 *-> slc25a5 <-* tuba1a
+Copying from GES: Orienting collider: tbx3 *-> eif2s2 <-* hsp90aa1
+Copying from GES: Orienting collider: trim28 *-> eif2s2 <-* hsp90aa1
+Copying from GES: Orienting collider: glud1 *-> kif15 <-* set
+Copying from GES: Orienting collider: slc29a1 *-> slc3a2 <-* a630089n07rik
+Copying from GES: Orienting collider: slc29a1 *-> slc3a2 <-* ftl1
+Copying from GES: Orienting collider: a630089n07rik *-> slc3a2 <-* ftl1
+Copying from GES: Orienting collider: tmsb4x *-> hspb1 <-* ftl1
+Copying from GES: Orienting collider: tmsb4x *-> hspb1 <-* trim28
+Copying from GES: Orienting collider: actb *-> hspb1 <-* trim28
+Copying from GES: Orienting collider: trim28 *-> ifitm1 <-* tmem230
+Copying from GES: Orienting collider: ftl1 *-> erdr1 <-* map4k5
+Copying from GES: Orienting collider: ftl1 *-> erdr1 <-* nhp2
+Copying from GES: Orienting collider: map4k5 *-> erdr1 <-* nhp2
+Copying from GES: Orienting collider: actb *-> pgk1 <-* trim28
+Copying from GES: Orienting collider: fth1 *-> htra1 <-* actb
+Copying from GES: Orienting collider: mrpl43 *-> kpna2 <-* ccdc124
+Copying from GES: Orienting collider: mrpl43 *-> kpna2 <-* top2a
+Copying from GES: Orienting collider: ccdc124 *-> kpna2 <-* top2a
+Copying from GES: Orienting collider: sparc *-> morf4l2 <-* actg1
+Copying from GES: Orienting collider: sparc *-> morf4l2 <-* tuba1a
+Copying from GES: Orienting collider: fth1 *-> ctsd <-* s100a10
+Copying from GES: Orienting collider: fth1 *-> ctsd <-* gpx1
+Copying from GES: Orienting collider: s100a10 *-> ctsd <-* gpx1
+Copying from GES: Orienting collider: cenpa *-> cdc20 <-* churc1
+Copying from GES: Orienting collider: cenpa *-> cdc20 <-* calm2
+Copying from GES: Orienting collider: churc1 *-> cdc20 <-* calm2
+Copying from GES: Orienting collider: hsp90aa1 *-> gpx1 <-* trim28
+Copying from GES: Orienting collider: hsp90aa1 *-> gpx1 <-* sparc
+Copying from GES: Orienting collider: trim28 *-> gpx1 <-* sparc
+Copying from GES: Orienting collider: hsp90aa1 *-> madd <-* nkain3
+Copying from GES: Orienting collider: hsp90aa1 *-> madd <-* fam229b
+Copying from GES: Orienting collider: hsp90aa1 *-> madd <-* map4k5
+Copying from GES: Orienting collider: nkain3 *-> madd <-* fam229b
+Copying from GES: Orienting collider: nkain3 *-> madd <-* map4k5
+Copying from GES: Orienting collider: slc29a1 *-> rasgrp2 <-* gpx4
+Copying from GES: Orienting collider: tuba1a *-> pfdn2 <-* trim28
+Copying from GES: Orienting collider: sfn *-> ccne1 <-* nlrp1a
+Copying from GES: Orienting collider: sfn *-> ccne1 <-* pbld1
+Copying from GES: Orienting collider: nlrp1a *-> ccne1 <-* pbld1
+Copying from GES: Orienting collider: pbld1 *-> sort1 <-* hsp90aa1
+Copying from GES: Orienting collider: a630089n07rik *-> kctd15 <-* madd
+Copying from GES: Orienting collider: a630089n07rik *-> kctd15 <-* hspa12b
+Copying from GES: Orienting collider: tor4a *-> elp5 <-* sdhc
+Copying from GES: Orienting collider: pbld1 *-> bcas2 <-* tdh
+Copying from GES: Orienting collider: tor4a *-> bcas2 <-* tdh
+Copying from GES: Orienting collider: churc1 *-> bcas2 <-* tdh
+Copying from GES: Orienting collider: sfn *-> plec <-* glud1
+Copying from GES: Orienting collider: sfn *-> plec <-* pbld1
+Copying from GES: Orienting collider: glud1 *-> plec <-* pbld1
+Copying from GES: Orienting collider: s100a6 *-> plec <-* pbld1
+Copying from GES: Orienting collider: fth1 *-> map4k5 <-* fn1
+Copying from GES: Orienting collider: s100a10 *-> flnb <-* cd9
+Copying from GES: Orienting collider: s100a10 *-> flnb <-* actb
+Copying from GES: Orienting collider: cd9 *-> flnb <-* actb
+Copying from GES: Orienting collider: nkain3 *-> glud1 <-* nhp2
+Copying from GES: Orienting collider: nkain3 *-> glud1 <-* s100a6
+Copying from GES: Orienting collider: nhp2 *-> glud1 <-* actb
+Copying from GES: Orienting collider: nhp2 *-> glud1 <-* s100a6
+Copying from GES: Orienting collider: actb *-> glud1 <-* s100a6
+Copying from GES: Orienting collider: fkbp4 *-> akr1b3 <-* tyw1
+Copying from GES: Orienting collider: fkbp4 *-> akr1b3 <-* pou5f1
+Copying from GES: Orienting collider: tyw1 *-> akr1b3 <-* pou5f1
+Copying from GES: Orienting collider: set *-> ikbip <-* pbld1
+Copying from GES: Orienting collider: eif2s2 *-> ckb <-* actg1
+Copying from GES: Orienting collider: churc1 *-> echdc2 <-* eif2s2
+Copying from GES: Orienting collider: eif2s2 *-> eif4ebp1 <-* ftl1
+Copying from GES: Orienting collider: gpx1 *-> marcksl1 <-* actg1
+Copying from GES: Orienting collider: trim28 *-> marcksl1 <-* actg1
+Copying from GES: Orienting collider: hspa12b *-> cep83 <-* ftl1
+Copying from GES: Orienting collider: mylpf *-> tceb2 <-* ftl1
+Copying from GES: Orienting collider: mylpf *-> tceb2 <-* dppa5a
+Copying from GES: Orienting collider: ftl1 *-> 2410006h16rik <-* nlrp1a
+Copying from GES: Orienting collider: tuba1a *-> pkp2 <-* a630089n07rik
+Copying from GES: Orienting collider: actb *-> ube2l6 <-* col4a2
+Copying from GES: Orienting collider: hsp90aa1 *-> hmces <-* e130012a19rik
+Copying from GES: Orienting collider: nlrp1a *-> hmces <-* e130012a19rik
+Copying from GES: Orienting collider: mkrn1 *-> d11wsu47e <-* fkbp4
+Copying from GES: Orienting collider: eif4ebp1 *-> mfge8 <-* fth1
+Copying from GES: Orienting collider: hsp90b1 *-> pdia6 <-* sparc
+Copying from GES: Orienting collider: hsp90b1 *-> pdia6 <-* hspa5
+Copying from GES: Orienting collider: hsp90b1 *-> pdia6 <-* actg1
+Copying from GES: Orienting collider: sparc *-> pdia6 <-* hspa5
+Copying from GES: Orienting collider: sparc *-> pdia6 <-* actg1
+Copying from GES: Orienting collider: hspa5 *-> pdia6 <-* actg1
+Copying from GES: Orienting collider: ftl1 *-> surf4 <-* calr
+Copying from GES: Orienting collider: set *-> gng5 <-* ftl1
+Copying from GES: Orienting collider: dppa5a *-> stmn2 <-* tyw1
+Copying from GES: Orienting collider: slc29a1 *-> set <-* pou5f1
+Copying from GES: Orienting collider: slc29a1 *-> set <-* mt2
+Copying from GES: Orienting collider: slc29a1 *-> set <-* actb
+Copying from GES: Orienting collider: pou5f1 *-> set <-* mt2
+Copying from GES: Orienting collider: mt2 *-> set <-* actb
+Copying from GES: Orienting collider: cd63 *-> tpd52 <-* trim28
+Copying from GES: Orienting collider: trim28 *-> h2afx <-* chchd10
+Copying from GES: Orienting collider: trim28 *-> h2afx <-* kpna2
+Copying from GES: Orienting collider: chchd10 *-> h2afx <-* kpna2
+Copying from GES: Orienting collider: mkrn1 *-> cks2 <-* ube2s
+Copying from GES: Orienting collider: zfp42 *-> cd9 <-* actg1
+Copying from GES: Orienting collider: zfp42 *-> cd9 <-* ftl1
+Copying from GES: Orienting collider: slc2a3 *-> arl6ip1 <-* ube2s
+Copying from GES: Orienting collider: pbld1 *-> pim3 <-* dppa5a
+Copying from GES: Orienting collider: s100a10 *-> pdlim7 <-* ftl1
+Copying from GES: Orienting collider: actb *-> epha2 <-* stmn2
+Copying from GES: Orienting collider: tex19.1 *-> psmd7 <-* trim28
+Copying from GES: Orienting collider: tex19.1 *-> psmd7 <-* eif2s2
+Copying from GES: Orienting collider: ywhaq *-> bloc1s1 <-* mt2
+Copying from GES: Orienting collider: pou5f1 *-> supt4a <-* nhp2
+Copying from GES: Orienting collider: actb *-> bex1 <-* eif2s2
+Copying from GES: Orienting collider: eif2s2 *-> bex1 <-* ftl1
+Copying from GES: Orienting collider: pgk1 *-> mdh2 <-* dppa5a
+Copying from GES: Orienting collider: pgk1 *-> mdh2 <-* h2afz
+Copying from GES: Orienting collider: dppa5a *-> mdh2 <-* h2afz
+Copying from GES: Orienting collider: actb *-> nkain3 <-* ulk1
+Copying from GES: Orienting collider: actb *-> nkain3 <-* ccdc36
+Copying from GES: Orienting collider: actb *-> nkain3 <-* a630089n07rik
+Copying from GES: Orienting collider: ulk1 *-> nkain3 <-* ccdc36
+Copying from GES: Orienting collider: ulk1 *-> nkain3 <-* a630089n07rik
+Copying from GES: Orienting collider: ccdc36 *-> nkain3 <-* a630089n07rik
+Copying from GES: Orienting collider: aprt *-> srm <-* sfn
+Copying from GES: Orienting collider: aprt *-> srm <-* trim28
+Copying from GES: Orienting collider: sfn *-> srm <-* trim28
+Copying from GES: Orienting collider: mkrn1 *-> tsc22d1 <-* ftl1
+Copying from GES: Orienting collider: mkrn1 *-> tsc22d1 <-* ctbp2
+Copying from GES: Orienting collider: ftl1 *-> tsc22d1 <-* ctbp2
+Copying from GES: Orienting collider: set *-> ung <-* nhp2
+Copying from GES: Orienting collider: set *-> ung <-* bcas2
+Copying from GES: Orienting collider: nhp2 *-> ung <-* bcas2
+Copying from GES: Orienting collider: slirp *-> itpk1 <-* tdh
+Copying from GES: Orienting collider: slirp *-> itpk1 <-* etv4
+Copying from GES: Orienting collider: tdh *-> itpk1 <-* etv4
+Copying from GES: Orienting collider: ftl1 *-> mthfd2 <-* nlrp1a
+Copying from GES: Orienting collider: tor4a *-> hspa12b <-* map4k5
+Copying from GES: Orienting collider: tor4a *-> hspa12b <-* madd
+Copying from GES: Orienting collider: hsp90aa1 *-> parvb <-* esrrb
+Copying from GES: Orienting collider: tor4a *-> thoc3 <-* xrcc1
+Copying from GES: Orienting collider: tor4a *-> thoc3 <-* pou5f1
+Copying from GES: Orienting collider: xrcc1 *-> thoc3 <-* pou5f1
+Copying from GES: Orienting collider: tor4a *-> hn1 <-* fkbp4
+Copying from GES: Orienting collider: ftl1 *-> 1110008f13rik <-* dynll1
+Copying from GES: Orienting collider: ppa1 *-> 1110008f13rik <-* dynll1
+Copying from GES: Orienting collider: ftl1 *-> 2310036o22rik <-* set
+Copying from GES: Orienting collider: arl6ip1 *-> aurka <-* cenpa
+Copying from GES: Orienting collider: arl6ip1 *-> aurka <-* malat1
+Copying from GES: Orienting collider: cenpa *-> aurka <-* malat1
+Copying from GES: Orienting collider: dppa5a *-> ass1 <-* trim28
+Copying from GES: Orienting collider: dppa5a *-> ass1 <-* laptm5
+Copying from GES: Orienting collider: trim28 *-> ass1 <-* laptm5
+Copying from GES: Orienting collider: gm7325 *-> rnaseh2c <-* nhp2
+Copying from GES: Orienting collider: ftl1 *-> ube2s <-* ctnnal1
+Copying from GES: Orienting collider: nhp2 *-> cdk2ap1 <-* ftl1
+Copying from GES: Orienting collider: actb *-> rrp7a <-* nhp2
+Copying from GES: Orienting collider: sparc *-> tyw1 <-* hspb1
+Copying from GES: Orienting collider: sparc *-> tyw1 <-* trim28
+Copying from GES: Orienting collider: tdh *-> erf <-* atf5
+Copying from GES: Orienting collider: atf5 *-> erf <-* trim28
+Copying from GES: Orienting collider: eif2s2 *-> d230025d16rik <-* slc2a3
+Copying from GES: Orienting collider: ddt *-> scd2 <-* mrpl43
+Copying from GES: Orienting collider: mkrn1 *-> med13l <-* nkain3
+Copying from GES: Orienting collider: mkrn1 *-> med13l <-* s100a10
+Copying from GES: Orienting collider: nkain3 *-> med13l <-* s100a10
+Copying from GES: Orienting collider: calr *-> arf1 <-* trim28
+Copying from GES: Orienting collider: calr *-> arf1 <-* ftl1
+Copying from GES: Orienting collider: ccnd3 *-> etv4 <-* actb
+Copying from GES: Orienting collider: ccnd3 *-> etv4 <-* pbld1
+Copying from GES: Orienting collider: actb *-> etv4 <-* pbld1
+Copying from GES: Orienting collider: trim28 *-> dppa4 <-* srpk1
+Copying from GES: Orienting collider: mkrn1 *-> cox7a2l <-* ftl1
+Copying from GES: Orienting collider: mt2 *-> sf3b5 <-* jarid2
+Copying from GES: Orienting collider: tcl1 *-> tra2b <-* ftl1
+Copying from GES: Orienting collider: sqstm1 *-> tubb6 <-* actg1
+Copying from GES: Orienting collider: pou5f1 *-> u2af1 <-* eif2s2
+Copying from GES: Orienting collider: trim28 *-> fn1 <-* tor4a
+Copying from GES: Orienting collider: tceb2 *-> cope <-* hspa5
+Copying from GES: Orienting collider: ftl1 *-> calu <-* manf
+Copying from GES: Orienting collider: malat1 *-> top2a <-* trim28
+Copying from GES: Orienting collider: s100a6 *-> cstb <-* ftl1
+Copying from GES: Orienting collider: ftl1 *-> ppa1 <-* nhp2
+Copying from GES: Orienting collider: pgk1 *-> ppa1 <-* nhp2
+Copying from GES: Orienting collider: akr1b3 *-> tuba4a <-* ftl1
+Copying from GES: Orienting collider: romo1 *-> tuba4a <-* ftl1
+Copying from GES: Orienting collider: pbld1 *-> bud31 <-* actg1
+Copying from GES: Orienting collider: ftl1 *-> ndufa13 <-* ddx56
+Copying from GES: Orienting collider: e130012a19rik *-> ubald2 <-* cd63
+Copying from GES: Orienting collider: trim28 *-> ubald2 <-* cd63
+Copying from GES: Orienting collider: pou5f1 *-> snf8 <-* hsp90aa1
+Copying from GES: Orienting collider: ftl1 *-> calm2 <-* gm10845
+Copying from GES: Orienting collider: ngfrap1 *-> dhx16 <-* trim28
+Copying from GES: Orienting collider: ftl1 *-> siva1 <-* mkrn1
+Copying from GES: Orienting collider: mrpl43 *-> pop5 <-* bex1
+Copying from GES: Orienting collider: cdc5l *-> tex19.1 <-* dppa5a
+Copying from GES: Orienting collider: cdc5l *-> tex19.1 <-* ftl1
+Copying from GES: Orienting collider: s100a6 *-> col18a1 <-* mrpl43
+Copying from GES: Orienting collider: tdh *-> psma2 <-* hsp90aa1
+Copying from GES: Orienting collider: trim28 *-> psma2 <-* hsp90aa1
+Copying from GES: Orienting collider: aprt *-> arpc1b <-* hsp90aa1
+Copying from GES: Orienting collider: fkbp4 *-> mrpl34 <-* utf1
+Copying from GES: Orienting collider: zfp42 *-> grn <-* ftl1
+Copying from GES: Orienting collider: trim28 *-> cct5 <-* hsp90aa1
+Copying from GES: Orienting collider: trim28 *-> cfdp1 <-* mkrn1
+Copying from GES: Orienting collider: trim28 *-> cfdp1 <-* ppa1
+Copying from GES: Orienting collider: mkrn1 *-> cfdp1 <-* ppa1
+Copying from GES: Orienting collider: utf1 *-> ltbp4 <-* ftl1
+Copying from GES: Orienting collider: ftl1 *-> tubb2b <-* tor4a
+Copying from GES: Orienting collider: bc1 *-> lima1 <-* fth1
+Copying from GES: Orienting collider: ccdc36 *-> lima1 <-* fth1
+Copying from GES: Orienting collider: nlrp1a *-> b3gnt7 <-* cdv3
+Copying from GES: Orienting collider: trim28 *-> fkbp3 <-* hsp90aa1
+Copying from GES: Orienting collider: ftl1 *-> txnrd1 <-* tmem230
+Copying from GES: Orienting collider: ftl1 *-> txnrd1 <-* sfn
+Copying from GES: Orienting collider: tmem230 *-> txnrd1 <-* sfn
+Copying from GES: Orienting collider: ftl1 *-> fkbp1a <-* utf1
+Copying from GES: Orienting collider: map4k5 *-> mif4gd <-* tor4a
+Copying from GES: Orienting collider: tdh *-> 1700007k13rik <-* txnl1
+Copying from GES: Orienting collider: ftl1 *-> rabac1 <-* mdh2
+Copying from GES: Orienting collider: fth1 *-> snrpa1 <-* tuba1a
+Copying from GES: Orienting collider: hist1h2ao *-> dtd1 <-* h2afz
+Copying from GES: Orienting collider: mrpl43 *-> ddx56 <-* bcas2
+Copying from GES: Orienting collider: tyw1 *-> srpk1 <-* ftl1
+Copying from GES: Orienting collider: srm *-> krtcap2 <-* ftl1
+Copying from GES: Orienting collider: pbld1 *-> gorasp2 <-* arf1
+Copying from GES: Orienting collider: marcksl1 *-> wbp5 <-* ngfrap1
+Copying from GES: Orienting collider: marcksl1 *-> wbp5 <-* actb
+Copying from GES: Orienting collider: ngfrap1 *-> wbp5 <-* actb
+Copying from GES: Orienting collider: dppa5a *-> mark3 <-* gpx1
+Copying from GES: Orienting collider: ftl1 *-> h2afz <-* pbld1
+Copying from GES: Orienting collider: pbld1 *-> h2afz <-* trim28
+Copying from GES: Orienting collider: gpx1 *-> atg101 <-* mrpl43
+Copying from GES: Orienting collider: calr *-> atp6v0d1 <-* tyw1
+Copying from GES: Orienting collider: nhp2 *-> 2810428i15rik <-* fkbp1a
+Copying from GES: Orienting collider: tyw1 *-> samm50 <-* ftl1
+Copying from GES: Orienting collider: ccdc36 *-> zc3hc1 <-* trim28
+Copying from GES: Orienting collider: dynll1 *-> tpi1 <-* ftl1
+Copying from GES: Orienting collider: madd *-> 1500012f01rik <-* trim28
+Copying from GES: Orienting collider: ube2s *-> cenpa <-* ubald2
+Copying from GES: Orienting collider: hsp90aa1 *-> dcun1d5 <-* tor4a
+Copying from GES: Orienting collider: dppa5a *-> ndufa4 <-* fscn1
+Copying from GES: Orienting collider: gm6083 *-> ddt <-* ftl1
+Copying from GES: Orienting collider: ywhaq *-> slirp <-* dppa5a
+Copying from GES: Orienting collider: akr1b3 *-> mrpl12 <-* nhp2
+Copying from GES: Orienting collider: akr1b3 *-> mrpl12 <-* ftl1
+Copying from GES: Orienting collider: nhp2 *-> mrpl12 <-* ftl1
+Copying from GES: Orienting collider: hspb1 *-> tcf15 <-* slc29a1
+Copying from GES: Orienting collider: hspb1 *-> midn <-* ccnd3
+Copying from GES: Orienting collider: hsp90aa1 *-> mars <-* pbld1
+Copying from GES: Orienting collider: actb *-> cdv3 <-* trim28
+Copying from GES: Orienting collider: tyw1 *-> nlrp1a <-* pou5f1
+Copying from GES: Orienting collider: tyw1 *-> nlrp1a <-* hsp90aa1
+Copying from GES: Orienting collider: pou5f1 *-> nlrp1a <-* hsp90aa1
+Copying from GES: Orienting collider: trim28 *-> nlrp1a <-* hsp90aa1
+Copying from GES: Orienting collider: ftl1 *-> snx6 <-* ctnnal1
+Copying from GES: Orienting collider: nkain3 *-> gm10845 <-* hsp90aa1
+Copying from GES: Orienting collider: nlrp1a *-> trim25 <-* ftl1
+Copying from GES: Orienting collider: ftl1 *-> esd <-* s100a6
+Copying from GES: Orienting collider: tyw1 *-> mrpl13 <-* fth1
+Copying from GES: Orienting collider: ywhaq *-> rwdd1 <-* trim28
+Copying from GES: Orienting collider: ftl1 *-> fkbp4 <-* nhp2
+Copying from GES: Orienting collider: ftl1 *-> fkbp4 <-* set
+Copying from GES: Orienting collider: nhp2 *-> fkbp4 <-* set
+Copying from GES: Orienting collider: calr *-> txnl1 <-* trim28
+Copying from GES: Orienting collider: calr *-> txnl1 <-* set
+Copying from GES: Orienting collider: trim28 *-> txnl1 <-* set
+Copying from GES: Orienting collider: tor4a *-> chchd4 <-* fem1b
+Copying from GES: Orienting collider: sfn *-> sqstm1 <-* ube2s
+Copying from GES: Orienting collider: sfn *-> sqstm1 <-* ftl1
+Copying from GES: Orienting collider: slc2a3 *-> glipr2 <-* surf4
+Copying from GES: Orienting collider: ftl1 *-> prpsap1 <-* nlrp1a
+Copying from GES: Orienting collider: trim28 *-> rbmxl1 <-* dnmt3l
+Copying from GES: Orienting collider: tyw1 *-> copb2 <-* hsp90aa1
+Copying from GES: Orienting collider: tor4a *-> ndufb6 <-* erdr1
+Copying from GES: Orienting collider: ppa1 *-> atp6v0e <-* a630089n07rik
+Copying from GES: Orienting collider: sparc *-> rbm42 <-* trim28
+Copying from GES: Orienting collider: actb *-> lmna <-* tubb6
+Copying from GES: Orienting collider: gm10845 *-> slc30a2 <-* peg10
+Copying from GES: Orienting collider: ftl1 *-> psmd6 <-* psmd7
+Copying from GES: Orienting collider: h2afz *-> calm1 <-* actb
+Copying from GES: Orienting collider: erdr1 *-> qars <-* trim28
+Copying from GES: Orienting collider: pbld1 *-> mrpl43 <-* ftl1
+Copying from GES: Orienting collider: tor4a *-> mrpl43 <-* ftl1
+Copying from GES: Orienting collider: nlrp1a *-> adamts13 <-* slc2a3
+Copying from GES: Orienting collider: nlrp1a *-> adamts13 <-* gm10845
+Copying from GES: Orienting collider: slc2a3 *-> adamts13 <-* gm10845
+Copying from GES: Orienting collider: nhp2 *-> prpf3 <-* a630089n07rik
+Copying from GES: Orienting collider: ftl1 *-> atp5j2 <-* zfp42
+Copying from GES: Orienting collider: tuba1a *-> atp5j2 <-* zfp42
+Copying from GES: Orienting collider: eif2s2 *-> lrrc59 <-* tsc22d1
+Copying from GES: Orienting collider: eif2s2 *-> lrrc59 <-* ftl1
+Copying from GES: Orienting collider: pou5f1 *-> fam129b <-* lrrc59
+Copying from GES: Orienting collider: churc1 *-> nhp2 <-* trim28
+Copying from GES: Orienting collider: churc1 *-> nhp2 <-* ywhaq
+Copying from GES: Orienting collider: trim28 *-> nhp2 <-* ywhaq
+Copying from GES: Orienting collider: marcksl1 *-> aprt <-* actb
+Copying from GES: Orienting collider: marcksl1 *-> aprt <-* ywhaq
+Copying from GES: Orienting collider: actb *-> aprt <-* ywhaq
+Copying from GES: Orienting collider: set *-> gna11 <-* esrrb
+Copying from GES: Orienting collider: cox7a2l *-> ntan1 <-* sparc
+Copying from GES: Orienting collider: h2afz *-> actl6a <-* gpx1
+Copying from GES: Orienting collider: hspa12b *-> ywhaq <-* nlrp1a
+Copying from GES: Orienting collider: hspa12b *-> ywhaq <-* actg1
+Copying from GES: Orienting collider: nlrp1a *-> ywhaq <-* actg1
+Copying from GES: Orienting collider: fth1 *-> chmp4b <-* s100a10
+Copying from GES: Orienting collider: fth1 *-> chmp4b <-* hsp90b1
+Copying from GES: Orienting collider: s100a10 *-> chmp4b <-* hsp90b1
+Copying from GES: Orienting collider: madd *-> fto <-* tor4a
+Copying from GES: Orienting collider: tor4a *-> fto <-* map4k5
+Copying from GES: Orienting collider: pou5f1 *-> sdhc <-* a630089n07rik
+Copying from GES: Orienting collider: ftl1 *-> eif3g <-* pdia6
+Copying from GES: Orienting collider: ftl1 *-> eif3g <-* mcm7
+Copying from GES: Orienting collider: pdia6 *-> eif3g <-* mcm7
+Copying from GES: Orienting collider: trim28 *-> mcm7 <-* tuba1a
+Copying from GES: Orienting collider: tyw1 *-> mcm7 <-* tuba1a
+Copying from GES: Orienting collider: eif4ebp1 *-> crip2 <-* actg1
+Copying from GES: Orienting collider: sdhc *-> saal1 <-* cdkn2aip
+Copying from GES: Orienting collider: cct5 *-> mrpl23 <-* h19
+Copying from GES: Orienting collider: cct5 *-> mrpl23 <-* sox2
+Copying from GES: Orienting collider: h19 *-> mrpl23 <-* sox2
+Copying from GES: Orienting collider: eif2s2 *-> csrp1 <-* tmsb4x
+Copying from GES: Orienting collider: mkrn1 *-> socs2 <-* hsp90aa1
+Copying from GES: Orienting collider: hspb1 *-> fdft1 <-* churc1
+Copying from GES: Orienting collider: h2afz *-> exosc8 <-* dnmt3b
+Copying from GES: Orienting collider: ldha *-> guk1 <-* mrpl43
+Copying from GES: Orienting collider: ldha *-> guk1 <-* srpk1
+Copying from GES: Orienting collider: mrpl43 *-> guk1 <-* srpk1
+Copying from GES: Orienting collider: tuba1a *-> ndufb10 <-* pou5f1
+Copying from GES: Orienting collider: ftl1 *-> ndufb11 <-* tdh
+Copying from GES: Orienting collider: actg1 *-> dynll1 <-* gm6083
+Copying from GES: Orienting collider: actg1 *-> dynll1 <-* trim28
+Copying from GES: Orienting collider: actg1 *-> dynll1 <-* erf
+Copying from GES: Orienting collider: gm6083 *-> dynll1 <-* trim28
+Copying from GES: Orienting collider: gm6083 *-> dynll1 <-* erf
+
+Result graph:
+
+Graph Nodes:
+id1 dppa5a dnmt3l klf5 id3 aes mycn nanog tcl1 klf2 utf1 dnmt3b esrrb phc1 mybl2 rpap1 tcea3 myod1 klf4 cdc5l sox2 trim28 sall4 zfp42 sap30 ezh2 mbd3 parp1 ugp2 stra13 
+etv5 pdlim1 eed klf9 gbx2 trp53 fbxo15 nacc1 dppa3 jarid2 mkrn1 tcf3 gadd45a gtf2i msc pou5f1 dppa2 tbx3 ctbp2 smad4 tuba1a fem1b otx2 zic3 nr0b1 rhox6 sprr2b krt8 sparc bc1 
+clu krt18 h19 ccdc36 serpinh1 hist1h2ao col4a1 fam25c lamb1 gm7102 s100a6 sfn malat1 lama1 mt1 hspa5 fabp3 tagln2 hist1h2ah acaa1b ly6a sohlh2 fgd1 lrpap1 gm6878 cd63 bscl2 mt2 gm20594 papd5 
+slc29a1 med10 actg1 dcdc2c lgals1 anxa2 rhox5 mylpf hsp90b1 meg3 2700046a07rik slc25a4 ctgf tmsb4x gsn bhmt ccnd3 sept12 manf trim71 tagln col4a2 hsp90aa1 ahcyl2 best2 asns calcoco2 ctsl fam229b chchd10 
+sbk1 e130012a19rik laptm5 krt19 wtap dusp9 gpx4 tdh p4hb tspan17 s100a10 slc2a3 ldha peg10 rhox13 igfbp2 tdgf1 vim tor4a lamc1 ldhb lgmn upp1 a630089n07rik ngfrap1 dusp1 slc2a1 bc018473 pmvk calr 
+pbld1 fabp5 slc25a5 eif2s2 asb13 kif15 slc3a2 gm7325 atf5 hspb1 ifitm1 erdr1 pgk1 htra1 kpna2 morf4l2 ctsd cdc20 gpx1 id2 madd rasgrp2 zfp286 pfdn2 ccne1 sort1 kctd15 elp5 bcas2 plec 
+map4k5 flnb fth1 glud1 akr1b3 acot13 ikbip ckb echdc2 eif4ebp1 ptcd2 marcksl1 actb cep83 tceb2 2410006h16rik pkp2 blvrb ube2l6 pcolce hmces d11wsu47e mfge8 rpl39l pdia6 creld2 surf4 gng5 stmn2 trib3 
+hist1h4i hist1h3b exoc3l set tpd52 gabarapl2 h2afx nxn cks2 nme6 cd9 2810403a07rik arl6ip1 pim3 psap sssca1 stmn1 zfp296 pdlim7 actn1 glrx5 epha2 exosc2 psmd7 gm6083 pkig bloc1s1 supt4a apoe clic4 
+bex1 cenpn cox10 mdh2 nkain3 srm tsc22d1 qsox1 ulk1 gpx3 srgn xrcc1 rpl10l ung itpk1 mthfd2 srrd hspa12b parvb imp3 thoc3 hn1 1110008f13rik 2310036o22rik crip1 gtf3a aurka ass1 rnaseh2c tbc1d16 
+ube2s cdk2ap1 tmem230 pdgfa rrp7a tyw1 erf timm8b d230025d16rik scd2 med13l syce2 arf1 fcf1 etv4 eid2 polr2h rad51 dppa4 sertad1 lincenc1 cox7a2l sf3b5 tra2b tinagl1 tubb6 chchd3 fam195a abcd4 f830016b08rik 
+u2af1 rbfa fn1 cope dym calu crlf2 top2a cstb ppa1 arl6ip4 tuba4a bzw2 churc1 bud31 aifm1 ndufa13 dstn ocel1 galk1 hmox1 ubald2 romo1 emc10 ptov1 snf8 calm2 mrpl14 pih1d1 dhx16 
+siva1 pop5 tex19.1 ube3b col18a1 lias fscn1 ltb psma2 pmm1 arpc1b mrpl34 grn cct5 cfdp1 ltbp4 tubb2b lima1 b3gnt7 tubb3 fkbp3 txnrd1 trmt1 fkbp1a uchl1 psmd11 mif4gd pfdn6 1700007k13rik rabac1 
+snrpa1 dtd1 ddx56 srpk1 krtcap2 gorasp2 malsu1 wbp5 mark3 tsta3 tpx2 sec11c h2afz nfyb atg101 wars atp6v0d1 coq7 ctsh 2810428i15rik fam96b hbegf samm50 zc3hc1 tpi1 elof1 1500012f01rik cenpa pecr degs1 
+ndrg4 lonp1 ppa2 apitd1 dcun1d5 ndufa4 stx5a rheb ddt trappc3 cbx3 slirp mrpl12 tcf15 qdpr midn mars dap 2200002d01rik zdhhc7 hap1 cdv3 polr2e ctnnal1 nlrp1a snx6 xpnpep1 gm10845 trim25 gpx2 
+esd sgk1 mrpl13 stmn3 mrpl53 rwdd1 fkbp4 txnl1 asb6 chchd4 sqstm1 guca1a glipr2 prpsap1 rbmxl1 eif3c tspan4 dmkn rian copb2 ahsa1 ndufb6 atp6v0e ccdc22 rbm42 cyc1 lmna clic1 slc30a2 psmd6 
+scamp3 calm1 qars mrpl43 adamts13 ppie mea1 prpf3 atf4 spata33 atp5j2 lrrc59 fam129b nhp2 aprt gna11 spns1 ntan1 actl6a ywhaq chmp4b fto sdhc plin2 eif3g mcm7 crip2 slc6a8 saal1 mrpl23 
+cdkn1a emg1 ccdc124 bri3 csrp1 glul socs2 ftl1 cdkn2aip hs1bp3 fdft1 exosc8 guk1 deb1 ndufb10 rnf7 ndufb11 dynll1 gstm1 smn1 
+
+Graph Edges: 
+1. a630089n07rik --> atp6v0e
+2. a630089n07rik --> f830016b08rik
+3. a630089n07rik --> fam229b
+4. a630089n07rik --> kctd15
+5. a630089n07rik <-> map4k5
+6. a630089n07rik --> nkain3
+7. a630089n07rik --> pkp2
+8. a630089n07rik --> prpf3
+9. a630089n07rik --> sdhc
+10. a630089n07rik --> slc3a2
+11. abcd4 --> ccdc36
+12. actb --> 2200002d01rik
+13. actb --> actg1
+14. actb --> anxa2
+15. actb --> aprt
+16. actb --> bex1
+17. actb --> calm1
+18. actb --> cdv3
+19. actb --> crlf2
+20. actb --> ctbp2
+21. actb --> dnmt3b
+22. actb --> dstn
+23. actb --> epha2
+24. actb --> etv4
+25. actb --> flnb
+26. actb --> glud1
+27. actb --> hspb1
+28. actb --> htra1
+29. actb --> jarid2
+30. actb --> klf5
+31. actb --> lmna
+32. actb --> ltb
+33. actb --> malat1
+34. actb --> nkain3
+35. actb --> peg10
+36. actb --> pgk1
+37. actb --> plin2
+38. actb --> pou5f1
+39. actb --> rrp7a
+40. actb --> set
+41. actb --> tmsb4x
+42. actb --> ube2l6
+43. actb --> wbp5
+44. actg1 --> actn1
+45. actg1 --> bud31
+46. actg1 --> cd9
+47. actg1 --> ckb
+48. actg1 --> crip2
+49. actg1 --> ctgf
+50. actg1 --> dynll1
+51. actg1 --> hist1h2ao
+52. actg1 --> krt18
+53. actg1 --> marcksl1
+54. actg1 --> mt2
+55. actg1 --> p4hb
+56. actg1 --> pdia6
+57. actg1 --> slc2a1
+58. actg1 --> sssca1
+59. actg1 --> tinagl1
+60. actg1 --> tubb6
+61. actg1 --> ywhaq
+62. aes --> chchd10
+63. ahcyl2 o-o bc1
+64. akr1b3 --> mrpl12
+65. akr1b3 --> tuba4a
+66. aprt --> arpc1b
+67. aprt --> ldha
+68. aprt --> srm
+69. arf1 --> atf4
+70. arf1 --> gorasp2
+71. arl6ip1 --> aurka
+72. asns --> calcoco2
+73. asns --> fam25c
+74. asns --> gabarapl2
+75. asns --> igfbp2
+76. asns --> ldhb
+77. asns --> pmvk
+78. asns --> rhox13
+79. asns --> rpap1
+80. asns --> slc2a3
+81. atf5 --> erf
+82. bc1 o-> lima1
+83. bcas2 --> ddx56
+84. bcas2 --> exosc2
+85. bcas2 --> ung
+86. bex1 --> ngfrap1
+87. bex1 --> pop5
+88. bex1 --> s100a6
+89. bex1 --> vim
+90. calm2 --> cdc20
+91. calr --> arf1
+92. calr --> atp6v0d1
+93. calr --> hsp90b1
+94. calr --> hspa5
+95. calr --> p4hb
+96. calr --> surf4
+97. calr --> txnl1
+98. ccdc124 --> kpna2
+99. ccdc36 --> ahcyl2
+100. ccdc36 --> bc1
+101. ccdc36 --> lima1
+102. ccdc36 --> nkain3
+103. ccdc36 --> zc3hc1
+104. ccnd3 --> e130012a19rik
+105. ccnd3 --> etv4
+106. ccnd3 --> gpx4
+107. ccnd3 --> klf5
+108. ccnd3 --> laptm5
+109. ccnd3 --> midn
+110. ccnd3 --> mybl2
+111. ccnd3 --> pmvk
+112. ccnd3 --> tcea3
+113. ccnd3 --> tdh
+114. cct5 --> mrpl23
+115. cd63 --> tpd52
+116. cd63 --> ubald2
+117. cd9 --> asns
+118. cd9 --> flnb
+119. cd9 --> glrx5
+120. cd9 --> krt8
+121. cd9 --> lamc1
+122. cdc5l --> deb1
+123. cdc5l --> tex19.1
+124. cdkn2aip --> saal1
+125. cdv3 --> b3gnt7
+126. cenpa --> aurka
+127. cenpa --> cdc20
+128. chchd10 --> h2afx
+129. chchd10 --> tdh
+130. churc1 --> bcas2
+131. churc1 --> cdc20
+132. churc1 --> clic1
+133. churc1 --> echdc2
+134. churc1 --> ezh2
+135. churc1 --> fdft1
+136. churc1 --> nhp2
+137. churc1 --> tagln
+138. churc1 o-o tor4a
+139. col4a2 --> ube2l6
+140. cox7a2l --> ntan1
+141. ctbp2 --> tsc22d1
+142. ctnnal1 --> snx6
+143. ctnnal1 --> trim28
+144. ctnnal1 --> ube2s
+145. ctsd --> gpx3
+146. ctsd --> p4hb
+147. ctsd --> slc2a3
+148. ddt --> scd2
+149. ddx56 --> ndufa13
+150. dnmt3b --> exosc8
+151. dnmt3b --> h19
+152. dnmt3l --> rbmxl1
+153. dppa5a --> ass1
+154. dppa5a --> gm6083
+155. dppa5a --> mark3
+156. dppa5a --> mdh2
+157. dppa5a --> ndufa4
+158. dppa5a --> phc1
+159. dppa5a --> pim3
+160. dppa5a --> pou5f1
+161. dppa5a --> slirp
+162. dppa5a --> stmn2
+163. dppa5a --> tceb2
+164. dppa5a --> tex19.1
+165. dynll1 --> 1110008f13rik
+166. dynll1 --> emg1
+167. dynll1 --> tpi1
+168. e130012a19rik --> hmces
+169. e130012a19rik --> ubald2
+170. eed --> guca1a
+171. eif2s2 --> bex1
+172. eif2s2 --> calcoco2
+173. eif2s2 --> ckb
+174. eif2s2 --> csrp1
+175. eif2s2 --> d230025d16rik
+176. eif2s2 --> dnmt3b
+177. eif2s2 --> echdc2
+178. eif2s2 --> eid2
+179. eif2s2 --> eif4ebp1
+180. eif2s2 --> fabp5
+181. eif2s2 --> fam25c
+182. eif2s2 --> fgd1
+183. eif2s2 --> gadd45a
+184. eif2s2 --> klf4
+185. eif2s2 --> ldhb
+186. eif2s2 --> lrrc59
+187. eif2s2 --> ly6a
+188. eif2s2 --> mybl2
+189. eif2s2 --> psmd7
+190. eif2s2 --> rnf7
+191. eif2s2 --> sox2
+192. eif2s2 --> u2af1
+193. eif2s2 --> zfp296
+194. eif2s2 --> zfp42
+195. eif4ebp1 --> crip2
+196. eif4ebp1 --> mfge8
+197. elp5 --> cdkn2aip
+198. elp5 --> gm20594
+199. elp5 --> saal1
+200. elp5 --> zfp286
+201. erdr1 --> ndufb6
+202. erdr1 --> qars
+203. erdr1 --> tspan17
+204. erf --> dynll1
+205. esrrb --> gna11
+206. esrrb --> parvb
+207. etv4 --> itpk1
+208. etv4 --> utf1
+209. fabp5 --> cdc5l
+210. fam229b --> madd
+211. fam229b --> map4k5
+212. fam229b --> srgn
+213. fam229b --> tmem230
+214. fam25c <-> s100a6
+215. fem1b --> chchd4
+216. fem1b --> krt8
+217. fkbp1a --> 2810428i15rik
+218. fkbp4 --> akr1b3
+219. fkbp4 --> d11wsu47e
+220. fkbp4 --> hn1
+221. fkbp4 --> mrpl34
+222. fn1 --> igfbp2
+223. fn1 --> map4k5
+224. fscn1 --> ndufa4
+225. fth1 --> bri3
+226. fth1 --> bscl2
+227. fth1 --> calr
+228. fth1 --> cdc5l
+229. fth1 --> chmp4b
+230. fth1 --> ctsd
+231. fth1 --> dnmt3l
+232. fth1 --> gpx2
+233. fth1 --> htra1
+234. fth1 --> klf9
+235. fth1 --> lima1
+236. fth1 --> map4k5
+237. fth1 --> mfge8
+238. fth1 --> mrpl13
+239. fth1 --> ngfrap1
+240. fth1 --> ppa2
+241. fth1 --> rhox5
+242. fth1 --> scamp3
+243. fth1 --> snrpa1
+244. fth1 --> sparc
+245. fth1 --> trib3
+246. fth1 --> xpnpep1
+247. ftl1 --> 1110008f13rik
+248. ftl1 --> 2310036o22rik
+249. ftl1 --> 2410006h16rik
+250. ftl1 --> 2810403a07rik
+251. ftl1 --> actb
+252. ftl1 --> actg1
+253. ftl1 --> actn1
+254. ftl1 --> aes
+255. ftl1 --> ahsa1
+256. ftl1 --> arf1
+257. ftl1 --> arl6ip4
+258. ftl1 --> atf4
+259. ftl1 --> atf5
+260. ftl1 --> atp5j2
+261. ftl1 --> bex1
+262. ftl1 --> blvrb
+263. ftl1 --> bzw2
+264. ftl1 --> calm2
+265. ftl1 --> calu
+266. ftl1 --> cd9
+267. ftl1 --> cdk2ap1
+268. ftl1 --> cdkn1a
+269. ftl1 --> cep83
+270. ftl1 --> chchd10
+271. ftl1 --> clic4
+272. ftl1 --> clu
+273. ftl1 --> coq7
+274. ftl1 --> cox7a2l
+275. ftl1 --> creld2
+276. ftl1 --> cstb
+277. ftl1 --> ctsl
+278. ftl1 --> cyc1
+279. ftl1 --> dap
+280. ftl1 --> ddt
+281. ftl1 --> degs1
+282. ftl1 --> dppa5a
+283. ftl1 --> dstn
+284. ftl1 --> eif3c
+285. ftl1 --> eif3g
+286. ftl1 --> eif4ebp1
+287. ftl1 --> emc10
+288. ftl1 --> erdr1
+289. ftl1 --> esd
+290. ftl1 --> fabp3
+291. ftl1 --> fem1b
+292. ftl1 --> fkbp1a
+293. ftl1 --> fkbp4
+294. ftl1 --> fscn1
+295. ftl1 --> fth1
+296. ftl1 --> gng5
+297. ftl1 --> gpx4
+298. ftl1 --> grn
+299. ftl1 --> gtf2i
+300. ftl1 --> h2afz
+301. ftl1 --> hbegf
+302. ftl1 --> hmox1
+303. ftl1 --> hsp90b1
+304. ftl1 --> hspa5
+305. ftl1 --> hspb1
+306. ftl1 --> krtcap2
+307. ftl1 --> lamb1
+308. ftl1 --> lamc1
+309. ftl1 --> lgmn
+310. ftl1 --> lrrc59
+311. ftl1 --> ltbp4
+312. ftl1 --> malsu1
+313. ftl1 --> mea1
+314. ftl1 <-> meg3
+315. ftl1 --> mrpl12
+316. ftl1 --> mrpl43
+317. ftl1 --> mrpl53
+318. ftl1 --> msc
+319. ftl1 --> mt2
+320. ftl1 --> mthfd2
+321. ftl1 --> myod1
+322. ftl1 --> nacc1
+323. ftl1 --> ndufa13
+324. ftl1 --> ndufb11
+325. ftl1 --> nfyb
+326. ftl1 --> nme6
+327. ftl1 --> nr0b1
+328. ftl1 --> nxn
+329. ftl1 --> pcolce
+330. ftl1 --> pdlim1
+331. ftl1 --> pdlim7
+332. ftl1 --> pgk1
+333. ftl1 --> pih1d1
+334. ftl1 --> ppa1
+335. ftl1 --> prpsap1
+336. ftl1 --> psap
+337. ftl1 --> psmd6
+338. ftl1 --> qsox1
+339. ftl1 --> rabac1
+340. ftl1 --> rbfa
+341. ftl1 --> rheb
+342. ftl1 --> rpap1
+343. ftl1 --> sall4
+344. ftl1 --> samm50
+345. ftl1 --> sbk1
+346. ftl1 --> sec11c
+347. ftl1 --> serpinh1
+348. ftl1 --> siva1
+349. ftl1 --> slc3a2
+350. ftl1 --> slc6a8
+351. ftl1 --> snx6
+352. ftl1 --> sqstm1
+353. ftl1 --> srpk1
+354. ftl1 --> stx5a
+355. ftl1 --> surf4
+356. ftl1 --> tagln2
+357. ftl1 --> tbx3
+358. ftl1 --> tceb2
+359. ftl1 --> tex19.1
+360. ftl1 --> tpi1
+361. ftl1 --> tpx2
+362. ftl1 --> tra2b
+363. ftl1 --> trappc3
+364. ftl1 --> trim25
+365. ftl1 --> trim28
+366. ftl1 --> tsc22d1
+367. ftl1 --> tuba1a
+368. ftl1 --> tuba4a
+369. ftl1 --> tubb2b
+370. ftl1 --> txnrd1
+371. ftl1 --> ube2s
+372. ftl1 --> ube3b
+373. ftl1 --> uchl1
+374. ftl1 --> upp1
+375. ftl1 --> wars
+376. gabarapl2 --> aes
+377. glud1 --> gm7102
+378. glud1 --> kif15
+379. glud1 --> plec
+380. glul --> zic3
+381. gm10845 --> adamts13
+382. gm10845 --> calm2
+383. gm10845 --> calr
+384. gm10845 --> slc30a2
+385. gm20594 --> ldha
+386. gm6083 --> ddt
+387. gm6083 --> dynll1
+388. gm7102 --> dcdc2c
+389. gm7325 --> rnaseh2c
+390. gpx1 --> actl6a
+391. gpx1 --> atg101
+392. gpx1 --> ctsd
+393. gpx1 --> dnmt3b
+394. gpx1 --> lrpap1
+395. gpx1 --> marcksl1
+396. gpx1 --> mark3
+397. gpx1 --> mt2
+398. gpx1 --> ngfrap1
+399. gpx1 --> otx2
+400. gpx1 --> ulk1
+401. gpx4 --> crip1
+402. gpx4 --> id3
+403. gpx4 --> rasgrp2
+404. gpx4 --> wars
+405. guk1 --> fem1b
+406. h19 --> mrpl23
+407. h2afz --> acaa1b
+408. h2afz --> actl6a
+409. h2afz --> calm1
+410. h2afz --> dtd1
+411. h2afz --> exosc8
+412. h2afz --> mdh2
+413. h2afz --> ndrg4
+414. h2afz --> ocel1
+415. h2afz --> rad51
+416. h2afz --> tuba1a
+417. hist1h2ao --> dtd1
+418. hist1h2ao --> hist1h2ah
+419. hist1h2ao --> trim28
+420. hmces --> slc29a1
+421. hn1 --> gm20594
+422. hsp90aa1 --> acot13
+423. hsp90aa1 --> actb
+424. hsp90aa1 --> ahsa1
+425. hsp90aa1 --> aifm1
+426. hsp90aa1 --> apoe
+427. hsp90aa1 --> arpc1b
+428. hsp90aa1 --> cct5
+429. hsp90aa1 --> copb2
+430. hsp90aa1 --> ctnnal1
+431. hsp90aa1 --> dcun1d5
+432. hsp90aa1 --> dmkn
+433. hsp90aa1 --> dppa3
+434. hsp90aa1 --> dppa5a
+435. hsp90aa1 --> dusp9
+436. hsp90aa1 --> eif2s2
+437. hsp90aa1 --> eif4ebp1
+438. hsp90aa1 --> fkbp3
+439. hsp90aa1 --> ftl1
+440. hsp90aa1 --> gm10845
+441. hsp90aa1 --> gpx1
+442. hsp90aa1 --> gpx4
+443. hsp90aa1 --> hmces
+444. hsp90aa1 --> id2
+445. hsp90aa1 --> lgals1
+446. hsp90aa1 --> madd
+447. hsp90aa1 --> mars
+448. hsp90aa1 <-> meg3
+449. hsp90aa1 --> mylpf
+450. hsp90aa1 --> nlrp1a
+451. hsp90aa1 --> parvb
+452. hsp90aa1 --> pmm1
+453. hsp90aa1 --> psma2
+454. hsp90aa1 --> s100a6
+455. hsp90aa1 --> sfn
+456. hsp90aa1 --> slc25a5
+457. hsp90aa1 --> slc2a1
+458. hsp90aa1 --> slc2a3
+459. hsp90aa1 --> snf8
+460. hsp90aa1 --> socs2
+461. hsp90aa1 --> sort1
+462. hsp90b1 --> chmp4b
+463. hsp90b1 --> manf
+464. hsp90b1 --> pdia6
+465. hspa12b --> cep83
+466. hspa12b --> col4a2
+467. hspa12b --> kctd15
+468. hspa12b --> tbc1d16
+469. hspa12b --> ywhaq
+470. hspa5 --> cope
+471. hspa5 --> manf
+472. hspa5 --> pdia6
+473. hspb1 --> bc018473
+474. hspb1 --> dppa5a
+475. hspb1 --> fdft1
+476. hspb1 --> id1
+477. hspb1 --> lama1
+478. hspb1 --> midn
+479. hspb1 --> pfdn6
+480. hspb1 --> tcea3
+481. hspb1 --> tcf15
+482. hspb1 --> tyw1
+483. id1 --> mkrn1
+484. jarid2 --> sf3b5
+485. jarid2 --> smad4
+486. jarid2 --> tcf3
+487. kctd15 --> tbc1d16
+488. kif15 --> best2
+489. kpna2 --> h2afx
+490. laptm5 --> ass1
+491. ldha --> guk1
+492. lrrc59 --> fam129b
+493. madd --> 1500012f01rik
+494. madd --> fto
+495. madd --> hspa12b
+496. madd --> kctd15
+497. madd --> tbc1d16
+498. madd --> zic3
+499. malat1 --> 2200002d01rik
+500. malat1 --> aurka
+501. malat1 --> bc018473
+502. manf --> calu
+503. manf --> gtf2i
+504. manf --> smad4
+505. map4k5 --> erdr1
+506. map4k5 --> fto
+507. map4k5 --> hspa12b
+508. map4k5 --> madd
+509. map4k5 --> mif4gd
+510. map4k5 --> tmem230
+511. map4k5 --> ugp2
+512. marcksl1 --> aprt
+513. marcksl1 --> ccnd3
+514. marcksl1 --> wbp5
+515. mcm7 --> bhmt
+516. mcm7 --> eif3g
+517. mdh2 --> rabac1
+518. meg3 --> apoe
+519. meg3 --> rian
+520. mkrn1 --> cfdp1
+521. mkrn1 --> chchd3
+522. mkrn1 --> cks2
+523. mkrn1 --> cox7a2l
+524. mkrn1 --> d11wsu47e
+525. mkrn1 --> etv5
+526. mkrn1 --> med13l
+527. mkrn1 --> ppie
+528. mkrn1 --> siva1
+529. mkrn1 --> slc29a1
+530. mkrn1 --> socs2
+531. mkrn1 --> trmt1
+532. mkrn1 --> tsc22d1
+533. morf4l2 <-> actg1
+534. mrpl43 --> a630089n07rik
+535. mrpl43 --> abcd4
+536. mrpl43 --> atg101
+537. mrpl43 --> col18a1
+538. mrpl43 --> col4a1
+539. mrpl43 --> ctbp2
+540. mrpl43 --> ddx56
+541. mrpl43 --> guk1
+542. mrpl43 --> kpna2
+543. mrpl43 --> laptm5
+544. mrpl43 --> lincenc1
+545. mrpl43 --> lonp1
+546. mrpl43 --> pop5
+547. mrpl43 --> scd2
+548. mrpl43 --> serpinh1
+549. mrpl43 --> spns1
+550. mrpl43 --> tcl1
+551. msc --> fabp5
+552. mt1 --> klf2
+553. mt2 --> bloc1s1
+554. mt2 <-> malat1
+555. mt2 --> mt1
+556. mt2 --> set
+557. mt2 --> sf3b5
+558. mt2 --> top2a
+559. mt2 --> tsta3
+560. mybl2 --> asns
+561. mybl2 --> mkrn1
+562. mybl2 --> tcl1
+563. mylpf --> tceb2
+564. ngfrap1 --> anxa2
+565. ngfrap1 --> dhx16
+566. ngfrap1 --> tmsb4x
+567. ngfrap1 --> wbp5
+568. nhp2 --> 2810428i15rik
+569. nhp2 --> cdk2ap1
+570. nhp2 --> erdr1
+571. nhp2 --> fkbp4
+572. nhp2 --> glud1
+573. nhp2 --> mbd3
+574. nhp2 --> mrpl12
+575. nhp2 --> ppa1
+576. nhp2 --> prpf3
+577. nhp2 --> rnaseh2c
+578. nhp2 --> rrp7a
+579. nhp2 --> supt4a
+580. nhp2 --> ung
+581. nhp2 --> utf1
+582. nkain3 --> f830016b08rik
+583. nkain3 --> glud1
+584. nkain3 --> gm10845
+585. nkain3 --> gm6878
+586. nkain3 --> lrpap1
+587. nkain3 --> madd
+588. nkain3 --> malat1
+589. nkain3 --> med13l
+590. nkain3 --> nacc1
+591. nkain3 --> papd5
+592. nkain3 --> trim71
+593. nkain3 --> wtap
+594. nlrp1a --> 2410006h16rik
+595. nlrp1a --> a630089n07rik
+596. nlrp1a --> adamts13
+597. nlrp1a --> b3gnt7
+598. nlrp1a --> ccdc124
+599. nlrp1a --> ccne1
+600. nlrp1a --> ctbp2
+601. nlrp1a --> hmces
+602. nlrp1a --> jarid2
+603. nlrp1a --> lias
+604. nlrp1a --> mkrn1
+605. nlrp1a --> mthfd2
+606. nlrp1a --> mycn
+607. nlrp1a --> parp1
+608. nlrp1a --> phc1
+609. nlrp1a --> pmm1
+610. nlrp1a --> prpsap1
+611. nlrp1a --> sept12
+612. nlrp1a --> slc29a1
+613. nlrp1a --> stmn1
+614. nlrp1a --> syce2
+615. nlrp1a --> trim25
+616. nlrp1a --> tspan4
+617. nlrp1a --> ywhaq
+618. pbld1 --> apitd1
+619. pbld1 --> bcas2
+620. pbld1 --> bud31
+621. pbld1 --> ccdc36
+622. pbld1 --> ccne1
+623. pbld1 --> churc1
+624. pbld1 --> ctsh
+625. pbld1 --> etv4
+626. pbld1 --> exoc3l
+627. pbld1 --> gbx2
+628. pbld1 --> gorasp2
+629. pbld1 --> h2afz
+630. pbld1 --> ikbip
+631. pbld1 --> mars
+632. pbld1 --> mrpl43
+633. pbld1 --> pim3
+634. pbld1 --> plec
+635. pbld1 --> sort1
+636. pbld1 --> tor4a
+637. pbld1 --> tyw1
+638. pdia6 --> eif3g
+639. pdlim7 --> lgals1
+640. peg10 --> slc30a2
+641. pgk1 --> dusp1
+642. pgk1 --> ldha
+643. pgk1 --> mdh2
+644. pgk1 --> ppa1
+645. pgk1 --> s100a10
+646. pgk1 --> sparc
+647. pih1d1 --> fabp5
+648. plec --> ctsl
+649. plec --> peg10
+650. plec --> s100a10
+651. pmm1 --> rhox6
+652. pou5f1 --> 2700046a07rik
+653. pou5f1 --> akr1b3
+654. pou5f1 --> ccdc124
+655. pou5f1 --> ccdc22
+656. pou5f1 --> ccnd3
+657. pou5f1 --> cenpn
+658. pou5f1 --> eed
+659. pou5f1 --> fam129b
+660. pou5f1 --> mkrn1
+661. pou5f1 --> ndufb10
+662. pou5f1 --> nlrp1a
+663. pou5f1 --> pbld1
+664. pou5f1 --> polr2e
+665. pou5f1 --> ptcd2
+666. pou5f1 --> sap30
+667. pou5f1 --> sdhc
+668. pou5f1 --> set
+669. pou5f1 --> snf8
+670. pou5f1 --> supt4a
+671. pou5f1 --> tdgf1
+672. pou5f1 --> thoc3
+673. pou5f1 --> u2af1
+674. pou5f1 --> ugp2
+675. ppa1 --> 1110008f13rik
+676. ppa1 --> atp6v0e
+677. ppa1 --> cfdp1
+678. ppa1 --> sertad1
+679. psap --> col4a1
+680. psmd7 --> psmd6
+681. rnf7 --> asns
+682. romo1 o-> tuba4a
+683. s100a10 --> chmp4b
+684. s100a10 --> ctsd
+685. s100a10 --> flnb
+686. s100a10 --> krt18
+687. s100a10 --> med13l
+688. s100a10 --> pdlim7
+689. s100a10 --> tagln2
+690. s100a6 --> cd63
+691. s100a6 --> clu
+692. s100a6 --> col18a1
+693. s100a6 --> cstb
+694. s100a6 --> dnmt3l
+695. s100a6 --> esd
+696. s100a6 --> glud1
+697. s100a6 --> peg10
+698. s100a6 --> plec
+699. s100a6 --> s100a10
+700. sdhc --> elp5
+701. sdhc --> saal1
+702. sdhc --> zfp286
+703. set --> 2310036o22rik
+704. set --> asb13
+705. set --> bc018473
+706. set --> fkbp4
+707. set --> galk1
+708. set --> gna11
+709. set --> gng5
+710. set --> ikbip
+711. set --> kif15
+712. set --> polr2h
+713. set --> tuba1a
+714. set --> txnl1
+715. set --> ung
+716. sfn --> ccdc36
+717. sfn --> ccne1
+718. sfn --> id1
+719. sfn --> plec
+720. sfn o-> s100a6
+721. sfn --> slc29a1
+722. sfn --> sqstm1
+723. sfn --> srm
+724. sfn --> txnrd1
+725. slc25a4 o-> hsp90aa1
+726. slc29a1 --> mylpf
+727. slc29a1 --> rasgrp2
+728. slc29a1 --> set
+729. slc29a1 --> slc3a2
+730. slc29a1 --> tcf15
+731. slc29a1 --> tdh
+732. slc2a3 --> adamts13
+733. slc2a3 --> arl6ip1
+734. slc2a3 --> calr
+735. slc2a3 --> cd63
+736. slc2a3 --> d230025d16rik
+737. slc2a3 --> fabp3
+738. slc2a3 --> glipr2
+739. slc2a3 --> mycn
+740. slc2a3 --> nanog
+741. slirp --> itpk1
+742. smn1 --> eed
+743. sox2 --> mrpl23
+744. sox2 o-o zfp42
+745. sparc --> gpx1
+746. sparc --> morf4l2
+747. sparc --> ntan1
+748. sparc --> pdia6
+749. sparc --> rbm42
+750. sparc --> slc2a1
+751. sparc --> trp53
+752. sparc --> tyw1
+753. sqstm1 --> tubb6
+754. srm --> krtcap2
+755. srm --> smn1
+756. srpk1 --> dppa4
+757. srpk1 --> guk1
+758. stmn2 --> aes
+759. stmn2 --> ccnd3
+760. stmn2 --> epha2
+761. surf4 --> glipr2
+762. tagln2 --> slc29a1
+763. tbx3 --> eif2s2
+764. tceb2 --> cope
+765. tceb2 --> hs1bp3
+766. tceb2 --> manf
+767. tcl1 --> tra2b
+768. tdh --> 1700007k13rik
+769. tdh --> bcas2
+770. tdh --> erf
+771. tdh --> esrrb
+772. tdh --> gpx4
+773. tdh --> itpk1
+774. tdh --> ndufb11
+775. tdh --> psma2
+776. tex19.1 --> fcf1
+777. tex19.1 --> psmd7
+778. tex19.1 --> uchl1
+779. tmem230 --> ifitm1
+780. tmem230 --> srgn
+781. tmem230 --> txnrd1
+782. tmsb4x --> csrp1
+783. tmsb4x --> gsn
+784. tmsb4x --> hspb1
+785. tmsb4x --> s100a6
+786. tmsb4x --> sfn
+787. top2a --> kpna2
+788. top2a <-> malat1
+789. tor4a --> abcd4
+790. tor4a --> bcas2
+791. tor4a --> chchd4
+792. tor4a --> dcun1d5
+793. tor4a --> dym
+794. tor4a --> elp5
+795. tor4a --> exosc2
+796. tor4a --> fn1
+797. tor4a --> fto
+798. tor4a --> gtf3a
+799. tor4a --> hn1
+800. tor4a --> hspa12b
+801. tor4a --> mif4gd
+802. tor4a --> mrpl43
+803. tor4a --> ndufb6
+804. tor4a --> pecr
+805. tor4a --> thoc3
+806. tor4a --> tubb2b
+807. trim28 --> 1500012f01rik
+808. trim28 --> arf1
+809. trim28 --> asns
+810. trim28 --> ass1
+811. trim28 --> cbx3
+812. trim28 --> cct5
+813. trim28 --> cdc5l
+814. trim28 --> cdv3
+815. trim28 --> cfdp1
+816. trim28 --> col4a2
+817. trim28 --> cox10
+818. trim28 --> cyc1
+819. trim28 --> dhx16
+820. trim28 --> dppa2
+821. trim28 --> dppa4
+822. trim28 --> dynll1
+823. trim28 --> e130012a19rik
+824. trim28 --> eif2s2
+825. trim28 --> eif3c
+826. trim28 --> elof1
+827. trim28 --> emg1
+828. trim28 --> erf
+829. trim28 --> esrrb
+830. trim28 --> ezh2
+831. trim28 --> fam96b
+832. trim28 --> fbxo15
+833. trim28 --> fkbp3
+834. trim28 --> fn1
+835. trim28 --> fscn1
+836. trim28 --> fth1
+837. trim28 --> gabarapl2
+838. trim28 --> glul
+839. trim28 --> gm7325
+840. trim28 --> gpx1
+841. trim28 --> gstm1
+842. trim28 --> h2afx
+843. trim28 --> h2afz
+844. trim28 --> hspb1
+845. trim28 --> ifitm1
+846. trim28 --> klf2
+847. trim28 --> klf4
+848. trim28 --> lama1
+849. trim28 --> marcksl1
+850. trim28 --> mbd3
+851. trim28 --> mcm7
+852. trim28 --> mt2
+853. trim28 --> mybl2
+854. trim28 --> nanog
+855. trim28 --> nhp2
+856. trim28 --> nlrp1a
+857. trim28 --> parp1
+858. trim28 --> pdgfa
+859. trim28 --> pfdn2
+860. trim28 --> pgk1
+861. trim28 --> pkig
+862. trim28 --> polr2e
+863. trim28 --> pou5f1
+864. trim28 --> psap
+865. trim28 --> psma2
+866. trim28 --> psmd11
+867. trim28 --> psmd7
+868. trim28 --> ptov1
+869. trim28 --> qars
+870. trim28 --> qdpr
+871. trim28 --> rbm42
+872. trim28 --> rbmxl1
+873. trim28 --> rnf7
+874. trim28 --> rpl39l
+875. trim28 --> rwdd1
+876. trim28 --> sall4
+877. trim28 --> sgk1
+878. trim28 --> slc25a5
+879. trim28 --> slc2a3
+880. trim28 --> smn1
+881. trim28 --> sohlh2
+882. trim28 --> sox2
+883. trim28 --> sprr2b
+884. trim28 --> srm
+885. trim28 --> srrd
+886. trim28 --> stmn1
+887. trim28 --> stra13
+888. trim28 --> tbx3
+889. trim28 --> tcf3
+890. trim28 --> tdgf1
+891. trim28 --> tdh
+892. trim28 --> top2a
+893. trim28 --> tpd52
+894. trim28 --> trim71
+895. trim28 --> trp53
+896. trim28 --> tubb3
+897. trim28 --> txnl1
+898. trim28 --> tyw1
+899. trim28 --> ubald2
+900. trim28 --> ulk1
+901. trim28 --> utf1
+902. trim28 --> wtap
+903. trim28 --> xpnpep1
+904. trim28 --> xrcc1
+905. trim28 --> zc3hc1
+906. trim28 --> zfp42
+907. trim71 --> dnmt3l
+908. trim71 --> e130012a19rik
+909. trim71 --> sbk1
+910. tsc22d1 --> lrrc59
+911. tsc22d1 --> vim
+912. tuba1a <-> actg1
+913. tuba1a --> atp5j2
+914. tuba1a --> fgd1
+915. tuba1a --> imp3
+916. tuba1a --> mcm7
+917. tuba1a --> med10
+918. tuba1a --> morf4l2
+919. tuba1a --> mrpl14
+920. tuba1a --> ndufb10
+921. tuba1a --> pfdn2
+922. tuba1a --> pkp2
+923. tuba1a --> polr2h
+924. tuba1a --> slc25a5
+925. tuba1a --> snrpa1
+926. tubb6 --> lmna
+927. txnl1 --> 1700007k13rik
+928. tyw1 --> akr1b3
+929. tyw1 --> atp6v0d1
+930. tyw1 --> churc1
+931. tyw1 --> copb2
+932. tyw1 --> fam229b
+933. tyw1 --> glul
+934. tyw1 --> hap1
+935. tyw1 --> mcm7
+936. tyw1 --> mrpl13
+937. tyw1 --> nlrp1a
+938. tyw1 --> pfdn6
+939. tyw1 --> sall4
+940. tyw1 --> samm50
+941. tyw1 --> srpk1
+942. tyw1 --> stmn2
+943. tyw1 --> timm8b
+944. tyw1 --> tor4a
+945. ubald2 --> cenpa
+946. ube2s --> arl6ip1
+947. ube2s --> cenpa
+948. ube2s --> cks2
+949. ube2s --> etv5
+950. ube2s --> sqstm1
+951. ube2s o-> trim28
+952. ulk1 --> dppa3
+953. ulk1 --> nkain3
+954. utf1 --> fkbp1a
+955. utf1 --> ltbp4
+956. utf1 --> mkrn1
+957. utf1 --> mrpl34
+958. utf1 --> papd5
+959. xrcc1 --> thoc3
+960. ywhaq --> aprt
+961. ywhaq --> asb6
+962. ywhaq --> bloc1s1
+963. ywhaq --> nhp2
+964. ywhaq --> rwdd1
+965. ywhaq --> slirp
+966. zfp286 --> cdkn2aip
+967. zfp286 --> gm20594
+968. zfp42 --> atp5j2
+969. zfp42 --> cd9
+970. zfp42 --> cdc5l
+971. zfp42 --> dppa5a
+972. zfp42 --> grn
+973. zfp42 --> jarid2
+974. zfp42 --> nanog
+975. zfp42 --> otx2
+976. zfp42 --> rpl10l
+
+
