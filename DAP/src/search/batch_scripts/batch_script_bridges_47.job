@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -p RM
+#SBATCH -t 5:00:00
+# echo commands to stdout 
+set -x
+
+# move to working directory
+cd /pylon1/bi4s84p/esilver
+
+# copy input file to working directory
+cp /pylon2/bi4s84p/esilver/knowledge_tetrad_format_subset.txt .
+cp /pylon2/bi4s84p/esilver/cor_skeptic_subset_with_header.txt .
+cp /pylon2/bi4s84p/esilver/cor_pearson_subset_with_header.txt .
+cp /pylon2/bi4s84p/esilver/cor_pearson_with_header.txt .
+cp /pylon2/bi4s84p/esilver/tetrad-lib-5.3.0-SNAPSHOT-tetradcmd.jar .
+
+# run Java program
+module load java
+java -Xmx128G -jar tetrad-lib-5.3.0-SNAPSHOT-tetradcmd.jar -algorithm pc.stable -covariance cor_pearson_subset_with_header.txt -datatype continuous -depth 3 -knowledge knowledge_tetrad_format_subset.txt -significance 0.00001 -verbose > pearson_pcstable_with_knowledge_bridges_depth_3_sig_0.00001.txt
+
+# copy output file to permanent space
+cp pearson_pcstable_with_knowledge_bridges_depth_3_sig_0.00001.txt /pylon2/bi4s84p/esilver
+

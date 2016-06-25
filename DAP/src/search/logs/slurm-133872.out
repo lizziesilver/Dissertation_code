@@ -1,0 +1,23 @@
++ cd /pylon1/bi4s84p/esilver
++ cp /pylon2/bi4s84p/esilver/knowledge_tetrad_format_subset.txt .
++ cp /pylon2/bi4s84p/esilver/cor_skeptic_subset_with_header.txt .
++ cp /pylon2/bi4s84p/esilver/cor_pearson_subset_with_header.txt .
++ cp /pylon2/bi4s84p/esilver/cor_pearson_with_header.txt .
++ cp /pylon2/bi4s84p/esilver/tetrad-lib-5.3.0-SNAPSHOT-tetradcmd.jar .
++ module load java
+++ /usr/bin/modulecmd bash load java
++ eval JAVA_HOME=/opt/packages/java/jdk1.8.0_73 ';export' 'JAVA_HOME;JRE_HOME=/opt/packages/java/jdk1.8.0_73/jre' ';export' 'JRE_HOME;LOADEDMODULES=psc_path/1.0:slurm/15.08.8:zlib/1.2.8:icc/16.0.2:java/jdk8u73' ';export' 'LOADEDMODULES;PATH=/opt/packages/java/jdk1.8.0_73/jre/bin:/opt/packages/java/jdk1.8.0_73/bin:/usr/lib64/qt-3.3/bin:/opt/packages/intel/compilers_and_libraries/linux//bin/intel64/:/opt/packages/intel/compilers_and_libraries_2016.2.181/linux/mpi/intel64/bin:/opt/packages/slurm/15.08.8/bin:/usr/lib64/ccache:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/puppetlabs/puppet/bin:/opt/packages/slash2/psc/sbin:/opt/packages/allocations:/opt/packages/interact/bin:/opt/puppetlabs/bin:/home/esilver/.local/bin:/home/esilver/bin' ';export' 'PATH;_LMFILES_=/opt/modulefiles/psc_path/1.0:/opt/modulefiles/slurm/15.08.8:/opt/modulefiles/zlib/1.2.8:/opt/modulefiles/icc/16.0.2:/opt/modulefiles/java/jdk8u73' ';export' '_LMFILES_;'
+++ JAVA_HOME=/opt/packages/java/jdk1.8.0_73
+++ export JAVA_HOME
+++ JRE_HOME=/opt/packages/java/jdk1.8.0_73/jre
+++ export JRE_HOME
+++ LOADEDMODULES=psc_path/1.0:slurm/15.08.8:zlib/1.2.8:icc/16.0.2:java/jdk8u73
+++ export LOADEDMODULES
+++ PATH=/opt/packages/java/jdk1.8.0_73/jre/bin:/opt/packages/java/jdk1.8.0_73/bin:/usr/lib64/qt-3.3/bin:/opt/packages/intel/compilers_and_libraries/linux//bin/intel64/:/opt/packages/intel/compilers_and_libraries_2016.2.181/linux/mpi/intel64/bin:/opt/packages/slurm/15.08.8/bin:/usr/lib64/ccache:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/puppetlabs/puppet/bin:/opt/packages/slash2/psc/sbin:/opt/packages/allocations:/opt/packages/interact/bin:/opt/puppetlabs/bin:/home/esilver/.local/bin:/home/esilver/bin
+++ export PATH
+++ _LMFILES_=/opt/modulefiles/psc_path/1.0:/opt/modulefiles/slurm/15.08.8:/opt/modulefiles/zlib/1.2.8:/opt/modulefiles/icc/16.0.2:/opt/modulefiles/java/jdk8u73
+++ export _LMFILES_
++ java -Xmx128G -jar tetrad-lib-5.3.0-SNAPSHOT-tetradcmd.jar -algorithm pc.stable -covariance cor_pearson_subset_with_header.txt -datatype continuous -depth 3 -knowledge knowledge_tetrad_format_subset.txt -significance 0.01 -verbose
+May 22, 2016 2:49:04 PM java.util.prefs.FileSystemPreferences$6 run
+WARNING: Prefs file removed in background /home/esilver/.java/.userPrefs/prefs.xml
++ cp pearson_pcstable_with_knowledge_bridges_depth_3_sig_0.01.txt /pylon2/bi4s84p/esilver
