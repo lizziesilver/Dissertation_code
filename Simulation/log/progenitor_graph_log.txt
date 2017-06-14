@@ -1,6 +1,0 @@
-"progenitor_graph_id","sim_run_id","num_nodes","prob_edges","num_edges"
-1,1,6,0.4,7
-2,2,6,0.4,5
-3,3,6,0.4,4
-4,4,6,0.4,6
-5,5,6,0.4,8

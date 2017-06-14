@@ -1,5 +1,0 @@
-Rscript gold_standards.R "$1"
-Rscript list_of_tfs.R "$1"
-Rscript gene_subset.R "$1"
-Rscript expression_data.R "$1"
-Rscript knowledge_file.R "$1"
