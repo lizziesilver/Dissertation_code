@@ -1,0 +1,27 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -p RM
+#SBATCH -t 48:00:00
+# echo commands to stdout 
+set -x
+
+# move to working directory
+cd /pylon5/bi4s84p/esilver
+
+# copy input files to working directory
+cp /pylon2/bi4s84p/esilver/tetrad-lib-6.2.0-tetradcmd.jar .
+cp /pylon2/bi4s84p/esilver/ecoli_express_1.txt .
+cp /pylon2/bi4s84p/esilver/ecoli_express_2.txt .
+cp /pylon2/bi4s84p/esilver/senterica_express.txt .
+
+# run Java program
+
+module load java
+
+time java -Xmx128G -jar tetrad-lib-6.2.0-tetradcmd.jar -algorithm gest -dataList ecoli_express_1.txt,ecoli_express_2.txt,senterica_express.txt -datatype continuous -graphtxt real_data -transferPenaltyArray 3 -penaltydiscount 2 -faithfulnessAssumedArray true -bumpMinTransferArray true -weightTransferBySampleArray false
+
+# copy output files to permanent space
+cp real_data_0.txt /pylon2/bi4s84p/esilver
+cp real_data_1.txt /pylon2/bi4s84p/esilver
+cp real_data_2.txt /pylon2/bi4s84p/esilver
+
